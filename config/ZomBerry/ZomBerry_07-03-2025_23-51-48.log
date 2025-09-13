@@ -1,0 +1,64 @@
+---------------------------------------------
+ZomBerry v0.6.4 log started at 07.03.2025 23:51:48
+
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added category OnTarget
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function TPCur to category OnTarget
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function TPForward to category OnTarget
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function TPToTarget to category OnTarget
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function TPToAdmin to category OnTarget
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function HealTarget to category OnTarget
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function HealTargetPart to category OnTarget
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function GodTarget to category OnTarget
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function RepairTargetHands to category OnTarget
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function RefuelAndRepair to category OnTarget
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added category ==
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function KillTarget to category ==
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function BiteTarget to category ==
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function StripTarget to category ==
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function RejectBellyTarget to category ==
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function PsycoTarget to category ==
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function SneezeTarget to category ==
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function SetHealthTarget to category ==
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function SetBloodTarget to category ==
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added category OnServer
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function FreeCamAdm to category OnServer
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function TimeDay to category OnServer
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function TimeNight to category OnServer
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function SetTime to category OnServer
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function SetDate to category OnServer
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function SetWeather to category OnServer
+07.03.2025 23:51:48 [ZomBerryCmdAPI]: INFO: Added function DeleteObj to category OnServer
+07.03.2025 23:51:48 [ZomBerryConfig]: INFO: Using admins.cfg from Profile directory
+07.03.2025 23:51:48 [ZomBerryDbg]: Server ready, loading admin list from: $profile:ZomBerry\admins.cfg
+07.03.2025 23:51:48 [ZomBerryConfig]: admins.cfg loaded
+07.03.2025 23:51:48 [ZomBerryConfig]: Added admin: 76561199205606578
+07.03.2025 23:54:55 [ZomBerryDbg]: Auth respond to admin Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=)
+07.03.2025 23:55:09 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - player list sync
+07.03.2025 23:55:09 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - function list sync
+07.03.2025 23:55:23 [ZomBerryAdmin]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) teleported to position <6566.133789, 6.000000, 2437.436768>
+07.03.2025 23:56:14 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - player list sync
+07.03.2025 23:56:14 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - function list sync
+07.03.2025 23:56:28 [ZomBerryAdmin]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) teleported to position <6571.094727, 7.177035, 2324.884766>
+07.03.2025 23:56:46 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - player list sync
+07.03.2025 23:56:46 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - function list sync
+07.03.2025 23:56:50 [ZomBerryAdmin]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) executed TPCur
+07.03.2025 23:56:52 [ZomBerryAdmin]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) executed TPCur
+07.03.2025 23:56:53 [ZomBerryAdmin]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) executed TPCur
+07.03.2025 23:56:53 [ZomBerryAdmin]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) executed TPCur
+07.03.2025 23:56:54 [ZomBerryAdmin]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) executed TPCur
+07.03.2025 23:56:56 [ZomBerryAdmin]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) executed TPCur
+07.03.2025 23:56:56 [ZomBerryAdmin]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) executed TPCur
+07.03.2025 23:57:09 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - player list sync
+07.03.2025 23:57:09 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - function list sync
+07.03.2025 23:57:13 [ZomBerryAdmin]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) executed FreeCamAdm
+07.03.2025 23:57:27 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - player list sync
+07.03.2025 23:57:27 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - function list sync
+07.03.2025 23:57:29 [ZomBerryAdmin]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) executed TPCur
+07.03.2025 23:57:34 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - player list sync
+07.03.2025 23:57:34 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - function list sync
+07.03.2025 23:57:37 [ZomBerryAdmin]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) executed FreeCamAdm
+07.03.2025 23:57:37 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - player list sync
+07.03.2025 23:57:37 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - function list sync
+07.03.2025 23:57:59 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - player list sync
+07.03.2025 23:57:59 [ZomBerryDbg]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) - function list sync
+07.03.2025 23:58:00 [ZomBerryAdmin]: Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) executed FreeCamAdm

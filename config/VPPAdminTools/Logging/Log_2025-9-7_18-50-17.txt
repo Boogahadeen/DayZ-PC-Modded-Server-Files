@@ -1,0 +1,145 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-9-7_18-50-17
+====================================================================================
+18:50:17 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+18:50:17 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+18:50:17 | [PermissionManager] Perm (FreeCamera) has been registered!
+18:50:17 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuItemManager) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuServerManager) has been registered!
+18:50:17 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+18:50:17 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+18:50:17 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+18:50:17 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+18:50:17 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+18:50:17 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+18:50:17 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+18:50:17 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+18:50:17 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+18:50:17 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+18:50:17 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+18:50:17 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+18:50:17 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+18:50:17 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+18:50:17 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+18:50:17 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+18:50:17 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+18:50:17 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuBansManager) has been registered!
+18:50:17 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+18:50:17 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+18:50:17 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+18:50:17 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+18:50:17 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+18:50:17 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+18:50:17 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+18:50:17 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+18:50:17 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+18:50:17 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+18:50:17 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+18:50:17 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+18:50:17 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+18:50:17 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+18:50:17 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+18:50:17 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+18:50:17 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+18:50:17 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+18:50:17 | [PermissionManager] Adding Super Admin (76561199205606578)
+18:50:17 | [PermissionManager] Adding Super Admin (76561199569546626)
+18:50:17 | [PermissionManager] Loaded UserGroups.json
+18:50:17 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+18:50:17 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+18:50:17 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+18:50:17 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+18:50:17 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+18:50:17 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+18:50:17 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+18:50:17 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+18:50:17 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+18:50:17 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+18:50:17 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+18:50:17 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+18:50:17 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+18:50:17 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+18:50:17 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+18:50:17 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+18:50:17 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+18:50:17 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+18:50:17 | Building Sets Loaded: 1
+18:50:17 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+18:50:17 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+18:54:30 | Player "Boogahadeen" (steamId=76561199205606578) connected to server!
+18:57:2 | "Boogahadeen" (steamid=76561199205606578) gave godmode to (steamid=76561199205606578)
+18:57:4 | "Boogahadeen" (steamid=76561199205606578) gave unlimited ammo to (steamid=76561199205606578)
+18:57:50 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (UAZ_Patrot_Pikap_camo_green)
+19:5:14 | "Boogahadeen" (steamid=76561199205606578) deleted object "BaseRadio" (pos=<4388.976563, 338.934723, 10101.547852>)
+19:13:12 | "Boogahadeen" (steamid=76561199205606578) deleted object "UAZ_Patrot_Pikap_doors_cargo1_camo_green" (pos=<4236.753418, 339.800720, 10987.402344>)
+19:13:17 | "Boogahadeen" (steamid=76561199205606578) deleted object "UAZ_Patrot_Pikap_camo_green" (pos=<4237.250000, 338.713379, 10986.506836>)
+19:14:40 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (BTR_80_camo)
+19:17:22 | "Boogahadeen" (steamid=76561199205606578) deleted object "BTR_80_camo" (pos=<4399.712402, 339.060394, 10687.638672>)
+19:28:19 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (Hatchback_02_BanditKitty)
+19:29:36 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (Hatchback_02_Trunk_BanditKitty)
+19:29:39 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (Hatchback_02_Hood_BanditKitty)
+19:31:13 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (Hatchback_02_Door_1_1_BanditKitty)
+19:31:14 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (Hatchback_02_Door_1_2_BanditKitty)
+19:31:16 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (Hatchback_02_Door_2_1_BanditKitty)
+19:31:16 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (Hatchback_02_Door_2_2_BanditKitty)
+19:53:53 | "Boogahadeen" (steamid=76561199205606578) deleted object "Hatchback_02_Trunk" (pos=<4406.551758, 339.714386, 10706.381836>)
+19:53:55 | "Boogahadeen" (steamid=76561199205606578) deleted object "Hatchback_02_Door_1_1" (pos=<4403.555176, 339.287170, 10707.650391>)
+19:53:57 | "Boogahadeen" (steamid=76561199205606578) deleted object "Hatchback_02_Door_1_2" (pos=<4403.290039, 339.287170, 10708.045898>)
+19:53:59 | "Boogahadeen" (steamid=76561199205606578) deleted object "Hatchback_02_Wheel" (pos=<4406.754395, 339.838379, 10708.698242>)
+19:54:1 | "Boogahadeen" (steamid=76561199205606578) deleted object "Hatchback_02_BanditKitty" (pos=<4407.061523, 339.043549, 10710.179688>)
+19:54:4 | "Boogahadeen" (steamid=76561199205606578) deleted object "Hatchback_02_Door_2_2" (pos=<4411.298828, 339.279022, 10708.208984>)
+19:54:7 | "Boogahadeen" (steamid=76561199205606578) deleted object "Hatchback_02_Door_2_1" (pos=<4412.065430, 339.278290, 10711.807617>)
+19:54:10 | "Boogahadeen" (steamid=76561199205606578) deleted object "Hatchback_02_Hood" (pos=<4407.276855, 339.195923, 10714.266602>)
+19:54:16 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (ExpansionSpraycanBanditKitty)
+19:56:15 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (OffroadHatchback)
+19:56:30 | "Boogahadeen" (steamid=76561199205606578) deleted object "OffroadHatchback" (pos=<4405.265625, 339.040833, 10704.884766>)
+19:56:41 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (Hatchback_02)
+19:57:28 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (DogNemysPaint)
+19:57:52 | "Boogahadeen" (steamid=76561199205606578) deleted object "DogNemysPaint" (pos=<4402.424316, 339.008362, 10704.875977>)
+19:58:2 | "Boogahadeen" (steamid=76561199205606578) deleted object "Hatchback_02" (pos=<4405.152832, 339.043549, 10704.502930>)
+20:35:40 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (CJ_MilBattery_Black)
+20:37:9 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (Battery9V)
+20:37:10 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (Battery9V)
+20:37:10 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (Battery9V)
+20:40:13 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (CJ_NVG_ANPVS7)
+20:40:14 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (CJ_NVG_ANPVS14)
+20:40:15 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (CJ_NVG_BCNVG21)
+20:40:15 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (CJ_NVG_ANPVS23)
+20:40:16 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (CJ_NVG_GPNVG18_Black)
+20:43:19 | Player "Boogahadeen" (steamId=76561199205606578) initiated disconnect process...

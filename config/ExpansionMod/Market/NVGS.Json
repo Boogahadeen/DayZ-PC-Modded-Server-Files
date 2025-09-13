@@ -7,62 +7,7 @@
   "InitStockPercent": 75,
   "Items": [
     {
-      "ClassName": "CJ_MilBattery_Black",
-      "MaxPriceThreshold": 2000,
-      "MinPriceThreshold": 2000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 100,
-      "MinStockThreshold": 100,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "CJ_MilBattery_Green",
-      "MaxPriceThreshold": 2000,
-      "MinPriceThreshold": 2000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 100,
-      "MinStockThreshold": 100,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "CJ_MilBattery_Tan",
-      "MaxPriceThreshold": 2000,
-      "MinPriceThreshold": 2000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 100,
-      "MinStockThreshold": 100,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "CJ_NVG_TIG7",
-      "MaxPriceThreshold": 15000,
-      "MinPriceThreshold": 15000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 10,
-      "MinStockThreshold": 10,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "CJ_NVG_ANPVS7",
-      "MaxPriceThreshold": 16000,
-      "MinPriceThreshold": 16000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 10,
-      "MinStockThreshold": 10,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "CJ_NVG_ANPVS14",
+      "ClassName": "mmg_gp_nvg_black",
       "MaxPriceThreshold": 17500,
       "MinPriceThreshold": 17500,
       "SellPricePercent": -1,
@@ -73,9 +18,9 @@
       "Variants": []
     },
     {
-      "ClassName": "CJ_NVG_BCNVG21",
-      "MaxPriceThreshold": 16500,
-      "MinPriceThreshold": 16500,
+      "ClassName": "mmg_gp_nvg_tan",
+      "MaxPriceThreshold": 17500,
+      "MinPriceThreshold": 17500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 10,
       "MinStockThreshold": 10,
@@ -84,9 +29,9 @@
       "Variants": []
     },
     {
-      "ClassName": "CJ_NVG_ANPVS23",
-      "MaxPriceThreshold": 18000,
-      "MinPriceThreshold": 18000,
+      "ClassName": "mmg_gp_nvg_green",
+      "MaxPriceThreshold": 17500,
+      "MinPriceThreshold": 17500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 10,
       "MinStockThreshold": 10,
@@ -95,42 +40,9 @@
       "Variants": []
     },
     {
-      "ClassName": "CJ_NVG_GPNVG18_Black",
-      "MaxPriceThreshold": 17000,
-      "MinPriceThreshold": 17000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 10,
-      "MinStockThreshold": 10,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "CJ_NVG_GPNVG18_Green",
-      "MaxPriceThreshold": 17000,
-      "MinPriceThreshold": 17000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 10,
-      "MinStockThreshold": 10,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "CJ_NVG_GPNVG18_Tan",
-      "MaxPriceThreshold": 17000,
-      "MinPriceThreshold": 17000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 10,
-      "MinStockThreshold": 10,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "CJ_NVG_GPNVG18_White",
-      "MaxPriceThreshold": 17000,
-      "MinPriceThreshold": 17000,
+      "ClassName": "mmg_gp_nvg_grey",
+      "MaxPriceThreshold": 17500,
+      "MinPriceThreshold": 17500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 10,
       "MinStockThreshold": 10,

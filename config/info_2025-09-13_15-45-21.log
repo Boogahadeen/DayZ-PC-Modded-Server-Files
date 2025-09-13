@@ -1,0 +1,22 @@
+---------------------------------------------
+Log info_2025-09-13_15-45-21.log started at 2025-09-13 15:48:04
+
+
+
+------------------------------------
+BOOGAHADEEN, 2025-09-13 15:48:04
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:43440 (owner ExpansionQuestNPCAIDenis<f6796010>) - MagazineRepair - BAREM_CLO_BUF_MA0<dcbe2f00> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268

@@ -343,7 +343,7 @@
             "dna_Facewear": "MilitaryGear_Balaclava3_Splinter",
             "dna_Eyewear": "",
             "dna_Armband": "",
-            "dna_NVG": "CJ_NVG_ANPVS23"
+            "dna_NVG": "mmg_gp_nvg_black"
         },
         {
             "dna_Tier": "purple",
@@ -358,7 +358,7 @@
             "dna_Facewear": "MilitaryGear_Balaclava3_MPAT",
             "dna_Eyewear": "",
             "dna_Armband": "",
-            "dna_NVG": "CJ_NVG_GPNVG18_Black"
+            "dna_NVG": "mmg_gp_nvg_tan"
         },
         {
             "dna_Tier": "red",
@@ -373,7 +373,7 @@
             "dna_Facewear": "MilitaryGear_Balaclava3Skull_CADPAT",
             "dna_Eyewear": "",
             "dna_Armband": "",
-            "dna_NVG": "CJ_NVG_GPNVG18_Green"
+            "dna_NVG": "mmg_gp_nvg_green"
         },
         {
             "dna_Tier": "red",
@@ -388,7 +388,7 @@
             "dna_Facewear": "MilitaryGear_Balaclava3Skull_Duckhunter",
             "dna_Eyewear": "",
             "dna_Armband": "",
-            "dna_NVG": "CJ_NVG_ANPVS14"
+            "dna_NVG": "mmg_gp_nvg_black"
         },
         {
             "dna_Tier": "red",
@@ -403,7 +403,7 @@
             "dna_Facewear": "MilitaryGear_Balaclava3Skull_Tiger",
             "dna_Eyewear": "",
             "dna_Armband": "",
-            "dna_NVG": "CJ_NVG_BCNVG21"
+            "dna_NVG": "mmg_gp_nvg_black"
         },
         {
             "dna_Tier": "red",
@@ -418,7 +418,7 @@
             "dna_Facewear": "MilitaryGear_Balaclava3Skull_Multicam",
             "dna_Eyewear": "",
             "dna_Armband": "",
-            "dna_NVG": "CJ_NVG_ANPVS7"
+            "dna_NVG": "mmg_gp_nvg_black"
         },
         {
             "dna_Tier": "red",
@@ -433,7 +433,7 @@
             "dna_Facewear": "MilitaryGear_Balaclava3Skull_ATACS",
             "dna_Eyewear": "",
             "dna_Armband": "",
-            "dna_NVG": "CJ_NVG_TIG7"
+            "dna_NVG": "mmg_gp_nvg_green"
         },
         {
             "dna_Tier": "red",
@@ -448,7 +448,7 @@
             "dna_Facewear": "MilitaryGear_Balaclava3Skull_Tropic",
             "dna_Eyewear": "",
             "dna_Armband": "",
-            "dna_NVG": "CJ_NVG_GPNVG18_White"
+            "dna_NVG": "mmg_gp_nvg_green"
         }
   ]
 }
