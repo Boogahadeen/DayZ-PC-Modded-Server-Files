@@ -1,0 +1,2230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+	
+	<type name="NVGoggles">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+        	<item name="Battery9V" chance="1.00" />
+        </attachments>
+	</type>
+	<type name="NVGHeadstrap">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Mich2001Helmet">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+	</type>
+	
+    <type name="FishingRod">
+        <attachments chance="0.35">
+            <item name="Hook" chance="0.75" />
+            <item name="Jig" chance="0.25" />
+        </attachments>
+    </type>    
+    
+	<type name="FirstAidKit">
+		<tag name="shelves" />
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="0.8">
+			<item name="Thermometer" />
+		</cargo>
+		<cargo chance="0.8">
+			<item name="StartKitIV" />
+		</cargo>
+		<cargo chance="0.8">
+			<item name="BloodBagEmpty" />
+		</cargo>
+		<cargo chance="0.8">
+			<item name="BloodTestKit" />
+		</cargo>
+	</type>
+	
+	<!--START OF ZOMBIES  -->
+	<!--NBC-->
+	<type name="ZmbM_NBC_Grey">
+		<cargo preset="ContaminatedCargo" />
+		<cargo preset="PokemonCards" />
+		<cargo chance="1.0">
+			<item name="AntiChemInjector" chance="0.7" />
+		</cargo>
+	</type>
+	<type name="ZmbM_NBC_Yellow">
+		<cargo preset="ContaminatedCargo" />
+		<cargo preset="PokemonCards" />
+		<cargo chance="1.0">
+			<item name="AntiChemInjector" chance="0.7" />
+		</cargo>
+	</type>
+	<type name="ZmbM_NBC_White">
+		<cargo preset="ContaminatedCargo" />
+		<cargo preset="PokemonCards" />
+		<cargo chance="1.0">
+			<item name="AntiChemInjector" chance="0.7" />
+		</cargo>
+	</type>
+	<!--ARMY-->
+	<type name="ZmbM_PatrolNormal_Autumn">
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="glassesArmy" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+	</type>		
+	<type name="ZmbM_PatrolNormal_Flat">
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="glassesArmy" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+	</type>
+	<type name="ZmbM_PatrolNormal_PautRev">
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="glassesArmy" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+	</type>
+	<type name="ZmbM_PatrolNormal_Summer">
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="glassesArmy" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+	</type>
+	<type name="ZmbM_SoldierNormal">
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="glassesArmy" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+	</type>
+	<type name="ZmbM_usSoldier_Officer_Convoy">
+		<attachments chance="1.00">
+			<item name="MedicalScrubsHat_Green" chance="1.0" />
+		</attachments>
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="ZmbM_usSoldier_Officer_Desert">
+		<cargo preset="mixArmy" />
+		<cargo preset="grenades" />		
+		<attachments preset="OfficerHatArmy" />
+	</type>
+	<type name="ZmbM_usSoldier_Heavy_Woodland">
+		<cargo preset="mixArmy" />
+		<cargo preset="grenades" />		
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+	</type>
+    <type name="ZmbM_usSoldier_normal_Desert">
+        <cargo preset="mixArmy" />
+        <cargo preset="ammoArmy" />
+        <attachments preset="bagsArmy" />
+        <attachments preset="vestsArmy" />
+    </type>
+    <type name="ZmbM_usSoldier_normal_Woodland">
+        <cargo preset="mixArmy" />
+        <cargo preset="ammoArmy" />
+        <attachments preset="bagsArmy" />
+        <attachments preset="vestsArmy" />
+    </type>
+	
+	<!--City-->
+	<type name="ZmbF_Clerk_Normal_Blue">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+	</type>
+	<type name="ZmbF_Clerk_Normal_Green">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+	</type>
+	<type name="ZmbF_Clerk_Normal_Red">
+		<cargo preset="foodZombies3" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+	</type>
+	<type name="ZmbF_Clerk_Normal_White">
+		<cargo preset="foodZombies4" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+	</type>
+	<type name="ZmbF_CitizenANormal_Beige">
+		<cargo preset="foodZombies5" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_CitizenANormal_Blue">
+		<cargo preset="foodZombies6" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_CitizenANormal_Brown">
+		<cargo preset="foodZombies7" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbF_CitizenBSkinny">
+		<cargo preset="foodZombies8" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_JournalistNormal_Blue">
+		<cargo preset="foodZombies9" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+	</type>
+	<type name="ZmbF_JournalistNormal_Green">
+		<cargo preset="foodZombies10" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+	</type>
+	<type name="ZmbF_JournalistNormal_Red">
+		<cargo preset="foodZombies11" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+	</type>
+	<type name="ZmbF_JournalistNormal_White">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbF_ShortSkirt_beige">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_ShortSkirt_black">
+		<cargo preset="foodZombies3" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbF_ShortSkirt_brown">
+		<cargo preset="foodZombies4" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_ShortSkirt_checks">
+		<cargo preset="foodZombies5" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_ShortSkirt_green">
+		<cargo preset="foodZombies6" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_ShortSkirt_grey">
+		<cargo preset="foodZombies7" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_ShortSkirt_red">
+		<cargo preset="foodZombies8" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbF_ShortSkirt_stripes">
+		<cargo preset="foodZombies9" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbF_ShortSkirt_white">
+		<cargo preset="foodZombies10" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_ShortSkirt_yellow">
+		<cargo preset="foodZombies11" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_SkaterYoung_Brown">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCitySkate" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_SkaterYoung_Striped">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCitySkate" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_SkaterYoung_Violet">
+		<cargo preset="foodZombies3" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCitySkate" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_SurvivorNormal_Blue">
+		<cargo preset="foodZombies4" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_SurvivorNormal_Orange">
+		<cargo preset="foodZombies5" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbF_SurvivorNormal_Red">
+		<cargo preset="foodZombies6" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbF_SurvivorNormal_White">
+		<cargo preset="foodZombies7" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_CitizenASkinny_Blue">
+		<cargo preset="foodZombies8" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_CitizenASkinny_Brown">
+		<cargo preset="foodZombies9" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbM_CitizenASkinny_Grey">
+		<cargo preset="foodZombies10" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_CitizenASkinny_Red">
+		<cargo preset="foodZombies11" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_CitizenBFat_Blue">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_CitizenBFat_Green">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_CitizenBFat_Red">
+		<cargo preset="foodZombies3" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_ClerkFat_Brown">
+		<cargo preset="foodZombies4" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbM_ClerkFat_Grey">
+		<cargo preset="foodZombies5" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_ClerkFat_Khaki">
+		<cargo preset="foodZombies6" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_ClerkFat_White">
+		<cargo preset="foodZombies7" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_CommercialPilotOld_Blue">
+		<cargo preset="foodZombies8" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+	</type>
+	<type name="ZmbM_CommercialPilotOld_Brown">
+		<cargo preset="foodZombies9" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+	</type>
+	<type name="ZmbM_CommercialPilotOld_Grey">
+		<cargo preset="foodZombies10" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbM_CommercialPilotOld_Olive">
+		<cargo preset="foodZombies11" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+	</type>
+	<type name="ZmbM_Jacket_beige">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_Jacket_black">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_Jacket_blue">
+		<cargo preset="foodZombies3" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_Jacket_bluechecks">
+		<cargo preset="foodZombies4" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbM_Jacket_brown">
+		<cargo preset="foodZombies5" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_Jacket_greenchecks">
+		<cargo preset="foodZombies6" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_Jacket_grey">
+		<cargo preset="foodZombies7" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_Jacket_khaki">
+		<cargo preset="foodZombies8" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_Jacket_magenta">
+		<cargo preset="foodZombies9" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbM_Jacket_stripes">
+		<cargo preset="foodZombies10" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_JournalistSkinny">
+		<cargo preset="foodZombies11" />
+		<cargo preset="PokemonCards" />
+	</type>
+	<type name="ZmbM_MotobikerFat_Beige">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsMotorbike" />
+	</type>
+	<type name="ZmbM_MotobikerFat_Black">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="helmetsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbM_MotobikerFat_Blue">
+		<cargo preset="foodZombies3" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsMotorbike" />
+	</type>
+	<type name="ZmbM_SkaterYoung_Blue">
+		<cargo preset="foodZombies4" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="helmetsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbM_SkaterYoung_Brown">
+		<cargo preset="foodZombies5" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCitySkate" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_SkaterYoung_Green">
+		<cargo preset="foodZombies6" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCitySkate" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="ZmbM_SkaterYoung_Grey">
+		<cargo preset="foodZombies7" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCitySkate" />
+		<attachments preset="bagsCity" />
+	</type>
+	<!--Industrial-->
+	<type name="ZmbF_BlueCollarFat_Blue">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbF_BlueCollarFat_Green">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbF_BlueCollarFat_Red">
+		<cargo preset="foodZombies3" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbF_BlueCollarFat_White">
+		<cargo preset="foodZombies4" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbF_MechanicNormal_Beige">
+		<cargo preset="foodZombies5" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbF_MechanicNormal_Green">
+		<cargo preset="foodZombies6" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbF_MechanicNormal_Grey">
+		<cargo preset="foodZombies7" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbF_MechanicNormal_Orange">
+		<cargo preset="foodZombies8" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_ConstrWorkerNormal_Beige">
+		<cargo preset="foodZombies9" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_ConstrWorkerNormal_Black">
+		<cargo preset="foodZombies10" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_ConstrWorkerNormal_Green">
+		<cargo preset="foodZombies11" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_ConstrWorkerNormal_Grey">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_HandymanNormal_Blue">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_HandymanNormal_Green">
+		<cargo preset="foodZombies3" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_HandymanNormal_Grey">
+		<cargo preset="foodZombies4" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_HandymanNormal_White">
+		<cargo preset="foodZombies5" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_HeavyIndustryWorker">
+		<cargo preset="foodZombies6" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_MechanicSkinny_Blue">
+		<cargo preset="foodZombies7" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_MechanicSkinny_Green">
+		<cargo preset="foodZombies8" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_MechanicSkinny_Grey">
+		<cargo preset="foodZombies9" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_MechanicSkinny_Red">
+		<cargo preset="foodZombies10" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_OffshoreWorker_Green">
+		<cargo preset="foodZombies11" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_OffshoreWorker_Orange">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_OffshoreWorker_Red">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_OffshoreWorker_Yellow">
+		<cargo preset="foodZombies3" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="bagsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<!--FireFighter-->
+	<type name="ZmbM_FirefighterNormal">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFirefighter" />
+	</type>
+	<!--Medic-->
+	<type name="ZmbF_DoctorSkinny">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsMedic" />
+	</type>
+	<type name="ZmbF_NurseFat">
+		<cargo preset="foodZombies3" />
+		<cargo preset="PokemonCards" />
+	</type>
+	<type name="ZmbF_ParamedicNormal_Blue">
+		<cargo preset="PokemonCards" />
+		<cargo preset="foodZombies4" />
+	</type>
+	<type name="ZmbF_ParamedicNormal_Green">
+		<cargo preset="foodZombies5" />
+		<cargo preset="PokemonCards" />
+	</type>
+	<type name="ZmbF_ParamedicNormal_Red">
+		<cargo preset="foodZombies6" />
+		<cargo preset="PokemonCards" />
+	</type>
+	<type name="ZmbF_PatientOld">
+		<cargo preset="foodZombies7" />
+		<cargo preset="PokemonCards" />
+	</type>
+	<type name="ZmbM_DoctorFat">
+		<cargo preset="foodZombies28" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsMedic" />
+	</type>
+	<type name="ZmbM_ParamedicNormal_Black">
+		<cargo preset="foodZombies9" />
+		<cargo preset="PokemonCards" />
+	</type>
+	<type name="ZmbM_ParamedicNormal_Blue">
+		<cargo preset="foodZombies10" />
+		<cargo preset="PokemonCards" />
+	</type>
+	<type name="ZmbM_ParamedicNormal_Green">
+		<cargo preset="foodZombies11" />
+		<cargo preset="PokemonCards" />
+	</type>
+	<type name="ZmbM_ParamedicNormal_Red">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+	</type>
+	<type name="ZmbM_PatientSkinny">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+	</type>
+	<!--Pumpkin Head-->
+	<type name="ZmbM_HandymanNormal_Beige">
+		<cargo preset="PokemonCards" />
+		<attachments chance="1.00">
+			<item name="PumpkinHelmet" chance="1.00" />
+		</attachments>
+		<cargo chance="1.0">
+			<item name="SlicedPumpkin" chance="1.00" />	
+		</cargo>
+	</type>
+	<!--Police-->
+	<type name="ZmbF_PoliceWomanNormal">
+		<cargo preset="foodZombies1" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="PokemonCards" />
+		<cargo chance="0.50">
+			<item name="Mag_SSG82_5rnd" chance="1.0" />	
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+	<type name="ZmbM_PolicemanFat">
+		<cargo preset="foodZombies3" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="PokemonCards" />
+			<cargo chance="0.50">
+			<item name="Mag_SSG82_5rnd" chance="1.0" />		
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+	<type name="ZmbM_PolicemanSpecForce">
+		<cargo preset="foodZombies4" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="PokemonCards" />
+		<cargo chance="0.50">
+			<item name="Mag_Scout_5Rnd" chance="1.0" />
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+	<type name="ZmbM_PolicemanSpecForce_Heavy">
+		<cargo preset="foodZombies5" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="PokemonCards" />
+		<cargo chance="0.50">
+			<item name="Mag_Scout_5Rnd" chance="1.0" />
+		</cargo>
+		<attachments preset="hatsPolice" />
+		<attachments preset="vestsPolice" />
+	</type>
+	<!--Prisoner-->
+	<type name="ZmbM_PrisonerSkinny">
+		<cargo chance="0.50">
+			<item name="Rope" chance="1.0" />
+		</cargo>
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsPrisoner" />
+	</type>
+	<!--Religious-->
+	<type name="ZmbM_priestPopSkinny">
+		<cargo preset="foodZombies6" />
+		<cargo preset="PokemonCards" />
+	</type>
+	<!--Solitude-->
+	<type name="ZmbF_HikerSkinny_Blue">
+		<cargo preset="foodZombies7" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbF_HikerSkinny_Grey">
+		<cargo preset="foodZombies8" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbF_HikerSkinny_Green">
+		<cargo preset="foodZombies9" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbF_HikerSkinny_Red">
+		<cargo preset="foodZombies10" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbM_FishermanOld_Blue">
+		<cargo preset="foodZombies11" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbM_FishermanOld_Green">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbM_FishermanOld_Grey">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbM_FishermanOld_Red">
+		<cargo preset="foodZombies3" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbM_HermitSkinny_Beige">
+		<cargo preset="foodZombies4" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbM_HermitSkinny_Black">
+		<cargo preset="foodZombies5" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbM_HermitSkinny_Green">
+		<cargo preset="foodZombies6" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbM_HermitSkinny_Red">
+		<cargo preset="foodZombies7" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbM_HikerSkinny_Blue">
+		<cargo preset="foodZombies8" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbM_HikerSkinny_Green">
+		<cargo preset="foodZombies9" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbM_HikerSkinny_Yellow">
+		<cargo preset="foodZombies10" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="ZmbM_HunterOld_Autumn">
+		<cargo preset="foodZombies11" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsHunter" />
+		<attachments preset="headtorches" />
+		<attachments preset="vestsHunter" />
+	</type>
+	<type name="ZmbM_HunterOld_Spring">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsHunter" />
+		<attachments preset="headtorches" />
+		<attachments preset="vestsHunter" />
+	</type>
+	<type name="ZmbM_HunterOld_Summer">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsHunter" />
+		<attachments preset="headtorches" />
+		<attachments preset="vestsHunter" />
+	</type>
+	<type name="ZmbM_HunterOld_Winter">
+		<cargo preset="foodZombies3" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsHunter" />
+		<attachments preset="vestsHunter" />
+	</type>
+	<!--Village-->
+	<type name="ZmbF_MilkMaidOld_Beige">
+		<cargo preset="foodZombies4" />
+		<cargo preset="PokemonCards" />
+		<cargo chance="0.20">
+			<item name="CrookedNose" chance="1.0" />
+		</cargo>
+		<attachments chance="1.00">
+			<item name="WitchHood_Brown" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="ZmbF_MilkMaidOld_Black">
+		<cargo preset="foodZombies5" />
+		<cargo preset="PokemonCards" />
+		<cargo chance="0.20">
+			<item name="CrookedNose" chance="1.0" />
+		</cargo>
+		<attachments chance="1.00">
+			<item name="WitchHat" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="ZmbF_MilkMaidOld_Green">
+		<cargo preset="foodZombies6" />
+		<cargo preset="PokemonCards" />
+		<cargo chance="0.20">
+			<item name="CrookedNose" chance="1.0" />
+		</cargo>
+		<attachments chance="1.00">
+			<item name="WitchHood_Red" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="ZmbF_MilkMaidOld_Grey">
+		<cargo preset="foodZombies7" />
+		<cargo preset="PokemonCards" />
+		<cargo chance="0.20">
+			<item name="CrookedNose" chance="1.0" />
+		</cargo>
+		<attachments chance="1.00">
+			<item name="WitchHood_Black" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="ZmbF_VillagerOld_Blue">
+		<cargo preset="foodZombies8" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbF_VillagerOld_Green">
+		<cargo preset="foodZombies9" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsVillage" />
+	</type>
+	<type name="ZmbF_VillagerOld_Red">
+		<cargo preset="foodZombies10" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsVillage" />
+	</type>
+	<type name="ZmbF_VillagerOld_White">
+		<cargo preset="foodZombies11" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsVillage" />
+	</type>
+	<type name="ZmbF_JoggerSkinny_Blue">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsVillage" />
+	</type>
+	<type name="ZmbF_JoggerSkinny_Brown">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsVillage" />
+	</type>
+	<type name="ZmbF_JoggerSkinny_Green">
+		<cargo preset="foodZombies3" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsVillage" />
+	</type>
+	<type name="ZmbF_JoggerSkinny_Red">
+		<cargo preset="foodZombies4" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="helmetsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbM_FarmerFat_Beige">
+		<cargo preset="foodZombies5" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbM_FarmerFat_Blue">
+		<cargo preset="foodZombies6" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+	</type>
+	<type name="ZmbM_FarmerFat_Brown">
+		<cargo preset="foodZombies7" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+	</type>
+	<type name="ZmbM_FarmerFat_Green">
+		<cargo preset="foodZombies8" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+	</type>
+	<type name="ZmbM_JoggerSkinny_Blue">
+		<cargo preset="foodZombies9" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsVillage" />
+	</type>
+	<type name="ZmbM_JoggerSkinny_Green">
+		<cargo preset="foodZombies10" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsVillage" />
+	</type>
+	<type name="ZmbM_JoggerSkinny_Red">
+		<cargo preset="foodZombies11" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="helmetsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbM_VillagerOld_Blue">
+		<cargo preset="foodZombies1" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsVillage" />
+	</type>
+	<type name="ZmbM_VillagerOld_Green">
+		<cargo preset="foodZombies2" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbM_VillagerOld_White">
+		<cargo preset="foodZombies3" />
+		<cargo preset="PokemonCards" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsVillage" />
+	</type>
+	
+	<!--Mummy-->
+	<type name="ZmbM_Mummy">
+		<cargo preset="PokemonCards" />
+		<cargo preset="foodZombies1" />
+        <attachments chance="1.00" name="hats1Army">
+            <item name="BallisticHelmet_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00" name="vests1Army">
+            <item name="PlateCarrierVest_Black" chance="1.00" />
+		<cargo chance="0.05">
+            <item name="AntiChemInjector" chance="1.0" />
+        </cargo>
+        <cargo chance="0.5">
+            <item name="HumanSteakMeat" chance="1.0" />
+        </cargo>
+        <cargo chance="0.5">
+            <item name="BandageDressing" chance="0.5" />
+            <item name="Rag" chance="0.5" />
+        </cargo>
+        <cargo chance="0.5">
+            <item name="IodineTincture" chance="0.33" />
+            <item name="Epinephrine" chance="0.33" />
+            <item name="Morphine" chance="0.33" />
+        </cargo>
+        <cargo chance="0.5">
+            <item name="CharcoalTablets" chance="0.25" />
+            <item name="PainkillerTablets" chance="0.25" />
+            <item name="TetracyclineAntibiotics" chance="0.25" />
+            <item name="VitaminBottle" chance="0.25" />
+        </cargo>
+        </attachments>
+	</type>
+	<!--END OF ZOMBIES  -->
+	
+	<type name="PersonalRadio">
+		<attachments chance="1.0">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+	</type>
+		
+		<type name="GPSReceiver">
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+	</type>
+		
+	
+    <!-- 1.26 added-->
+    <type name="ZmbM_Gamedev_Black">
+        <cargo preset="foodZombies5" />
+    </type>
+    <type name="ZmbM_Gamedev_Blue">
+        <cargo preset="foodZombies4" />
+    </type>
+    <type name="ZmbM_Gamedev_Gray">
+        <cargo preset="foodZombies3" />
+    </type>
+
+	<type name="Boat_01_Blue">
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="1.0" />
+        </attachments>
+    </type>
+    <type name="Boat_01_Camo">
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="1.0" />
+        </attachments>
+    </type>
+    <type name="Boat_01_Orange">
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="OffroadHatchback">
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackDoors_Driver_GreenRust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackDoors_CoDriver_GreenRust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackHood_GreenRust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackTrunk_GreenRust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TireRepairKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LargeGasCanister" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="OffroadHatchback_Blue">
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackDoors_Driver_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackDoors_CoDriver_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackHood_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackTrunk_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TireRepairKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LargeGasCanister" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="OffroadHatchback_White">
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackDoors_Driver_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackDoors_CoDriver_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackHood_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackTrunk_White" chance="1.00" />
+		</attachments>
+	<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TireRepairKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ChernarusMap" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LargeGasCanister" chance="1.00" />
+		</attachments>
+	</type>
+		<type name="Offroad_02">
+		<attachments chance="1.00">
+			<item name="Offroad_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Door_1_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Door_1_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Door_2_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Door_2_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />			  
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CivilianSedan">
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanDoors_Driver_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanDoors_CoDriver_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanDoors_BackLeft_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanDoors_BackRight_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanHood_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanTrunk_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TireRepairKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ChernarusMap" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LargeGasCanister" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CivilianSedan_Wine">
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanDoors_Driver_Wine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanDoors_CoDriver_Wine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanDoors_BackLeft_Wine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanDoors_BackRight_Wine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanHood_Wine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanTrunk_Wine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TireRepairKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CivilianSedan_Black">
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanDoors_Driver_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanDoors_CoDriver_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanDoors_BackLeft_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanDoors_BackRight_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanHood_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivSedanTrunk_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TireRepairKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Hatchback_02">
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Door_1_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Door_1_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Door_2_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Door_2_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TireRepairKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LargeGasCanister" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Hatchback_02_Black">
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Door_1_1_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Door_1_2_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Door_2_1_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Door_2_2_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Hood_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Trunk_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TireRepairKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LargeGasCanister" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Hatchback_02_Blue">
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Door_1_1_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Door_1_2_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Door_2_1_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Door_2_2_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Hood_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hatchback_02_Trunk_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TireRepairKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LargeGasCanister" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Sedan_02">
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="sedan_02_Door_1_1_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Door_1_2_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Door_2_1_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Door_2_2_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Hood_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Trunk_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TireRepairKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LargeGasCanister" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Sedan_02_Red">
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="sedan_02_Door_1_1_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Door_1_2_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Door_2_1_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Door_2_2_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Hood_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Trunk_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TireRepairKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LargeGasCanister" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Sedan_02_Grey">
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="sedan_02_Door_1_1_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Door_1_2_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Door_2_1_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Door_2_2_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Hood_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Trunk_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TireRepairKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LargeGasCanister" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Truck_01_Covered">
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Door_1_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Door_2_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenPlank" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenLog" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MetalPlate" chance="1.00" />
+		</attachments>
+	</type>
+	
+	<type name="Truck_01_Covered_Orange">
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Door_1_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Door_2_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenPlank" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenLog" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MetalPlate" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Truck_01_Covered_Blue">
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Door_1_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Door_2_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenPlank" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenLog" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MetalPlate" chance="1.00" />
+		</attachments>
+	</type>
+	
+
+
+
+</spawnabletypes>

@@ -1,0 +1,4 @@
+[22/03/2025-20:49:45]	[PLACED]	[22/03/2025-20:49:45]	A charge has been placed!	 | HDSN_BreachingCharge, Position: <9815.564453, 5.660460, 1792.256226>, Target: BBP_BDoor_T1_Door_T1 | Player: Boogahadeen [76561199205606578]
+[22/03/2025-20:49:51]	[ARMED]		[22/03/2025-20:49:51]	A charge has been armed!	 | HDSN_BreachingCharge, Position: <9816.554688, 6.331994, 1791.566284>, Target: BBP_BDoor_T1_Door_T1 | Player: Boogahadeen [76561199205606578]
+[22/03/2025-20:51:41]	[EXPLODED]	[22/03/2025-20:51:41]	A charge has exploded!		 | HDSN_BreachingCharge, Position: <9816.554688, 6.331994, 1791.566284>, Target: BBP_BDoor_T1_Door_T1, Damage done: 1 | Player: Boogahadeen [76561199205606578]
+[22/03/2025-20:51:41]	[DESTROYED]	[22/03/2025-20:51:41]	A target was destroyed!	 | HDSN_BreachingCharge, Position: <9816.554688, 6.331994, 1791.566284>, Target: BBP_BDoor_T1_Door_T1 | Player: Boogahadeen [76561199205606578]

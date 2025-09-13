@@ -1,0 +1,97 @@
+{
+  "dna_Description": "DNA SMOL CRATE CONFIG (Yellow Tier). Below are settings to spawn either static or randomized loot. To spawn all items in array, use randomize setting 0,",
+  "dna_DescriptionCont": "if set to 1, it will use the count setting found just below the randomize setting. When using randomized loot, the system can and likely WILL",
+  "dna_DescriptionCont2": "spawn duplicates. I suggest using static and manually adding desired duplicates. Each loot set, including weapons can be turned off as well.",
+  "dna_SpawnMainWeapons": 1,
+  "dna_RandomizeWeapons": 1,
+  "dna_WeaponCount": 1,
+  "weaponTypesYellow": [
+    {
+      "dna_TheChosenOne": "SNAFUAPS",
+      "dna_Magazine": "SNAFUAPS_20rdMag",
+      "dna_Ammunition": "",
+      "dna_OpticType": "",
+      "dna_Suppressor": "PistolSuppressor",
+      "dna_UnderBarrel": "",
+      "dna_ButtStock": "",
+      "dna_HandGuard": "",
+      "dna_Wrap": ""
+    },
+    {
+      "dna_TheChosenOne": "SNAFUSWM629",
+      "dna_Magazine": "",
+      "dna_Ammunition": "SNAFU_Ammo_44",
+      "dna_OpticType": "",
+      "dna_Suppressor": "",
+      "dna_UnderBarrel": "",
+      "dna_ButtStock": "",
+      "dna_HandGuard": "",
+      "dna_Wrap": ""
+    },
+    {
+      "dna_Tier": "yellow",
+      "dna_WeaponCategory": "side",
+      "dna_TheChosenOne": "SN_USP",
+      "dna_Magazine": "SN_USP_Mag",
+      "dna_Ammunition": "",
+      "dna_OpticType": "",
+      "dna_Suppressor": "PistolSuppressor",
+      "dna_UnderBarrel": "",
+      "dna_ButtStock": "",
+      "dna_HandGuard": "",
+      "dna_Wrap": ""
+    },
+    {
+      "dna_TheChosenOne": "SN_Springfield",
+      "dna_Magazine": "SN_Springfield_Mag",
+      "dna_Ammunition": "",
+      "dna_OpticType": "",
+      "dna_Suppressor": "PistolSuppressor",
+      "dna_UnderBarrel": "",
+      "dna_ButtStock": "",
+      "dna_HandGuard": "",
+      "dna_Wrap": ""
+    }
+  ],
+  "dna_SpawnLootSet1": 1,
+  "dna_RandomizeLootSet1": 1,
+  "dna_LootSet1Count": 3,
+  "dna_LootSetY1": [
+    "BloodTestKit",
+    "TetracyclineAntibiotics",
+    "AMS_BandAid",
+    "BloodBagIV",
+    "Morphine",
+    "Epinephrine"
+  ],
+  "dna_SpawnLootSet2": 1,
+  "dna_RandomizeLootSet2": 1,
+  "dna_LootSet2Count": 3,
+  "dna_LootSetY2": [
+    "MFP_BagelBites",
+    "MFP_Hersheys",
+    "TacticalBaconCan",
+    "MFP_CheetosFlaminHot",
+    "MFP_Takis"
+  ],
+  "dna_SpawnLootSet3": 1,
+  "dna_RandomizeLootSet3": 1,
+  "dna_LootSet3Count": 3,
+  "dna_LootSetY3": [
+    "MFP_Faygo2",
+    "MFP_OrangeSoda",
+    "MFP_LiveWire",
+    "MFP_MtnDew",
+    "MFP_LiteBeer"
+  ],
+  "dna_SpawnLootSet4": 1,
+  "dna_RandomizeLootSet4": 0,
+  "dna_LootSet4Count": 3,
+  "dna_LootSetY4": [
+    "WoodenPlank",
+    "NailBox",
+    "Shovel",
+    "WoodAxe",
+    "BBP_Blueprint"
+  ]
+}

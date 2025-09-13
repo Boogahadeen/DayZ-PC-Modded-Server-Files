@@ -1,0 +1,115 @@
+14:54:30.130 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) joined the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+14:54:30.132 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.149 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.151 [Expansion Quests] Loaded existing group quest data for group with ID=0
+14:54:30.152 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.152 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.154 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.155 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.156 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.156 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.157 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.158 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.158 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.159 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.159 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.159 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.160 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.161 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.161 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.161 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.162 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.163 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.163 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.163 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.164 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.164 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.165 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.165 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.165 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.166 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.166 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.169 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.170 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:54:30.173 [AI Object Patrol 00020] Spawning 2 Raiders bots at <3835.765869, 328.150604, 10925.853516>
+14:54:30.214 [AI Object Patrol 00020] Global patrol count: 1
+14:54:30.215 [AI Object Patrol 00020] ObjectPatrol category patrol count: 1
+14:54:30.215 [AI Object Patrol 00019] Spawning 3 Raiders bots at <3801.427002, 326.110168, 10950.169922>
+14:54:30.249 [AI Object Patrol 00019] Global patrol count: 2
+14:54:30.249 [AI Object Patrol 00019] ObjectPatrol category patrol count: 2
+14:54:30.249 [AI Object Patrol 00018] Spawning 3 Raiders bots at <4845.363770, 339.205475, 9646.688477>
+14:54:30.291 [AI Object Patrol 00018] Global patrol count: 3
+14:54:30.291 [AI Object Patrol 00018] ObjectPatrol category patrol count: 3
+14:54:30.292 [AI Object Patrol 00021] Spawning 2 Raiders bots at <3804.822998, 326.750000, 10933.558594>
+14:54:30.332 [AI Object Patrol 00021] Global patrol count: 4
+14:54:30.332 [AI Object Patrol 00021] ObjectPatrol category patrol count: 4
+14:54:31.158 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+14:54:57.587 [Killfeed] AI Keiko (Raiders) got killed by AI Mirek (Raiders) with M4-A1 from a distance of 10 m.
+14:55:43.576 [Killfeed] AI Jose (Raiders) got killed by AI Guo (Raiders) with M4-A1 from a distance of 16 m.
+14:57:29.424 [Killfeed] AI Eva (Raiders) bled out.
+14:57:58.010 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle UAZ-2363 Pickup (id=2EF5AB20B543115F53883A910DE83231 pos=<4218.97, 338.99, 10272.4>) as driver
+14:58:02.020 [VehicleEngine] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) started vehicle UAZ-2363 Pickup (id=2EF5AB20B543115F53883A910DE83231 pos=<4218.97, 338.99, 10272.4>)
+14:58:39.141 [Killfeed] AI Mirek (Raiders) bled out.
+14:59:07.720 [MissionAirdrop] An airdrop is heading towards "Sosnovka" (pos=<2700.000000, 0.000000, 6193.000000> type=Random_Sosnovka) with a ExpansionAirdropContainer_Military
+14:59:21.336 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ-2363 Pickup (id=2EF5AB20B543115F53883A910DE83231 pos=<4382.72, 339.06, 10114.6>)
+14:59:21.367 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle UAZ-2363 Pickup (id=2EF5AB20B543115F53883A910DE83231 pos=<4382.72, 339.06, 10114.6>)
+14:59:39.712 [Killfeed] AI Gabi (Raiders) bled out.
+14:59:43.891 [AI Object Patrol 00021] Raiders bots were wiped out (spawn position <3804.822998, 326.750000, 10933.558594>, 2/2 deceased)
+14:59:43.892 [AI Object Patrol 00021] Global patrol count: 3
+14:59:43.893 [AI Object Patrol 00021] ObjectPatrol category patrol count: 3
+15:05:49.296 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle UAZ-2363 Pickup (id=2EF5AB20B543115F53883A910DE83231 pos=<4382.72, 339.06, 10114.6>) as driver
+15:05:51.096 [VehicleEngine] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) started vehicle UAZ-2363 Pickup (id=2EF5AB20B543115F53883A910DE83231 pos=<4382.72, 339.06, 10114.6>)
+15:07:41.030 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ-2363 Pickup (id=2EF5AB20B543115F53883A910DE83231 pos=<4420.78, 339.06, 9848>)
+15:07:41.064 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle UAZ-2363 Pickup (id=2EF5AB20B543115F53883A910DE83231 pos=<4420.78, 339.06, 9848>)
+15:10:10.974 [Killfeed] AI Taiki (Raiders) got killed by AI Guo (Raiders) with M4-A1 from a distance of 23 m.
+15:10:13.331 [AI Object Patrol 00019] Raiders bots were wiped out (spawn position <3801.427002, 326.110168, 10950.169922>, 3/3 deceased)
+15:10:13.332 [AI Object Patrol 00019] Global patrol count: 2
+15:10:13.332 [AI Object Patrol 00019] ObjectPatrol category patrol count: 2
+15:11:38.664 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle UAZ-2363 Pickup (id=2EF5AB20B543115F53883A910DE83231 pos=<4420.78, 339.06, 9848>) as driver
+15:11:41.854 [VehicleEngine] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) started vehicle UAZ-2363 Pickup (id=2EF5AB20B543115F53883A910DE83231 pos=<4420.78, 339.06, 9848>)
+15:12:55.800 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ-2363 Pickup (id=2EF5AB20B543115F53883A910DE83231 pos=<4237.31, 338.72, 10986.5>)
+15:12:55.841 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle UAZ-2363 Pickup (id=2EF5AB20B543115F53883A910DE83231 pos=<4237.31, 338.72, 10986.5>)
+15:13:17.361 [VehicleDeleted] UAZ_Patrot_Pikap_camo_green (id=2EF5AB20B543115F53883A910DE83231 pos=<4237.25, 338.71, 10986.5>)
+15:15:06.672 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle БТР-80 (id=4A37A581CA49C6DA12625B85E15B2F90 pos=<4272.63, 338.41, 11019.4>) as passenger
+15:15:10.102 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle БТР-80 (id=4A37A581CA49C6DA12625B85E15B2F90 pos=<4272.63, 338.41, 11019.4>)
+15:15:13.094 [VehicleAttachments] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) detached FN FAL (type=BO_FNFAL) from vehicle БТР-80 (id=4A37A581CA49C6DA12625B85E15B2F90 pos=<4272.63, 338.41, 11019.4>)
+15:15:17.079 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle БТР-80 (id=4A37A581CA49C6DA12625B85E15B2F90 pos=<4272.63, 338.41, 11019.4>) as passenger
+15:15:20.273 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle БТР-80 (id=4A37A581CA49C6DA12625B85E15B2F90 pos=<4272.63, 338.41, 11019.4>)
+15:15:45.995 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle БТР-80 (id=4A37A581CA49C6DA12625B85E15B2F90 pos=<4272.63, 338.41, 11019.4>) as driver
+15:15:49.857 [VehicleEngine] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) started vehicle БТР-80 (id=4A37A581CA49C6DA12625B85E15B2F90 pos=<4272.63, 338.41, 11019.4>)
+15:15:55.982 [VehicleEngine] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) stopped vehicle БТР-80 (id=4A37A581CA49C6DA12625B85E15B2F90 pos=<4272.63, 338.41, 11019.4>)
+15:15:59.532 [VehicleEngine] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) started vehicle БТР-80 (id=4A37A581CA49C6DA12625B85E15B2F90 pos=<4272.63, 338.41, 11019.4>)
+15:16:53.532 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle БТР-80 (id=4A37A581CA49C6DA12625B85E15B2F90 pos=<4366.91, 339.05, 10746>)
+15:16:54.013 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle БТР-80 (id=4A37A581CA49C6DA12625B85E15B2F90 pos=<4371.37, 339.05, 10738>)
+15:17:22.198 [VehicleDeleted] BTR_80_camo (id=4A37A581CA49C6DA12625B85E15B2F90 pos=<4399.71, 339.06, 10687.6>)
+15:21:43.890 [AI Object Patrol 00018] Despawning 3 Raiders bots (spawn position <4845.363770, 339.205475, 9646.688477>, 0/3 deceased)
+15:21:43.891 [AI Object Patrol 00018] Global patrol count: 1
+15:21:43.891 [AI Object Patrol 00018] ObjectPatrol category patrol count: 1
+15:29:54.514 [VehicleAttachments] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) detached Gunter 2 Hood (type=Hatchback_02_Hood) from vehicle Gunter 2 (id=297754B28A4C748458D2F1AF7FE0887A pos=<4407.06, 339.04, 10710.2>)
+15:30:30.583 [VehicleAttachments] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) detached Gunter 2 Trunk Door (type=Hatchback_02_Trunk) from vehicle Gunter 2 (id=297754B28A4C748458D2F1AF7FE0887A pos=<4407.06, 339.04, 10710.2>)
+15:30:37.505 [VehicleAttachments] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) detached Gunter 2 Rear Left Door (type=Hatchback_02_Door_1_2) from vehicle Gunter 2 (id=297754B28A4C748458D2F1AF7FE0887A pos=<4407.06, 339.04, 10710.2>)
+15:30:45.516 [VehicleAttachments] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) detached Gunter 2 Front Left Door (type=Hatchback_02_Door_1_1) from vehicle Gunter 2 (id=297754B28A4C748458D2F1AF7FE0887A pos=<4407.06, 339.04, 10710.2>)
+15:30:53.643 [VehicleAttachments] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) detached Gunter 2 Rear Right Door (type=Hatchback_02_Door_2_2) from vehicle Gunter 2 (id=297754B28A4C748458D2F1AF7FE0887A pos=<4407.06, 339.04, 10710.2>)
+15:31:01.076 [VehicleAttachments] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) detached Gunter 2 Front Right Door (type=Hatchback_02_Door_2_1) from vehicle Gunter 2 (id=297754B28A4C748458D2F1AF7FE0887A pos=<4407.06, 339.04, 10710.2>)
+15:31:38.789 [AI Object Patrol 00047] Spawning 2 Raiders bots at <4331.465332, 336.081482, 9737.437500>
+15:31:38.911 [AI Object Patrol 00047] Global patrol count: 2
+15:31:38.911 [AI Object Patrol 00047] ContaminatedArea category patrol count: 1
+15:34:48.506 [AI Object Patrol 00049] Spawning 2 Raiders bots at <5098.168457, 319.052765, 10450.726563>
+15:34:48.596 [AI Object Patrol 00049] Global patrol count: 3
+15:34:48.596 [AI Object Patrol 00049] ContaminatedArea category patrol count: 2
+15:54:01.456 [VehicleDeleted] Hatchback_02_BanditKitty (id=297754B28A4C748458D2F1AF7FE0887A pos=<4407.06, 339.04, 10710.2>)
+15:56:30.332 [VehicleDeleted] OffroadHatchback (id=0A547822A94EAA4277EC6BA26664B5E3 pos=<4405.27, 339.04, 10704.9>)
+15:58:02.779 [VehicleDeleted] Hatchback_02 (id=19A65481404BF70D7115C9BF5B14668E pos=<4405.15, 339.04, 10704.5>)
+16:06:49.474 [AI Object Patrol 00047] Despawning 2 Raiders bots (spawn position <4331.465332, 336.081482, 9737.437500>, 0/2 deceased)
+16:06:49.475 [AI Object Patrol 00047] Global patrol count: 2
+16:06:49.475 [AI Object Patrol 00047] ContaminatedArea category patrol count: 1
+16:09:57.814 [AI Object Patrol 00049] Despawning 2 Raiders bots (spawn position <5098.168457, 319.052765, 10450.726563>, 0/2 deceased)
+16:09:57.815 [AI Object Patrol 00049] Global patrol count: 1
+16:09:57.815 [AI Object Patrol 00049] ContaminatedArea category patrol count: 0
+16:28:25.396 [MissionAirdrop] An airdrop is heading towards "Stary Sobor" (pos=<5823.000000, 0.000000, 7764.000000> type=Random_Stary Sobor) with a ExpansionAirdropContainer_Military
+16:43:24.400 [Expansion Quests] Added new objective data for type=TARGET | Key=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | ID=3
+16:43:24.412 [Expansion Quests] Updated and saved persistent player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | Quest ID=8
+16:43:24.416 [Expansion Quests] Added new objective data for type=TARGET | Key=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | ID=2
+16:43:24.418 [Expansion Quests] Updated and saved persistent player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | Quest ID=9
+16:43:24.419 [Expansion Quests] Added new objective data for type=ACTION | Key=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | ID=1
+16:43:24.421 [Expansion Quests] Updated and saved persistent player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | Quest ID=11

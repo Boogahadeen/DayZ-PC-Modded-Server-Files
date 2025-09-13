@@ -1,0 +1,1 @@
+[22/03/2025-19:23:00]	[PLACED]	[22/03/2025-19:23:00]	A charge has been placed!	 | HDSN_BreachingCharge, Position: <1070.794189, 347.747131, 10821.000000>, Target: BBP_BDoor_T2_Door_T2 | Player: Boogahadeen [76561199205606578]

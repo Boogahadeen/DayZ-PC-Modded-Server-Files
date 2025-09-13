@@ -1,0 +1,77 @@
+{
+    "dna_Description": "DNA SMOL CRATE CONFIG (Purple Tier). Below are settings to spawn either static or randomized loot. To spawn all items in array, use randomize setting 0,",
+    "dna_DescriptionCont": "if set to 1, it will use the count setting found just below the randomize setting. When using randomized loot, the system can and likely WILL",
+    "dna_DescriptionCont2": "spawn duplicates. I suggest using static and manually adding desired duplicates. Each loot set, including weapons can be turned off as well.",
+    "dna_SpawnMainWeapons": 1,
+    "dna_RandomizeWeapons": 1,
+    "dna_WeaponCount": 1,
+    "weaponTypesPurple": [
+        {
+            "dna_TheChosenOne": "BO_SA58",
+            "dna_Magazine": "BO_Mag_SA58_50rnd",
+            "dna_SpareMagCount": 1,
+            "dna_Ammunition": "AmmoBox_762x39_20Rnd",
+            "dna_SpareAmmoCount": 1,
+            "dna_OpticType": "BO_RMR_Black",
+            "dna_Suppressor": "BO_CorduraSuppressor_Black",
+            "dna_UnderBarrel": "",
+            "dna_ButtStock": "BO_SA58_Buttstock",
+            "dna_HandGuard": "",
+            "dna_Wrap": ""
+        },
+        {
+            "dna_TheChosenOne": "BO_AR15",
+            "dna_Magazine": "BO_Mag_GEN2300_100rnd",
+            "dna_SpareMagCount": 1,
+            "dna_Ammunition": "AmmoBox_556x45_20Rnd",
+            "dna_SpareAmmoCount": 2,
+            "dna_OpticType": "BO_AccuPowerOptic",
+            "dna_Suppressor": "BO_MCXTacops_Suppressor_MODX",
+            "dna_UnderBarrel": "",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "",
+            "dna_Wrap": ""
+        }
+    ],
+    "dna_SpawnLootSet1": 1,
+    "dna_RandomizeLootSet1": 1,
+    "dna_LootSet1Count": 3,
+    "dna_LootSetP1": [
+        "BloodTestKit",
+        "TetracyclineAntibiotics",
+        "AMS_BandAid",
+        "BloodBagIV",
+        "Morphine",
+        "Epinephrine"
+    ],
+    "dna_SpawnLootSet2": 1,
+    "dna_RandomizeLootSet2": 1,
+    "dna_LootSet2Count": 3,
+    "dna_LootSetP2": [
+        "MFP_FruityPebbles",
+        "MFP_CookieCrisp",
+        "MFP_Jerky_Teri",
+        "MFP_CheezIt",
+        "MFP_Uncrustable1"
+    ],
+    "dna_SpawnLootSet3": 1,
+    "dna_RandomizeLootSet3": 1,
+    "dna_LootSet3Count": 3,
+    "dna_LootSetP3": [
+        "MFP_HFlask_XMen",
+        "MFP_V8Juice",
+        "MFP_RootBeer",
+        "MFP_OrangeSoda",
+        "MFP_Starry"
+    ],
+    "dna_SpawnLootSet4": 1,
+    "dna_RandomizeLootSet4": 0,
+    "dna_LootSet4Count": 3,
+    "dna_LootSetP4": [
+        "WoodenPlank",
+        "NailBox",
+        "Shovel",
+        "WoodAxe",
+        "BBP_Blueprint"
+    ]
+}

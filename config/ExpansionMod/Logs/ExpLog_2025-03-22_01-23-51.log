@@ -1,0 +1,83 @@
+01:27:33.306 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.336 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.337 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.337 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.339 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.339 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.340 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.340 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.341 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.341 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.341 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.341 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.341 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.342 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.342 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.342 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.343 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.343 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.343 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.343 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.344 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.344 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.344 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.344 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.345 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.345 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.345 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.345 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.345 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.347 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:27:33.348 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+01:28:10.892 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=C5565937AC4F9988E7B826BB5CCEEE9E pos=<7114.94, 379.42, 9525.66>) as pilot
+01:28:39.572 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=C5565937AC4F9988E7B826BB5CCEEE9E pos=<7114.936523, 379.422638, 9525.662109>)
+01:29:17.382 [AI Object Patrol 00000] Spawning 1 Raiders bots at <7139.654785, 383.739594, 9736.254883>
+01:29:17.426 [AI Object Patrol 00000] Global patrol count: 1
+01:29:36.949 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=C5565937AC4F9988E7B826BB5CCEEE9E pos=<7145.62, 366.5, 9080.64>)
+01:31:03.041 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=C5565937AC4F9988E7B826BB5CCEEE9E pos=<7145.62, 366.5, 9080.64>) as pilot
+01:31:05.466 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=C5565937AC4F9988E7B826BB5CCEEE9E pos=<7145.615723, 366.504608, 9080.637695>)
+01:31:21.727 [MissionAirdrop] An airdrop is heading towards "Chernogorsk" (pos=<6128.000000, 0.000000, 2497.000000> type=Random_Chernogorsk) with a ExpansionAirdropContainer_Medical
+01:32:05.875 [AI Object Patrol 00029] Spawning 1 Raiders bots at <9077.255859, 247.845139, 8055.715332>
+01:32:05.952 [AI Object Patrol 00029] Global patrol count: 2
+01:32:22.397 [AI Object Patrol 00054] Spawning 3 Raiders bots at <8187.086914, 443.763885, 7727.182129>
+01:32:22.451 [AI Object Patrol 00054] Global patrol count: 3
+01:34:01.262 [AI Object Patrol 00056] Spawning 1 Raiders bots at <8158.095703, 177.373001, 5029.796387>
+01:34:01.321 [AI Object Patrol 00056] Global patrol count: 4
+01:34:37.378 [AI Object Patrol 00014] Spawning 1 Raiders bots at <6845.365234, 7.312846, 3064.458984>
+01:34:37.426 [AI Object Patrol 00014] Global patrol count: 5
+01:34:38.419 [AI Object Patrol 00013] Spawning 3 Raiders bots at <6822.871582, 7.530326, 3029.755615>
+01:34:38.462 [AI Object Patrol 00013] Global patrol count: 6
+01:34:42.136 [AI Object Patrol 00012] Spawning 2 Raiders bots at <6686.784668, 7.029370, 2914.329834>
+01:34:42.170 [AI Object Patrol 00012] Global patrol count: 7
+01:35:26.311 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=C5565937AC4F9988E7B826BB5CCEEE9E pos=<6663.09, 14.51, 2864.47>)
+01:35:36.752 [Killfeed] AI Eva (Raiders) got killed by AI Cyril (Raiders) with AUR A1 from a distance of 70 m.
+01:35:48.242 [Killfeed] AI Mirek (Raiders) got killed by AI Cyril (Raiders) with AUR A1 from a distance of 52 m.
+01:35:49.126 [Killfeed] AI Naomi (Raiders) got killed by AI Cyril (Raiders) with AUR A1 from a distance of 76 m.
+01:35:52.696 [AI Object Patrol 00013] Raiders bots were wiped out (spawn position <6822.871582, 7.530326, 3029.755615>, 3/3 deceased)
+01:35:52.697 [AI Object Patrol 00013] Global patrol count: 6
+01:36:26.502 [VehicleDestroyed] ExpansionGyrocopter (id=C5565937AC4F9988E7B826BB5CCEEE9E pos=<6660.77, 14.56, 2864.17>)
+01:37:21.253 [VehicleDeleted] ExpansionGyrocopter (id=C5565937AC4F9988E7B826BB5CCEEE9E pos=<6660.77, 14.56, 2864.17>)
+01:37:50.053 [Killfeed] AI Helga (Raiders) got killed by Boogahadeen with AKM from a distance of 44 m.
+01:38:02.924 [Killfeed] AI Cyril (Raiders) got killed by Boogahadeen with AKM from a distance of 53 m.
+01:38:02.995 [AI Object Patrol 00012] Raiders bots were wiped out (spawn position <6686.784668, 7.029370, 2914.329834>, 2/2 deceased)
+01:38:02.996 [AI Object Patrol 00012] Global patrol count: 5
+01:41:47.941 [AI Object Patrol 00000] Despawning 1 Raiders bots (spawn position <7139.654785, 383.739594, 9736.254883>, 0/1 deceased)
+01:41:47.941 [AI Object Patrol 00000] Global patrol count: 4
+01:42:47.644 [AI Object Patrol 00029] Despawning 1 Raiders bots (spawn position <9077.255859, 247.845139, 8055.715332>, 0/1 deceased)
+01:42:47.645 [AI Object Patrol 00029] Global patrol count: 3
+01:42:51.578 [AI Object Patrol 00054] Despawning 3 Raiders bots (spawn position <8187.086914, 443.763885, 7727.182129>, 0/3 deceased)
+01:42:51.578 [AI Object Patrol 00054] Global patrol count: 2
+01:44:18.443 [AI Object Patrol 00056] Despawning 1 Raiders bots (spawn position <8158.095703, 177.373001, 5029.796387>, 0/1 deceased)
+01:44:18.444 [AI Object Patrol 00056] Global patrol count: 1
+01:45:29.175 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=A54C656BD440E088AE8159959D4E13D6 pos=<6226.47, 9, 2495.57>) as pilot
+01:45:31.483 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=A54C656BD440E088AE8159959D4E13D6 pos=<6226.491211, 8.993430, 2495.581543>)
+01:46:05.304 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=A54C656BD440E088AE8159959D4E13D6 pos=<6548.06, 38.49, 2328.86>)
+01:47:06.009 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=2CD598145F47775A41C3A8B2B616B4A0 pos=<6530.81, 6.2, 2323.37>) as pilot
+01:47:09.354 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=2CD598145F47775A41C3A8B2B616B4A0 pos=<6530.811523, 6.196090, 2323.375244>)
+01:47:14.565 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] stopped vehicle Gyrocopter (id=2CD598145F47775A41C3A8B2B616B4A0 pos=<6531.017578, 8.575796, 2323.486328>)
+01:47:18.265 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=2CD598145F47775A41C3A8B2B616B4A0 pos=<6532.147461, 8.338751, 2324.385254>)
+01:48:11.736 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] stopped vehicle Gyrocopter (id=2CD598145F47775A41C3A8B2B616B4A0 pos=<6562.425781, 51.032436, 2333.354736>)
+01:48:17.385 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=2CD598145F47775A41C3A8B2B616B4A0 pos=<6562.43, 51.03, 2333.35>)
+01:49:11.678 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+01:49:11.678 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+01:49:11.679 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.

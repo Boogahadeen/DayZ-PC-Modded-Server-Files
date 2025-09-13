@@ -1,0 +1,30 @@
+{
+    "m_Version": 15,
+    "AccuracyMin": 0.3499999940395355,
+    "AccuracyMax": 0.949999988079071,
+    "ThreatDistanceLimit": 1000.0,
+    "NoiseInvestigationDistanceLimit": 500.0,
+    "DamageMultiplier": 0.699999988079071,
+    "DamageReceivedMultiplier": 1.0,
+    "Admins": [
+        "76561199205606578",
+        "76561199569546626"
+    ],
+    "Vaulting": 1,
+    "SniperProneDistanceThreshold": 0.0,
+    "Manners": 1,
+    "MemeLevel": 1,
+    "CanRecruitFriendly": 1,
+    "CanRecruitGuards": 0,
+    "PreventClimb": [],
+    "FormationScale": 1.0,
+    "PlayerFactions": [],
+    "LogAIHitBy": 1,
+    "LogAIKilled": 1,
+    "EnableZombieVehicleAttackHandler": 0,
+    "EnableZombieVehicleAttackPhysics": 0,
+    "LightingConfigMinNightVisibilityMeters": {
+        "0": 100.0,
+        "1": 10.0
+    }
+}

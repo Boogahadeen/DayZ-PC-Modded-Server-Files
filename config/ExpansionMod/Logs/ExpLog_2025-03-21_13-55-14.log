@@ -1,0 +1,150 @@
+14:01:20.914 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.933 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.933 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.933 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.933 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.937 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.937 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.937 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.941 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.941 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.941 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.941 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.941 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.941 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.945 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.945 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.945 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.945 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.945 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.945 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.945 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.949 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.949 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.949 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.949 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.953 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.953 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.953 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.953 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.957 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:20.957 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:01:38.097 [SpawnSelection] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) spawned at <13274.000000, 1.783500, 7258.810059>
+14:04:24.402 [MissionAirdrop] An airdrop is heading towards "Berezino" (pos=<11464.000000, 0.000000, 8908.000000> type=Random_Berezino) with a ExpansionAirdropContainer_Military
+14:14:45.746 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=AFFC73B4624E0E6D5E7FC3B7EA84269F pos=<13274, 1.79, 7258.86>) as pilot
+14:14:49.441 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=AFFC73B4624E0E6D5E7FC3B7EA84269F pos=<13273.989258, 1.787518, 7258.859375>)
+14:16:31.261 [AI Object Patrol 00057] Spawning 3 Raiders bots at <11764.865234, 81.027618, 6318.959473>
+14:16:31.300 [AI Object Patrol 00057] Global patrol count: 1
+14:17:33.015 [AI Object Patrol 00032] Spawning 2 Raiders bots at <11722.393555, 192.585815, 4435.604980>
+14:17:33.062 [AI Object Patrol 00032] Global patrol count: 2
+14:23:21.179 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=AFFC73B4624E0E6D5E7FC3B7EA84269F pos=<11602.2, 184.43, 4447.87>)
+14:25:13.625 [Killfeed] AI Rolf (Raiders) got killed by Boogahadeen with testing AKM from a distance of 99 m.
+14:27:01.265 [Killfeed] AI Lewis (Raiders) got killed by Boogahadeen with testing AKM from a distance of 2 m.
+14:27:05.246 [AI Object Patrol 00032] Raiders bots were wiped out (spawn position <11722.393555, 192.585815, 4435.604980>, 2/2 deceased)
+14:27:05.246 [AI Object Patrol 00032] Global patrol count: 1
+14:27:16.312 [AI Object Patrol 00057] Despawning 3 Raiders bots (spawn position <11764.865234, 81.027618, 6318.959473>, 0/3 deceased)
+14:27:16.312 [AI Object Patrol 00057] Global patrol count: 0
+14:29:16.277 [AI Object Patrol 00010] Spawning 2 Raiders bots at <7903.657715, 181.523819, 11983.916016>
+14:29:16.359 [AI Object Patrol 00010] Global patrol count: 1
+15:32:55.265 [MissionAirdrop] An airdrop is heading towards "Skalisty Island" (pos=<13452.000000, 0.000000, 3112.000000> type=Random_Skalisty Island) with a ExpansionAirdropContainer_Basebuilding
+15:58:03.765 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=9F5D7341264F0F7E4E1DEB87DD447B9B pos=<7994.62, 129.26, 12611.2>) as pilot
+15:58:06.484 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=9F5D7341264F0F7E4E1DEB87DD447B9B pos=<7994.623047, 129.260925, 12611.186523>)
+15:58:27.660 [AI Patrol 00041] Spawning 3 Mercenaries bots at <6629.330078, 139.002655, 12719.334961>
+15:58:27.777 [AI Patrol 00041] Global patrol count: 2
+15:59:13.097 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=9F5D7341264F0F7E4E1DEB87DD447B9B pos=<6630.61, 169.62, 12500.6>)
+16:00:45.335 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=9F5D7341264F0F7E4E1DEB87DD447B9B pos=<6630.82, 169.61, 12500.5>) as pilot
+16:00:47.617 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=9F5D7341264F0F7E4E1DEB87DD447B9B pos=<6630.828125, 169.615814, 12500.540039>)
+16:01:25.210 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=9F5D7341264F0F7E4E1DEB87DD447B9B pos=<6692.8, 139.05, 12628.2>)
+16:01:41.445 [Killfeed] AI Naomi (Mercenaries) got killed by Boogahadeen with testing AKM from a distance of 0 m.
+16:03:56.351 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=9F5D7341264F0F7E4E1DEB87DD447B9B pos=<6692.9, 139.05, 12628.1>) as pilot
+16:04:34.320 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=9F5D7341264F0F7E4E1DEB87DD447B9B pos=<6692.91, 139.05, 12628.1>)
+16:04:55.222 [VehicleDeleted] ExpansionGyrocopter (id=9F5D7341264F0F7E4E1DEB87DD447B9B pos=<6692.92, 139.05, 12628>)
+16:05:55.027 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Mh-6 Little Bird (id=71248891E14FDD50909067BAE2E832AC pos=<6693.6, 139.06, 12629.2>) as pilot
+16:06:21.472 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Mh-6 Little Bird (id=71248891E14FDD50909067BAE2E832AC pos=<6693.613281, 139.060120, 12629.234375>)
+16:07:26.371 [AI Object Patrol 00085] Spawning 2 Raiders bots at <4825.649414, 178.112427, 12696.376953>
+16:07:26.515 [AI Object Patrol 00085] Global patrol count: 3
+16:08:07.117 [AI Patrol 00041] Despawning 2 Mercenaries bots (spawn position <6629.330078, 139.002655, 12719.334961>, 1/3 deceased)
+16:08:07.117 [AI Patrol 00041] Global patrol count: 2
+16:08:48.156 [AI Object Patrol 00010] Despawning 2 Raiders bots (spawn position <7903.657715, 181.523819, 11983.916016>, 0/2 deceased)
+16:08:48.156 [AI Object Patrol 00010] Global patrol count: 1
+16:09:54.734 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Mh-6 Little Bird (id=71248891E14FDD50909067BAE2E832AC pos=<4780.94, 173.74, 12997.2>)
+16:10:29.910 [Killfeed] AI Frida (Raiders) got killed by Boogahadeen with The Fix by Q from a distance of 2 m.
+16:10:40.828 [Killfeed] AI Mirek (Raiders) got killed by Boogahadeen with testing AKM from a distance of 2 m.
+16:10:43.167 [AI Object Patrol 00085] Raiders bots were wiped out (spawn position <4825.649414, 178.112427, 12696.376953>, 2/2 deceased)
+16:10:43.171 [AI Object Patrol 00085] Global patrol count: 0
+16:11:29.332 [VehicleDestroyed] ExpansionMh6_Digital (id=71248891E14FDD50909067BAE2E832AC pos=<4781.12, 173.13, 12996.5>)
+16:11:34.421 [VehicleDeleted] ExpansionMh6_Digital (id=71248891E14FDD50909067BAE2E832AC pos=<0, 0, 0>)
+16:15:45.582 [AI Object Patrol 00063] Spawning 2 Raiders bots at <296.531860, 369.159668, 9781.645508>
+16:15:45.675 [AI Object Patrol 00063] Global patrol count: 1
+16:15:45.675 [AI Object Patrol 00035] Spawning 1 Raiders bots at <1060.543823, 350.138062, 11248.750977>
+16:15:45.746 [AI Object Patrol 00035] Global patrol count: 2
+16:36:21.542 [AI Object Patrol 00085] Despawning 0 Raiders bots (spawn position <4802.392090, 179.118195, 12696.098633>, 2/2 deceased)
+16:37:16.812 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold mmg_combatpants_tan x1 (5293e810) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1500.
+16:37:22.125 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold mmg_boonie_erdl x1 (529302e0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 900.
+16:37:24.312 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold mmg_tactical_helmet_multicam x1 (5fc2f4d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1500.
+16:37:28.281 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold pokemoncard030 x1 (442c3560) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1000.
+16:37:29.089 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold pokemoncard033 x1 (442c40f0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1000.
+16:37:29.835 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold pokemoncard037 x1 (442ca900) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1000.
+16:37:31.785 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:33.351 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:34.851 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:35.015 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:35.195 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:35.347 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:35.484 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:35.640 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:35.812 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:35.984 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:36.109 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:36.296 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:36.425 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:36.574 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:36.742 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:36.906 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:37.035 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:37.195 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:37.332 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:37.484 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:37.625 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:37.804 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:37.945 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:38.097 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:38.242 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:38.371 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:38.507 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:38.695 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:38.867 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:39.000 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:39.132 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:39.300 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:39.464 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:39.609 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:39.742 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:41.312 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:43.792 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x1 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+16:37:54.757 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldbar x63 (442c29d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 220500.
+16:37:56.640 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldnugget x1 (442b9f10) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+16:38:02.656 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldnugget x1 (442b9f10) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+16:38:02.835 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldnugget x1 (442b9f10) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+16:38:03.007 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldnugget x1 (442b9f10) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+16:38:03.175 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldnugget x1 (442b9f10) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+16:38:03.320 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldnugget x1 (442b9f10) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+16:38:03.441 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldnugget x1 (442b9f10) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+16:38:03.632 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldnugget x1 (442b9f10) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+16:38:03.765 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldnugget x1 (442b9f10) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+16:38:03.906 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldnugget x1 (442b9f10) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+16:38:04.078 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldnugget x1 (442b9f10) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+16:38:04.218 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldnugget x1 (442b9f10) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+16:38:14.578 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold expansiongoldnugget x88 (442b9f10) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 105600.
+16:49:30.613 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought flag_spnb5 x1 (52877000) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 2500.
+16:49:32.113 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought flag_spnb4 x1 (5287cc80) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 2500.
+16:49:35.253 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought flag_spnb4 x1 (528811e0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 2500.
+16:54:13.828 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_LAW_Explosion<dbf5b0f0> at <549.57, 440.47, 10646.1> EXPLOSION range 12 dropoff 3
+16:54:40.226 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+16:54:40.230 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+16:54:40.230 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+17:04:10.960 [MissionAirdrop] An airdrop is heading towards "Chernogorsk" (pos=<6128.000000, 0.000000, 2497.000000> type=Random_Chernogorsk) with a ExpansionAirdropContainer_Basebuilding
+17:04:35.773 [AI Object Patrol 00035] Despawning 1 Raiders bots (spawn position <1060.543823, 350.138062, 11248.750977>, 0/1 deceased)
+17:04:35.773 [AI Object Patrol 00035] Global patrol count: 1
+17:04:37.878 [AI Object Patrol 00063] Despawning 2 Raiders bots (spawn position <296.531860, 369.159668, 9781.645508>, 0/2 deceased)
+17:04:37.878 [AI Object Patrol 00063] Global patrol count: 0

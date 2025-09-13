@@ -1,0 +1,4907 @@
+{
+  "MapName": "ChernarusPlus",
+  "CameraPosition": [
+    12190.46484375,
+    141.2143096923828,
+    12420.7958984375
+  ],
+  "EditorObjects": [
+    {
+      "Type": "StaticObj_Roadblock_Bags_Curve",
+      "DisplayName": "StaticObj_Roadblock_Bags_Curve",
+      "Position": [
+        12208.001953125,
+        140.48863220214844,
+        12404.1630859375
+      ],
+      "Orientation": [
+        42.82919692993164,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Pillbox",
+      "DisplayName": "StaticObj_Roadblock_Pillbox",
+      "Position": [
+        12124.3583984375,
+        140.53839111328125,
+        12487.8798828125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_CamoNet_Tent2",
+      "DisplayName": "StaticObj_Mil_CamoNet_Tent2",
+      "Position": [
+        12260.6064453125,
+        142.4901885986328,
+        12377.7255859375
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_BoxWooden",
+      "DisplayName": "StaticObj_Misc_BoxWooden",
+      "Position": [
+        12258.923828125,
+        140.4207000732422,
+        12377.9462890625
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_BoxWooden",
+      "DisplayName": "StaticObj_Misc_BoxWooden",
+      "Position": [
+        12260.517578125,
+        140.4207000732422,
+        12377.7470703125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_BoxWooden",
+      "DisplayName": "StaticObj_Misc_BoxWooden",
+      "Position": [
+        12259.73828125,
+        141.39073181152344,
+        12377.796875
+      ],
+      "Orientation": [
+        -51.56638717651367,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_WoodenCrate_5x",
+      "DisplayName": "StaticObj_Misc_WoodenCrate_5x",
+      "Position": [
+        12215.0341796875,
+        140.98419189453125,
+        12407.322265625
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_Uaz",
+      "DisplayName": "Land_Wreck_Uaz",
+      "Position": [
+        12263.609375,
+        140.83663940429688,
+        12390.921875
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_offroad02_aban2",
+      "DisplayName": "Land_Wreck_offroad02_aban2",
+      "Position": [
+        12245.43359375,
+        141.6175994873047,
+        12383.36328125
+      ],
+      "Orientation": [
+        -108.86231231689453,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Wreck_Mi8_Crashed",
+      "DisplayName": "Wreck_Mi8_Crashed",
+      "Position": [
+        12219.47265625,
+        141.98617553710938,
+        12481.3515625
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_ATC_Small",
+      "DisplayName": "Land_Mil_ATC_Small",
+      "Position": [
+        12164.720703125,
+        150.43299865722656,
+        12811.3564453125
+      ],
+      "Orientation": [
+        58.58540344238281,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12160.81640625,
+        125.10968780517578,
+        12875.91796875
+      ],
+      "Orientation": [
+        148.29489135742188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Barracks6",
+      "DisplayName": "Land_Mil_Barracks6",
+      "Position": [
+        12093.5927734375,
+        139.94639587402344,
+        12572.3984375
+      ],
+      "Orientation": [
+        -93.10460662841797,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Barracks6",
+      "DisplayName": "Land_Mil_Barracks6",
+      "Position": [
+        12117.5087890625,
+        140.2815399169922,
+        12595.525390625
+      ],
+      "Orientation": [
+        -3.579200029373169,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Barracks6",
+      "DisplayName": "Land_Mil_Barracks6",
+      "Position": [
+        12119.755859375,
+        140.30406188964844,
+        12548.263671875
+      ],
+      "Orientation": [
+        -160.0001678466797,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Pier_Concrete2",
+      "DisplayName": "StaticObj_Pier_Concrete2",
+      "Position": [
+        12124.583984375,
+        116.0010757446289,
+        12574.30859375
+      ],
+      "Orientation": [
+        -4.298097133636475,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Statue_General",
+      "DisplayName": "StaticObj_Statue_General",
+      "Position": [
+        12124.650390625,
+        143.1056365966797,
+        12574.3203125
+      ],
+      "Orientation": [
+        -94.43384552001953,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Fountain",
+      "DisplayName": "StaticObj_Misc_Fountain",
+      "Position": [
+        12135.759765625,
+        140.3831329345703,
+        12575.25
+      ],
+      "Orientation": [
+        -4.011552810668945,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Fountain",
+      "DisplayName": "StaticObj_Misc_Fountain",
+      "Position": [
+        12112.9873046875,
+        140.3831329345703,
+        12573.052734375
+      ],
+      "Orientation": [
+        -4.011552810668945,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_offroad02_aban2",
+      "DisplayName": "Land_Wreck_offroad02_aban2",
+      "Position": [
+        12123.4482421875,
+        141.73422241210938,
+        12559.9521484375
+      ],
+      "Orientation": [
+        125.08644104003906,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Wreck_Mi8_Crashed",
+      "DisplayName": "Wreck_Mi8_Crashed",
+      "Position": [
+        12143.7412109375,
+        141.8936767578125,
+        12543.5732421875
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12212.1875,
+        163.97496032714844,
+        12516.1416015625
+      ],
+      "Orientation": [
+        -67.89678192138672,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12215.2490234375,
+        163.97496032714844,
+        12514.85546875
+      ],
+      "Orientation": [
+        -67.89678192138672,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12218.310546875,
+        163.97496032714844,
+        12513.58984375
+      ],
+      "Orientation": [
+        -67.89678192138672,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12107.837890625,
+        140.75189208984375,
+        12563.734375
+      ],
+      "Orientation": [
+        -3.5809803009033203,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12113.55078125,
+        140.75189208984375,
+        12564.1328125
+      ],
+      "Orientation": [
+        -3.580980062484741,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12119.3193359375,
+        140.75189208984375,
+        12564.5810546875
+      ],
+      "Orientation": [
+        -3.580979824066162,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12130.671875,
+        140.75189208984375,
+        12565.4189453125
+      ],
+      "Orientation": [
+        -3.580980062484741,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12136.3818359375,
+        140.75189208984375,
+        12565.8173828125
+      ],
+      "Orientation": [
+        -3.580979824066162,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12142.1064453125,
+        140.75189208984375,
+        12566.265625
+      ],
+      "Orientation": [
+        -3.580979585647583,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12143.5166015625,
+        140.75189208984375,
+        12581.5107421875
+      ],
+      "Orientation": [
+        -92.67566680908203,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12143.9111328125,
+        140.75189208984375,
+        12570.1357421875
+      ],
+      "Orientation": [
+        -92.67566680908203,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12135.6640625,
+        140.75189208984375,
+        12584.623046875
+      ],
+      "Orientation": [
+        -3.7242186069488525,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12141.42578125,
+        140.75189208984375,
+        12585.0849609375
+      ],
+      "Orientation": [
+        -3.7242186069488525,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12129.9228515625,
+        140.75189208984375,
+        12584.2109375
+      ],
+      "Orientation": [
+        -3.7242186069488525,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12104.4873046875,
+        140.75189208984375,
+        12578.58984375
+      ],
+      "Orientation": [
+        -94.39458465576172,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12105.4384765625,
+        140.75189208984375,
+        12567.2822265625
+      ],
+      "Orientation": [
+        -94.39458465576172,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12106.3466796875,
+        140.75189208984375,
+        12582.525390625
+      ],
+      "Orientation": [
+        -3.580980062484741,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12112.0595703125,
+        140.75189208984375,
+        12582.923828125
+      ],
+      "Orientation": [
+        -3.580979824066162,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_HBarrier_6m",
+      "DisplayName": "StaticObj_Mil_HBarrier_6m",
+      "Position": [
+        12117.828125,
+        140.75189208984375,
+        12583.3720703125
+      ],
+      "Orientation": [
+        -3.580979585647583,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Fortified_Nest_Big",
+      "DisplayName": "Land_Mil_Fortified_Nest_Big",
+      "Position": [
+        12054.9833984375,
+        140.7804412841797,
+        12515.5234375
+      ],
+      "Orientation": [
+        22.058704376220703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Airfield_Hangar_Green",
+      "DisplayName": "Land_Airfield_Hangar_Green",
+      "Position": [
+        11761.322265625,
+        146.6875762939453,
+        12682.599609375
+      ],
+      "Orientation": [
+        -116.32471466064453,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wall_Gate_Tin6_2",
+      "DisplayName": "Land_Wall_Gate_Tin6_2",
+      "Position": [
+        12153.91015625,
+        141.01625061035156,
+        12608.296875
+      ],
+      "Orientation": [
+        173.6456298828125,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Tin7_8",
+      "DisplayName": "StaticObj_Wall_Tin7_8",
+      "Position": [
+        12147.892578125,
+        141.35372924804688,
+        12607.712890625
+      ],
+      "Orientation": [
+        174.6072540283203,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Tin7_8",
+      "DisplayName": "StaticObj_Wall_Tin7_8",
+      "Position": [
+        12139.9619140625,
+        141.35372924804688,
+        12606.9541015625
+      ],
+      "Orientation": [
+        174.6072540283203,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Tin7_4",
+      "DisplayName": "StaticObj_Wall_Tin7_4",
+      "Position": [
+        12134.2861328125,
+        141.33641052246094,
+        12605.517578125
+      ],
+      "Orientation": [
+        147.82217407226562,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wall_Gate_Tin6_1",
+      "DisplayName": "Land_Wall_Gate_Tin6_1",
+      "Position": [
+        12132.4541015625,
+        140.71900939941406,
+        12603.0830078125
+      ],
+      "Orientation": [
+        100.69693756103516,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Tin7_8",
+      "DisplayName": "StaticObj_Wall_Tin7_8",
+      "Position": [
+        12167.87890625,
+        141.35372924804688,
+        12609.4794921875
+      ],
+      "Orientation": [
+        177.4717254638672,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Tin7_8",
+      "DisplayName": "StaticObj_Wall_Tin7_8",
+      "Position": [
+        12159.9482421875,
+        141.35372924804688,
+        12608.896484375
+      ],
+      "Orientation": [
+        174.6072540283203,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Tin7_8",
+      "DisplayName": "StaticObj_Wall_Tin7_8",
+      "Position": [
+        12175.765625,
+        141.35372924804688,
+        12609.8251953125
+      ],
+      "Orientation": [
+        177.4717254638672,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Tin7_8",
+      "DisplayName": "StaticObj_Wall_Tin7_8",
+      "Position": [
+        12183.693359375,
+        141.35372924804688,
+        12610.1884765625
+      ],
+      "Orientation": [
+        177.4717254638672,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Tin7_8",
+      "DisplayName": "StaticObj_Wall_Tin7_8",
+      "Position": [
+        12183.0859375,
+        141.35372924804688,
+        12599.29296875
+      ],
+      "Orientation": [
+        -67.36285400390625,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Tin7_8",
+      "DisplayName": "StaticObj_Wall_Tin7_8",
+      "Position": [
+        12186.1640625,
+        141.35372924804688,
+        12606.64453125
+      ],
+      "Orientation": [
+        -67.36288452148438,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Tin7_8",
+      "DisplayName": "StaticObj_Wall_Tin7_8",
+      "Position": [
+        12176.921875,
+        141.35372924804688,
+        12584.55078125
+      ],
+      "Orientation": [
+        -67.36285400390625,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Tin7_8",
+      "DisplayName": "StaticObj_Wall_Tin7_8",
+      "Position": [
+        12180,
+        141.35372924804688,
+        12591.90234375
+      ],
+      "Orientation": [
+        -67.36288452148438,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Tin7_8",
+      "DisplayName": "StaticObj_Wall_Tin7_8",
+      "Position": [
+        12171.0888671875,
+        141.35372924804688,
+        12570.611328125
+      ],
+      "Orientation": [
+        -67.36286163330078,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Tin7_8",
+      "DisplayName": "StaticObj_Wall_Tin7_8",
+      "Position": [
+        12174.1669921875,
+        141.35372924804688,
+        12577.962890625
+      ],
+      "Orientation": [
+        -67.36288452148438,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Shed_Open_Small_Complete",
+      "DisplayName": "StaticObj_Shed_Open_Small_Complete",
+      "Position": [
+        12175.326171875,
+        142.64244079589844,
+        12592.26953125
+      ],
+      "Orientation": [
+        -156.989013671875,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_Tractor",
+      "DisplayName": "Land_Wreck_Tractor",
+      "Position": [
+        12177.0830078125,
+        141.1639404296875,
+        12600.2158203125
+      ],
+      "Orientation": [
+        91.6732177734375,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_Harverster",
+      "DisplayName": "Land_Wreck_Harverster",
+      "Position": [
+        12171.1279296875,
+        141.87672424316406,
+        12585.1259765625
+      ],
+      "Orientation": [
+        -70.18724822998047,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_Harvester_head_trailer",
+      "DisplayName": "Land_Wreck_Harvester_head_trailer",
+      "Position": [
+        12173.8515625,
+        141.35235595703125,
+        12593.4521484375
+      ],
+      "Orientation": [
+        80.2140884399414,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Barricade",
+      "DisplayName": "StaticObj_Misc_Barricade",
+      "Position": [
+        12179.091796875,
+        141.33148193359375,
+        12607.3076171875
+      ],
+      "Orientation": [
+        -1.4324244260787964,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Guardhouse1",
+      "DisplayName": "Land_Mil_Guardhouse1",
+      "Position": [
+        12350.8017578125,
+        142.9076385498047,
+        12691.033203125
+      ],
+      "Orientation": [
+        -72.76558685302734,
+        -1.4063928127288818,
+        -1.6677498817443848
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Fen5_10",
+      "DisplayName": "StaticObj_Wall_Fen5_10",
+      "Position": [
+        12242.3876953125,
+        141.42478942871094,
+        12612.43359375
+      ],
+      "Orientation": [
+        -139.3939971923828,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_BagFence_3m",
+      "DisplayName": "StaticObj_Misc_BagFence_3m",
+      "Position": [
+        12168.9775390625,
+        140.4314727783203,
+        12817.0947265625
+      ],
+      "Orientation": [
+        59.15802001953125,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_TirePile",
+      "DisplayName": "StaticObj_Misc_TirePile",
+      "Position": [
+        12165.47265625,
+        144.34115600585938,
+        12814.2392578125
+      ],
+      "Orientation": [
+        99.69464111328125,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_TinCom_9",
+      "DisplayName": "StaticObj_Wall_TinCom_9",
+      "Position": [
+        12163.9560546875,
+        140.42471313476562,
+        12823.5751953125
+      ],
+      "Orientation": [
+        150.15435791015625,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Shed_W3",
+      "DisplayName": "Land_Shed_W3",
+      "Position": [
+        12176.2705078125,
+        141.1035919189453,
+        12465.2802734375
+      ],
+      "Orientation": [
+        22.488576889038086,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Barricade",
+      "DisplayName": "StaticObj_Misc_Barricade",
+      "Position": [
+        12184.90234375,
+        140.68421936035156,
+        12462.3603515625
+      ],
+      "Orientation": [
+        73.05193328857422,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Barricade1_4",
+      "DisplayName": "StaticObj_Wall_Barricade1_4",
+      "Position": [
+        12160.8642578125,
+        139.98101806640625,
+        12576.099609375
+      ],
+      "Orientation": [
+        27.071929931640625,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Barricade1_10",
+      "DisplayName": "StaticObj_Wall_Barricade1_10",
+      "Position": [
+        12135.125,
+        139.96340942382812,
+        12567.3955078125
+      ],
+      "Orientation": [
+        -3.1513290405273438,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Misc_Toilet_Mobile",
+      "DisplayName": "Land_Misc_Toilet_Mobile",
+      "Position": [
+        12105.857421875,
+        141.18746948242188,
+        12580.9609375
+      ],
+      "Orientation": [
+        -3.724306106567383,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Misc_Scaffolding",
+      "DisplayName": "Land_Misc_Scaffolding",
+      "Position": [
+        12226.6044921875,
+        142.7626953125,
+        12520.0263671875
+      ],
+      "Orientation": [
+        -158.27923583984375,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Pallets1",
+      "DisplayName": "StaticObj_Misc_Pallets1",
+      "Position": [
+        12107.2509765625,
+        140.3585968017578,
+        12580.9189453125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Hedgehog_Concrete",
+      "DisplayName": "StaticObj_Misc_Hedgehog_Concrete",
+      "Position": [
+        12104.953125,
+        140.63754272460938,
+        12574.787109375
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Hedgehog_Concrete",
+      "DisplayName": "StaticObj_Misc_Hedgehog_Concrete",
+      "Position": [
+        12105.2724609375,
+        140.65005493164062,
+        12570.8203125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Bench4",
+      "DisplayName": "StaticObj_Misc_Bench4",
+      "Position": [
+        12121.193359375,
+        140.3721466064453,
+        12573.865234375
+      ],
+      "Orientation": [
+        85.37045288085938,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Bench4",
+      "DisplayName": "StaticObj_Misc_Bench4",
+      "Position": [
+        12128.3623046875,
+        140.36888122558594,
+        12574.63671875
+      ],
+      "Orientation": [
+        -93.53561401367188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Bench4",
+      "DisplayName": "StaticObj_Misc_Bench4",
+      "Position": [
+        12113.30078125,
+        140.3721466064453,
+        12568.9580078125
+      ],
+      "Orientation": [
+        -3.7246484756469727,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Bench4",
+      "DisplayName": "StaticObj_Misc_Bench4",
+      "Position": [
+        12135.9912109375,
+        140.3721466064453,
+        12571.404296875
+      ],
+      "Orientation": [
+        -3.7246484756469727,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Tree_Pavement1",
+      "DisplayName": "StaticObj_Misc_Tree_Pavement1",
+      "Position": [
+        12117.5322265625,
+        140.16250610351562,
+        12573.6083984375
+      ],
+      "Orientation": [
+        -4.583765506744385,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Tree_Pavement1",
+      "DisplayName": "StaticObj_Misc_Tree_Pavement1",
+      "Position": [
+        12131.4775390625,
+        140.16250610351562,
+        12574.7041015625
+      ],
+      "Orientation": [
+        -4.583765506744385,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_WoodTable_Outdoor",
+      "DisplayName": "StaticObj_Misc_WoodTable_Outdoor",
+      "Position": [
+        12140.27734375,
+        140.4625244140625,
+        12581.9697265625
+      ],
+      "Orientation": [
+        -57.29572677612305,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_WoodenCrate_5x",
+      "DisplayName": "StaticObj_Misc_WoodenCrate_5x",
+      "Position": [
+        12141.8525390625,
+        140.92433166503906,
+        12568.40625
+      ],
+      "Orientation": [
+        -51.56615447998047,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Hedgehog_Concrete",
+      "DisplayName": "StaticObj_Misc_Hedgehog_Concrete",
+      "Position": [
+        12121.611328125,
+        140.63754272460938,
+        12583.7236328125
+      ],
+      "Orientation": [
+        -89.23800659179688,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Hedgehog_Concrete",
+      "DisplayName": "StaticObj_Misc_Hedgehog_Concrete",
+      "Position": [
+        12126.3662109375,
+        140.65005493164062,
+        12583.994140625
+      ],
+      "Orientation": [
+        -89.23800659179688,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Hedgehog_Concrete",
+      "DisplayName": "StaticObj_Misc_Hedgehog_Concrete",
+      "Position": [
+        12143.689453125,
+        140.63754272460938,
+        12573.7900390625
+      ],
+      "Orientation": [
+        -179.6222381591797,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Hedgehog_Concrete",
+      "DisplayName": "StaticObj_Misc_Hedgehog_Concrete",
+      "Position": [
+        12143.47265625,
+        140.65005493164062,
+        12577.875
+      ],
+      "Orientation": [
+        -179.6222381591797,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Hedgehog_Concrete",
+      "DisplayName": "StaticObj_Misc_Hedgehog_Concrete",
+      "Position": [
+        12123.0380859375,
+        140.63754272460938,
+        12564.8857421875
+      ],
+      "Orientation": [
+        -89.23800659179688,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Hedgehog_Concrete",
+      "DisplayName": "StaticObj_Misc_Hedgehog_Concrete",
+      "Position": [
+        12127.0693359375,
+        140.65005493164062,
+        12565.2529296875
+      ],
+      "Orientation": [
+        -89.23800659179688,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Sunshade",
+      "DisplayName": "StaticObj_Misc_Sunshade",
+      "Position": [
+        12113.296875,
+        141.39926147460938,
+        12568.427734375
+      ],
+      "Orientation": [
+        -2.00504207611084,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Sunshade",
+      "DisplayName": "StaticObj_Misc_Sunshade",
+      "Position": [
+        12136.013671875,
+        141.39926147460938,
+        12570.8505859375
+      ],
+      "Orientation": [
+        -2.00504207611084,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_CementWorks_ExpeditionC",
+      "DisplayName": "Land_CementWorks_ExpeditionC",
+      "Position": [
+        12222.51171875,
+        144.75621032714844,
+        12449.0224609375
+      ],
+      "Orientation": [
+        112.44253540039062,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_CementWorks_ExpeditionC",
+      "DisplayName": "Land_CementWorks_ExpeditionC",
+      "Position": [
+        12258.810546875,
+        144.6411895751953,
+        12433.9931640625
+      ],
+      "Orientation": [
+        112.44253540039062,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Lamp_Decorative",
+      "DisplayName": "StaticObj_Lamp_Decorative",
+      "Position": [
+        12131.60546875,
+        142.54568481445312,
+        12574.6943359375
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Lamp_Decorative",
+      "DisplayName": "StaticObj_Lamp_Decorative",
+      "Position": [
+        12117.6279296875,
+        142.54568481445312,
+        12573.61328125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_WoodTable_Indoor",
+      "DisplayName": "StaticObj_Misc_WoodTable_Indoor",
+      "Position": [
+        12110.4658203125,
+        140.37680053710938,
+        12578.4306640625
+      ],
+      "Orientation": [
+        -4.870244979858398,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_WoodTable_Indoor",
+      "DisplayName": "StaticObj_Misc_WoodTable_Indoor",
+      "Position": [
+        12113.2548828125,
+        140.37680053710938,
+        12578.6298828125
+      ],
+      "Orientation": [
+        -4.870244979858398,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_WoodTable_Indoor",
+      "DisplayName": "StaticObj_Misc_WoodTable_Indoor",
+      "Position": [
+        12116.2431640625,
+        140.37680053710938,
+        12578.9287109375
+      ],
+      "Orientation": [
+        -4.870244979858398,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Sunshade",
+      "DisplayName": "StaticObj_Misc_Sunshade",
+      "Position": [
+        12111.861328125,
+        141.39926147460938,
+        12578.5615234375
+      ],
+      "Orientation": [
+        -4.153681755065918,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Sunshade",
+      "DisplayName": "StaticObj_Misc_Sunshade",
+      "Position": [
+        12114.75,
+        141.39926147460938,
+        12578.7607421875
+      ],
+      "Orientation": [
+        -4.153681755065918,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Sunshade",
+      "DisplayName": "StaticObj_Misc_Sunshade",
+      "Position": [
+        12135.26953125,
+        141.39926147460938,
+        12579.9560546875
+      ],
+      "Orientation": [
+        -4.153681755065918,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_WoodTable_Indoor",
+      "DisplayName": "StaticObj_Misc_WoodTable_Indoor",
+      "Position": [
+        12130.9853515625,
+        140.37680053710938,
+        12579.6259765625
+      ],
+      "Orientation": [
+        -4.870244979858398,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_WoodTable_Indoor",
+      "DisplayName": "StaticObj_Misc_WoodTable_Indoor",
+      "Position": [
+        12133.7744140625,
+        140.37680053710938,
+        12579.8251953125
+      ],
+      "Orientation": [
+        -4.870244979858398,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_WoodTable_Indoor",
+      "DisplayName": "StaticObj_Misc_WoodTable_Indoor",
+      "Position": [
+        12136.7626953125,
+        140.37680053710938,
+        12580.1240234375
+      ],
+      "Orientation": [
+        -4.870244979858398,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Sunshade",
+      "DisplayName": "StaticObj_Misc_Sunshade",
+      "Position": [
+        12132.380859375,
+        141.39926147460938,
+        12579.7568359375
+      ],
+      "Orientation": [
+        -4.153681755065918,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Fen5_10",
+      "DisplayName": "StaticObj_Wall_Fen5_10",
+      "Position": [
+        12234.71484375,
+        141.42478942871094,
+        12618.8466796875
+      ],
+      "Orientation": [
+        -140.68344116210938,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Fen5_10",
+      "DisplayName": "StaticObj_Wall_Fen5_10",
+      "Position": [
+        12228.224609375,
+        141.42489624023438,
+        12618.2236328125
+      ],
+      "Orientation": [
+        -63.99469757080078,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Fen5_10",
+      "DisplayName": "StaticObj_Wall_Fen5_10",
+      "Position": [
+        12225.455078125,
+        141.42462158203125,
+        12612.484375
+      ],
+      "Orientation": [
+        -63.99469757080078,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Fen5_10",
+      "DisplayName": "StaticObj_Wall_Fen5_10",
+      "Position": [
+        12235.0986328125,
+        141.4230499267578,
+        12598.08984375
+      ],
+      "Orientation": [
+        -140.68344116210938,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wall_Fen5_10",
+      "DisplayName": "StaticObj_Wall_Fen5_10",
+      "Position": [
+        12227.3515625,
+        141.42344665527344,
+        12604.435546875
+      ],
+      "Orientation": [
+        -140.68344116210938,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Airfield_Hangar_Green",
+      "DisplayName": "Land_Airfield_Hangar_Green",
+      "Position": [
+        11843.400390625,
+        146.8000030517578,
+        12631.400390625
+      ],
+      "Orientation": [
+        -66.33480072021484,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_C130J",
+      "DisplayName": "Land_Wreck_C130J",
+      "Position": [
+        11898.7001953125,
+        145.12103271484375,
+        12607.5
+      ],
+      "Orientation": [
+        -66.6177978515625,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_AircraftShelter",
+      "DisplayName": "Land_Mil_AircraftShelter",
+      "Position": [
+        12000.7001953125,
+        140.20594787597656,
+        12489.2001953125
+      ],
+      "Orientation": [
+        -158.99998474121094,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_AircraftShelter",
+      "DisplayName": "Land_Mil_AircraftShelter",
+      "Position": [
+        12047.099609375,
+        140.20516967773438,
+        12470.5
+      ],
+      "Orientation": [
+        -158.99998474121094,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_AircraftShelter",
+      "DisplayName": "Land_Mil_AircraftShelter",
+      "Position": [
+        12097.099609375,
+        140.081787109375,
+        12450.2001953125
+      ],
+      "Orientation": [
+        -158.99998474121094,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Airfield_HQ",
+      "DisplayName": "Land_Mil_Airfield_HQ",
+      "Position": [
+        12053.6455078125,
+        145.48143005371094,
+        12574.8046875
+      ],
+      "Orientation": [
+        112.39800262451172,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_ATC_Big",
+      "DisplayName": "Land_Mil_ATC_Big",
+      "Position": [
+        12202.13671875,
+        155.66705322265625,
+        12518.408203125
+      ],
+      "Orientation": [
+        -66.9999771118164,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Airfield_Hangar_Green",
+      "DisplayName": "Land_Airfield_Hangar_Green",
+      "Position": [
+        12433.400390625,
+        146.6868133544922,
+        12390.7998046875
+      ],
+      "Orientation": [
+        111.93598175048828,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_ReinforcedTank2",
+      "DisplayName": "Land_Mil_ReinforcedTank2",
+      "Position": [
+        12144.60546875,
+        139.1026611328125,
+        12436.75
+      ],
+      "Orientation": [
+        -155.1471710205078,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Tent_Big3",
+      "DisplayName": "Land_Mil_Tent_Big3",
+      "Position": [
+        12179.0341796875,
+        141.1260223388672,
+        12396.115234375
+      ],
+      "Orientation": [
+        109.85665130615234,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        11837.0625,
+        159.96376037597656,
+        12719.7109375
+      ],
+      "Orientation": [
+        63.88401794433594,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        11801.0732421875,
+        160.02032470703125,
+        12702.158203125
+      ],
+      "Orientation": [
+        63.88401794433594,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        11908.447265625,
+        160.00982666015625,
+        12754.6240234375
+      ],
+      "Orientation": [
+        63.88401794433594,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        11872.4580078125,
+        160.06639099121094,
+        12737.0712890625
+      ],
+      "Orientation": [
+        63.88401794433594,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        11979.3740234375,
+        159.78257751464844,
+        12789.2724609375
+      ],
+      "Orientation": [
+        63.88401794433594,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        11943.384765625,
+        159.83914184570312,
+        12771.7197265625
+      ],
+      "Orientation": [
+        63.88401794433594,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12050.7587890625,
+        159.82864379882812,
+        12824.185546875
+      ],
+      "Orientation": [
+        63.88401794433594,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12014.76953125,
+        159.8852081298828,
+        12806.6328125
+      ],
+      "Orientation": [
+        63.88401794433594,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12121.6318359375,
+        159.8971405029297,
+        12858.7880859375
+      ],
+      "Orientation": [
+        63.88401794433594,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12085.642578125,
+        159.95370483398438,
+        12841.2353515625
+      ],
+      "Orientation": [
+        63.88401794433594,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12193.0166015625,
+        159.94320678710938,
+        12893.701171875
+      ],
+      "Orientation": [
+        63.88401794433594,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12157.02734375,
+        159.6122589111328,
+        12876.1484375
+      ],
+      "Orientation": [
+        63.88401794433594,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12202.6083984375,
+        159.99972534179688,
+        12808.1865234375
+      ],
+      "Orientation": [
+        148.29489135742188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12223.001953125,
+        159.99969482421875,
+        12775.2197265625
+      ],
+      "Orientation": [
+        148.29489135742188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12243.8291015625,
+        159.99972534179688,
+        12741.4443359375
+      ],
+      "Orientation": [
+        148.29489135742188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12326.572265625,
+        159.71456909179688,
+        12607.43359375
+      ],
+      "Orientation": [
+        148.29489135742188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12264.5244140625,
+        159.99972534179688,
+        12707.951171875
+      ],
+      "Orientation": [
+        148.29489135742188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12285.3515625,
+        159.32705688476562,
+        12674.17578125
+      ],
+      "Orientation": [
+        148.29489135742188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12305.7451171875,
+        159.71453857421875,
+        12641.208984375
+      ],
+      "Orientation": [
+        148.29489135742188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12381.671875,
+        159.7145233154297,
+        12518.087890625
+      ],
+      "Orientation": [
+        148.29489135742188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12402.314453125,
+        159.7145233154297,
+        12484.6796875
+      ],
+      "Orientation": [
+        148.29489135742188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12423.1943359375,
+        159.7145538330078,
+        12450.8193359375
+      ],
+      "Orientation": [
+        148.29489135742188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12360.8447265625,
+        159.71449279785156,
+        12551.86328125
+      ],
+      "Orientation": [
+        148.29489135742188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        12105,
+        150,
+        12813.2001953125
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        12093.689453125,
+        150.00003051757812,
+        12796.7080078125
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        12082.611328125,
+        150,
+        12780.96484375
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        12071.30078125,
+        150.00003051757812,
+        12764.47265625
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        12026.2763671875,
+        150,
+        12699.181640625
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        12059.9755859375,
+        149.99996948242188,
+        12747.9091796875
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        12048.6650390625,
+        150,
+        12731.4169921875
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        12037.5869140625,
+        149.99996948242188,
+        12715.673828125
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        11981.2568359375,
+        150,
+        12634.4833984375
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        12014.9560546875,
+        149.99996948242188,
+        12683.2109375
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        12003.6455078125,
+        150,
+        12666.71875
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        11992.5673828125,
+        149.99996948242188,
+        12650.9755859375
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        11970.171875,
+        150.00009155273438,
+        12618.5341796875
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Tower_TC4_Base",
+      "DisplayName": "Land_Tower_TC4_Base",
+      "Position": [
+        12035.4482421875,
+        161.35263061523438,
+        12769.060546875
+      ],
+      "Orientation": [
+        -76.23381805419922,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Tower_TC4_Mid",
+      "DisplayName": "Land_Tower_TC4_Mid",
+      "Position": [
+        12035.5986328125,
+        204.8867645263672,
+        12769.1357421875
+      ],
+      "Orientation": [
+        -76.23371124267578,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Tower_TC4_Top",
+      "DisplayName": "Land_Tower_TC4_Top",
+      "Position": [
+        12035.501953125,
+        245.30177307128906,
+        12769.1787109375
+      ],
+      "Orientation": [
+        -76.23371124267578,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        12116.4130859375,
+        150.00003051757812,
+        12829.4931640625
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        12127.6328125,
+        150.00001525878906,
+        12845.9453125
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12181.59375,
+        159.9996337890625,
+        12842.291015625
+      ],
+      "Orientation": [
+        148.29489135742188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Airfield_Hangar_Green",
+      "DisplayName": "Land_Airfield_Hangar_Green",
+      "Position": [
+        12179.2001953125,
+        146.85499572753906,
+        12890
+      ],
+      "Orientation": [
+        64.36409759521484,
+        0.4999998211860657,
+        0.999993085861206
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_poj_spoj",
+      "DisplayName": "StaticObj_Roads_Partrunway_poj_spoj",
+      "Position": [
+        11958.8427734375,
+        150.00001525878906,
+        12602.5390625
+      ],
+      "Orientation": [
+        -55.25989532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Garage_Small",
+      "DisplayName": "Land_Garage_Small",
+      "Position": [
+        11917,
+        141.34996032714844,
+        12565.2001953125
+      ],
+      "Orientation": [
+        -64.46379089355469,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Factory_Lathes",
+      "DisplayName": "Land_Factory_Lathes",
+      "Position": [
+        12252.3828125,
+        146.300537109375,
+        12590.580078125
+      ],
+      "Orientation": [
+        46.7540397644043,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Tisy_HQ",
+      "DisplayName": "Land_Tisy_HQ",
+      "Position": [
+        12249.5859375,
+        143.86965942382812,
+        12800.8740234375
+      ],
+      "Orientation": [
+        147.603515625,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Garage_Office",
+      "DisplayName": "Land_Garage_Office",
+      "Position": [
+        12261.751953125,
+        144.02023315429688,
+        12768.2119140625
+      ],
+      "Orientation": [
+        57.04557800292969,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Garage_Row_Big",
+      "DisplayName": "Land_Garage_Row_Big",
+      "Position": [
+        12272.2666015625,
+        143.76461791992188,
+        12755.48828125
+      ],
+      "Orientation": [
+        57.80263900756836,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Pipes",
+      "DisplayName": "StaticObj_Misc_Pipes",
+      "Position": [
+        12282.4365234375,
+        140.4313507080078,
+        12729.3134765625
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Pallets3",
+      "DisplayName": "StaticObj_Misc_Pallets3",
+      "Position": [
+        12281.52734375,
+        140.51388549804688,
+        12733.3759765625
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_GContainer_Big",
+      "DisplayName": "StaticObj_Misc_GContainer_Big",
+      "Position": [
+        12289.6435546875,
+        140.58726501464844,
+        12734.96875
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Coil",
+      "DisplayName": "StaticObj_Misc_Coil",
+      "Position": [
+        12253.244140625,
+        141.10621643066406,
+        12774.166015625
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_ConcretePanels",
+      "DisplayName": "StaticObj_Misc_ConcretePanels",
+      "Position": [
+        12258.1689453125,
+        140.99070739746094,
+        12787.2392578125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Sidewalk2_5m",
+      "DisplayName": "StaticObj_Sidewalk2_5m",
+      "Position": [
+        12125.0166015625,
+        139.91539001464844,
+        12566.4384765625
+      ],
+      "Orientation": [
+        -3.7242202758789062,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Sidewalk2_5m",
+      "DisplayName": "StaticObj_Sidewalk2_5m",
+      "Position": [
+        12124.6884765625,
+        139.91539001464844,
+        12571.427734375
+      ],
+      "Orientation": [
+        -3.7242202758789062,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Sidewalk2_5m",
+      "DisplayName": "StaticObj_Sidewalk2_5m",
+      "Position": [
+        12124.3603515625,
+        139.91539001464844,
+        12576.419921875
+      ],
+      "Orientation": [
+        -3.7242202758789062,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Sidewalk2_5m",
+      "DisplayName": "StaticObj_Sidewalk2_5m",
+      "Position": [
+        12124.041015625,
+        139.91539001464844,
+        12581.41796875
+      ],
+      "Orientation": [
+        -3.7242202758789062,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Sidewalk2_5m",
+      "DisplayName": "StaticObj_Sidewalk2_5m",
+      "Position": [
+        12107.0576171875,
+        139.9028778076172,
+        12573.021484375
+      ],
+      "Orientation": [
+        -94.39469146728516,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Sidewalk2_5m",
+      "DisplayName": "StaticObj_Sidewalk2_5m",
+      "Position": [
+        12112.0380859375,
+        139.9028778076172,
+        12573.3994140625
+      ],
+      "Orientation": [
+        -94.39469146728516,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Sidewalk2_5m",
+      "DisplayName": "StaticObj_Sidewalk2_5m",
+      "Position": [
+        12117.0244140625,
+        139.9028778076172,
+        12573.7685546875
+      ],
+      "Orientation": [
+        -94.39469146728516,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Sidewalk2_5m",
+      "DisplayName": "StaticObj_Sidewalk2_5m",
+      "Position": [
+        12122.0048828125,
+        139.9028778076172,
+        12574.146484375
+      ],
+      "Orientation": [
+        -94.39469146728516,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Sidewalk2_5m",
+      "DisplayName": "StaticObj_Sidewalk2_5m",
+      "Position": [
+        12129.96484375,
+        139.9028778076172,
+        12574.814453125
+      ],
+      "Orientation": [
+        -94.39469146728516,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Sidewalk2_5m",
+      "DisplayName": "StaticObj_Sidewalk2_5m",
+      "Position": [
+        12134.9453125,
+        139.9028778076172,
+        12575.1923828125
+      ],
+      "Orientation": [
+        -94.39469146728516,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Sidewalk2_5m",
+      "DisplayName": "StaticObj_Sidewalk2_5m",
+      "Position": [
+        12137.486328125,
+        139.91038513183594,
+        12575.3720703125
+      ],
+      "Orientation": [
+        -94.10820770263672,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Sidewalk2_5m",
+      "DisplayName": "StaticObj_Sidewalk2_5m",
+      "Position": [
+        12142.46875,
+        139.91038513183594,
+        12575.7265625
+      ],
+      "Orientation": [
+        -94.10820770263672,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Monument_Wall",
+      "DisplayName": "StaticObj_Monument_Wall",
+      "Position": [
+        12124.724609375,
+        140.9242706298828,
+        12572.115234375
+      ],
+      "Orientation": [
+        -4.29727840423584,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Monument_War2",
+      "DisplayName": "StaticObj_Monument_War2",
+      "Position": [
+        12136.1181640625,
+        139.5364227294922,
+        12572.6240234375
+      ],
+      "Orientation": [
+        -3.867551326751709,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Monument_War2",
+      "DisplayName": "StaticObj_Monument_War2",
+      "Position": [
+        12113.3076171875,
+        139.5364227294922,
+        12570.4326171875
+      ],
+      "Orientation": [
+        -3.8675496578216553,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wreck_Bulldozer",
+      "DisplayName": "StaticObj_Wreck_Bulldozer",
+      "Position": [
+        12251.3291015625,
+        141.45321655273438,
+        12493.3955078125
+      ],
+      "Orientation": [
+        -126.05059051513672,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Wreck_BRDM",
+      "DisplayName": "StaticObj_Wreck_BRDM",
+      "Position": [
+        12080.103515625,
+        140.69773864746094,
+        12507.814453125
+      ],
+      "Orientation": [
+        -80.21401977539062,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_TirePile_Large",
+      "DisplayName": "StaticObj_Misc_TirePile_Large",
+      "Position": [
+        12180.7861328125,
+        140.44729614257812,
+        12460.1171875
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Wreck_Mi8_Crashed",
+      "DisplayName": "Wreck_Mi8_Crashed",
+      "Position": [
+        12213.703125,
+        137.71604919433594,
+        12525.1708984375
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Wreck_Mi8_Crashed",
+      "DisplayName": "Wreck_Mi8_Crashed",
+      "Position": [
+        12054.318359375,
+        151.61700439453125,
+        12583.71875
+      ],
+      "Orientation": [
+        -51.13641357421875,
+        24.999393463134766,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Static_An2",
+      "DisplayName": "Land_Static_An2",
+      "Position": [
+        12186.63671875,
+        140.0772705078125,
+        12839.6015625
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Static_An2",
+      "DisplayName": "Land_Static_An2",
+      "Position": [
+        12427.91796875,
+        140.84518432617188,
+        12391.4501953125
+      ],
+      "Orientation": [
+        143.2393341064453,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Static_An2",
+      "DisplayName": "Land_Static_An2",
+      "Position": [
+        11995.7099609375,
+        140.01487731933594,
+        12595.3623046875
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Radome_Big",
+      "DisplayName": "Land_Mil_Radome_Big",
+      "Position": [
+        12306.001953125,
+        139.8734893798828,
+        12545.744140625
+      ],
+      "Orientation": [
+        168.01998901367188,
+        0,
+        0
+      ],
+      "Scale": 0.9999926686286926,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Radome_Big",
+      "DisplayName": "Land_Mil_Radome_Big",
+      "Position": [
+        12335.5859375,
+        139.8734893798828,
+        12505.701171875
+      ],
+      "Orientation": [
+        -66.89252471923828,
+        0,
+        0
+      ],
+      "Scale": 0.9999954700469971,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Radome_Big",
+      "DisplayName": "Land_Mil_Radome_Big",
+      "Position": [
+        12362.6796875,
+        139.8734893798828,
+        12468.34765625
+      ],
+      "Orientation": [
+        19.051172256469727,
+        0,
+        0
+      ],
+      "Scale": 0.9999942183494568,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Decal_Runway_Num0",
+      "DisplayName": "StaticObj_Decal_Runway_Num0",
+      "Position": [
+        12432.92578125,
+        141.51895141601562,
+        12426.8369140625
+      ],
+      "Orientation": [
+        -31.01189422607422,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Decal_Runway_Num0",
+      "DisplayName": "StaticObj_Decal_Runway_Num0",
+      "Position": [
+        12435.9189453125,
+        141.5189971923828,
+        12428.583984375
+      ],
+      "Orientation": [
+        -31.01192855834961,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Decal_Runway_Num3",
+      "DisplayName": "StaticObj_Decal_Runway_Num3",
+      "Position": [
+        12430.0146484375,
+        143.0387725830078,
+        12424.86328125
+      ],
+      "Orientation": [
+        -31.01189422607422,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Decal_Runway_Num1",
+      "DisplayName": "StaticObj_Decal_Runway_Num1",
+      "Position": [
+        12428.2333984375,
+        142.799072265625,
+        12423.75
+      ],
+      "Orientation": [
+        -31.01189422607422,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Decal_Runway_Num3",
+      "DisplayName": "StaticObj_Decal_Runway_Num3",
+      "Position": [
+        12439.9443359375,
+        143.0387420654297,
+        12430.92578125
+      ],
+      "Orientation": [
+        -31.01189422607422,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Decal_Runway_Num1",
+      "DisplayName": "StaticObj_Decal_Runway_Num1",
+      "Position": [
+        12438.28125,
+        142.79905700683594,
+        12429.8955078125
+      ],
+      "Orientation": [
+        -31.01189422607422,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Decal_Runway_Num5",
+      "DisplayName": "StaticObj_Decal_Runway_Num5",
+      "Position": [
+        12442.8837890625,
+        141.51979064941406,
+        12432.609375
+      ],
+      "Orientation": [
+        -30.011980056762695,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_ConcretePipe",
+      "DisplayName": "StaticObj_Misc_ConcretePipe",
+      "Position": [
+        12263.0419921875,
+        141.40707397460938,
+        12779.611328125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_GContainer_Big",
+      "DisplayName": "StaticObj_Misc_GContainer_Big",
+      "Position": [
+        12239.759765625,
+        140.908447265625,
+        12815.14453125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_BoardsPack3",
+      "DisplayName": "StaticObj_Misc_BoardsPack3",
+      "Position": [
+        12232.7265625,
+        141.69166564941406,
+        12608.970703125
+      ],
+      "Orientation": [
+        32.94503402709961,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Timbers1",
+      "DisplayName": "StaticObj_Misc_Timbers1",
+      "Position": [
+        12207.3232421875,
+        140.80552673339844,
+        12549.7734375
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_BlastCover1",
+      "DisplayName": "StaticObj_Mil_BlastCover1",
+      "Position": [
+        12419.4541015625,
+        141.7055206298828,
+        12367.2958984375
+      ],
+      "Orientation": [
+        21.682119369506836,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_BlastCover1",
+      "DisplayName": "StaticObj_Mil_BlastCover1",
+      "Position": [
+        12251.693359375,
+        141.99085998535156,
+        12497.642578125
+      ],
+      "Orientation": [
+        21.682144165039062,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_DragonTeeth",
+      "DisplayName": "StaticObj_Misc_DragonTeeth",
+      "Position": [
+        12196.2421875,
+        140.87130737304688,
+        12515.16015625
+      ],
+      "Orientation": [
+        113.61448669433594,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Barracks1",
+      "DisplayName": "Land_Mil_Barracks1",
+      "Position": [
+        12070.8349609375,
+        141.96176147460938,
+        12625.822265625
+      ],
+      "Orientation": [
+        -160.3619384765625,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Barracks2",
+      "DisplayName": "Land_Mil_Barracks2",
+      "Position": [
+        12055.349609375,
+        141.35272216796875,
+        12632.7216796875
+      ],
+      "Orientation": [
+        -69.93499755859375,
+        2.866025447845459,
+        1.048258900642395
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Barracks2",
+      "DisplayName": "Land_Mil_Barracks2",
+      "Position": [
+        12079.78515625,
+        141.25628662109375,
+        12661.8662109375
+      ],
+      "Orientation": [
+        109.50997924804688,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Barracks1",
+      "DisplayName": "Land_Mil_Barracks1",
+      "Position": [
+        12060.234375,
+        141.9961395263672,
+        12665.822265625
+      ],
+      "Orientation": [
+        -160.3619384765625,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Barracks3",
+      "DisplayName": "Land_Mil_Barracks3",
+      "Position": [
+        12030.3330078125,
+        142.10919189453125,
+        12644.7294921875
+      ],
+      "Orientation": [
+        -69.93498992919922,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Coil",
+      "DisplayName": "StaticObj_Misc_Coil",
+      "Position": [
+        12024.4501953125,
+        141.07025146484375,
+        12662.3154296875
+      ],
+      "Orientation": [
+        -69.93498992919922,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Garbage_Container",
+      "DisplayName": "StaticObj_Garbage_Container",
+      "Position": [
+        12036.3251953125,
+        140.54238891601562,
+        12676.2607421875
+      ],
+      "Orientation": [
+        -69.93498992919922,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Workshop2",
+      "DisplayName": "Land_Workshop2",
+      "Position": [
+        12033.056640625,
+        141.27452087402344,
+        12672.1826171875
+      ],
+      "Orientation": [
+        -159.3489532470703,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Container_1Mo",
+      "DisplayName": "Land_Container_1Mo",
+      "Position": [
+        12040.7666015625,
+        141.1785430908203,
+        12666.4033203125
+      ],
+      "Orientation": [
+        -158.54200744628906,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_wreck_truck01_aban2_blue",
+      "DisplayName": "Land_wreck_truck01_aban2_blue",
+      "Position": [
+        12047.4951171875,
+        139.99647521972656,
+        12654.6806640625
+      ],
+      "Orientation": [
+        -127.00933074951172,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Garbage_Container",
+      "DisplayName": "StaticObj_Garbage_Container",
+      "Position": [
+        12052.8564453125,
+        140.6091766357422,
+        12683.056640625
+      ],
+      "Orientation": [
+        -69.9349365234375,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_WoodTable_Outdoor",
+      "DisplayName": "StaticObj_Misc_WoodTable_Outdoor",
+      "Position": [
+        12059.232421875,
+        140.49000549316406,
+        12675.7138671875
+      ],
+      "Orientation": [
+        -69.93498992919922,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_WoodTable_Outdoor",
+      "DisplayName": "StaticObj_Misc_WoodTable_Outdoor",
+      "Position": [
+        12056.6357421875,
+        140.4589385986328,
+        12676.56640625
+      ],
+      "Orientation": [
+        -69.93498992919922,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_WoodTable_Outdoor",
+      "DisplayName": "StaticObj_Misc_WoodTable_Outdoor",
+      "Position": [
+        12067.0458984375,
+        140.49000549316406,
+        12672.3359375
+      ],
+      "Orientation": [
+        -157.37997436523438,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_WoodTable_Outdoor",
+      "DisplayName": "StaticObj_Misc_WoodTable_Outdoor",
+      "Position": [
+        12064.4248046875,
+        140.49000549316406,
+        12673.072265625
+      ],
+      "Orientation": [
+        -157.37997436523438,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Range_Roof",
+      "DisplayName": "StaticObj_Misc_Range_Roof",
+      "Position": [
+        12061.3017578125,
+        141.4739227294922,
+        12682.07421875
+      ],
+      "Orientation": [
+        19.092164993286133,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Range_Roof",
+      "DisplayName": "StaticObj_Misc_Range_Roof",
+      "Position": [
+        12068.5224609375,
+        141.4689178466797,
+        12679.4462890625
+      ],
+      "Orientation": [
+        19.092164993286133,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Power_Pole_Conc1_Amp",
+      "DisplayName": "Land_Power_Pole_Conc1_Amp",
+      "Position": [
+        12048.9970703125,
+        144.19256591796875,
+        12644.125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Hotel_Damaged_Airplane_Back",
+      "DisplayName": "StaticObj_Hotel_Damaged_Airplane_Back",
+      "Position": [
+        12006.9521484375,
+        139.3109130859375,
+        12542.3701171875
+      ],
+      "Orientation": [
+        0,
+        -14.9999418258667,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_ConcretePipe",
+      "DisplayName": "StaticObj_Misc_ConcretePipe",
+      "Position": [
+        12073.8203125,
+        141.1092987060547,
+        12642.4150390625
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Pipes_2",
+      "DisplayName": "StaticObj_Misc_Pipes_2",
+      "Position": [
+        12069.35546875,
+        140.175048828125,
+        12642.7490234375
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_TirePile",
+      "DisplayName": "StaticObj_Misc_TirePile",
+      "Position": [
+        12071.6005859375,
+        144.2610321044922,
+        12644.7255859375
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Misc_Pallets1",
+      "DisplayName": "StaticObj_Misc_Pallets1",
+      "Position": [
+        12071.8037109375,
+        140.25587463378906,
+        12641.0546875
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Garbage_Pile6",
+      "DisplayName": "StaticObj_Garbage_Pile6",
+      "Position": [
+        12068.9697265625,
+        140.30149841308594,
+        12645.80859375
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Garbage_Bin",
+      "DisplayName": "StaticObj_Garbage_Bin",
+      "Position": [
+        12242.8095703125,
+        140.55252075195312,
+        12494.8818359375
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Garbage_Container_Paper",
+      "DisplayName": "StaticObj_Garbage_Container_Paper",
+      "Position": [
+        12242.6015625,
+        140.8174591064453,
+        12493.53515625
+      ],
+      "Orientation": [
+        21.485191345214844,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Garbage_Container_Glass",
+      "DisplayName": "StaticObj_Garbage_Container_Glass",
+      "Position": [
+        12244.3720703125,
+        140.8148956298828,
+        12497.9970703125
+      ],
+      "Orientation": [
+        21.48518180847168,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Garbage_Pile5",
+      "DisplayName": "StaticObj_Garbage_Pile5",
+      "Position": [
+        12256.6962890625,
+        140.47698974609375,
+        12496.31640625
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Garage_Row_Small",
+      "DisplayName": "Land_Garage_Row_Small",
+      "Position": [
+        12293.099609375,
+        141.6193084716797,
+        12715
+      ],
+      "Orientation": [
+        -122.09996795654297,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Garage_Row_Small",
+      "DisplayName": "Land_Garage_Row_Small",
+      "Position": [
+        12301.3291015625,
+        141.5833740234375,
+        12701.9287109375
+      ],
+      "Orientation": [
+        -122.09996795654297,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_CementWorks_Hall2_Brick",
+      "DisplayName": "Land_CementWorks_Hall2_Brick",
+      "Position": [
+        12390.88671875,
+        145.06393432617188,
+        12586.3896484375
+      ],
+      "Orientation": [
+        -31.834014892578125,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Construction_House2",
+      "DisplayName": "Land_Construction_House2",
+      "Position": [
+        12449.38671875,
+        144.54721069335938,
+        12477.3251953125
+      ],
+      "Orientation": [
+        146.07981872558594,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Shed_Closed",
+      "DisplayName": "Land_Shed_Closed",
+      "Position": [
+        12473,
+        145.492919921875,
+        12429.400390625
+      ],
+      "Orientation": [
+        150.0189971923828,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_AircraftShelter",
+      "DisplayName": "Land_Mil_AircraftShelter",
+      "Position": [
+        12183.216796875,
+        140.29107666015625,
+        12754.990234375
+      ],
+      "Orientation": [
+        -121.77422332763672,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_AircraftShelter",
+      "DisplayName": "Land_Mil_AircraftShelter",
+      "Position": [
+        12130.7998046875,
+        140.32931518554688,
+        12789.8642578125
+      ],
+      "Orientation": [
+        124.28497314453125,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_AircraftShelter",
+      "DisplayName": "Land_Mil_AircraftShelter",
+      "Position": [
+        12216.599609375,
+        140.33148193359375,
+        12700.7998046875
+      ],
+      "Orientation": [
+        -121.77422332763672,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_AircraftShelter",
+      "DisplayName": "Land_Mil_AircraftShelter",
+      "Position": [
+        12086.833984375,
+        140.2382354736328,
+        12726.4033203125
+      ],
+      "Orientation": [
+        124.28497314453125,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_C130J",
+      "DisplayName": "Land_Wreck_C130J",
+      "Position": [
+        11807.5732421875,
+        145.58090209960938,
+        12705.7431640625
+      ],
+      "Orientation": [
+        -118.8599853515625,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_C130J",
+      "DisplayName": "Land_Wreck_C130J",
+      "Position": [
+        12143.0478515625,
+        145.11965942382812,
+        12871.439453125
+      ],
+      "Orientation": [
+        65.30961608886719,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Radio_PanelPAS",
+      "DisplayName": "Land_Radio_PanelPAS",
+      "Position": [
+        12220.546875,
+        160.2270050048828,
+        12517.384765625
+      ],
+      "Orientation": [
+        21.999996185302734,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Power_Pole_Conc1_Amp",
+      "DisplayName": "Land_Power_Pole_Conc1_Amp",
+      "Position": [
+        11828.662109375,
+        144.51541137695312,
+        12669.5986328125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Power_Pole_Conc1_Amp",
+      "DisplayName": "Land_Power_Pole_Conc1_Amp",
+      "Position": [
+        12096.21484375,
+        144.5153350830078,
+        12774.9580078125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Power_Pole_Conc1_Amp",
+      "DisplayName": "Land_Power_Pole_Conc1_Amp",
+      "Position": [
+        12306.154296875,
+        144.23016357421875,
+        12690.4892578125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Power_Pole_Conc1_Amp",
+      "DisplayName": "Land_Power_Pole_Conc1_Amp",
+      "Position": [
+        12211.26171875,
+        144.51535034179688,
+        12421.3056640625
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Power_Pole_Conc1_Amp",
+      "DisplayName": "Land_Power_Pole_Conc1_Amp",
+      "Position": [
+        12354.8486328125,
+        144.23013305664062,
+        12361.7265625
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Power_Pole_Conc1_Amp",
+      "DisplayName": "Land_Power_Pole_Conc1_Amp",
+      "Position": [
+        12448.0615234375,
+        144.23011779785156,
+        12464.6875
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_wreck_truck01_aban2_orange",
+      "DisplayName": "Land_wreck_truck01_aban2_orange",
+      "Position": [
+        12233.7998046875,
+        139.90548706054688,
+        12610.7001953125
+      ],
+      "Orientation": [
+        -146.99400329589844,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_AircraftShelter",
+      "DisplayName": "Land_Mil_AircraftShelter",
+      "Position": [
+        12097.099609375,
+        140.081787109375,
+        12450.2001953125
+      ],
+      "Orientation": [
+        -158.99998474121094,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12099.9365234375,
+        140.5140838623047,
+        12472.041015625
+      ],
+      "Orientation": [
+        109.12651062011719,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12099.9365234375,
+        142.69580078125,
+        12472.041015625
+      ],
+      "Orientation": [
+        109.12651062011719,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12099.9365234375,
+        144.10769653320312,
+        12472.041015625
+      ],
+      "Orientation": [
+        109.12651062011719,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12102.73046875,
+        140.51258850097656,
+        12471.09375
+      ],
+      "Orientation": [
+        109.12651062011719,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12102.73046875,
+        142.69430541992188,
+        12471.09375
+      ],
+      "Orientation": [
+        109.12651062011719,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12102.73046875,
+        144.106201171875,
+        12471.09375
+      ],
+      "Orientation": [
+        109.12651062011719,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12106.984375,
+        140.5150146484375,
+        12469.4384765625
+      ],
+      "Orientation": [
+        109.12651062011719,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12106.984375,
+        142.6967315673828,
+        12469.4384765625
+      ],
+      "Orientation": [
+        109.12651062011719,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12106.984375,
+        144.10862731933594,
+        12469.4384765625
+      ],
+      "Orientation": [
+        109.12651062011719,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12109.7783203125,
+        140.51351928710938,
+        12468.4912109375
+      ],
+      "Orientation": [
+        109.12651062011719,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12109.7783203125,
+        142.6952362060547,
+        12468.4912109375
+      ],
+      "Orientation": [
+        109.12651062011719,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12109.7783203125,
+        144.1071319580078,
+        12468.4912109375
+      ],
+      "Orientation": [
+        109.12651062011719,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Misc_Well_Pump_Blue",
+      "DisplayName": "Land_Misc_Well_Pump_Blue",
+      "Position": [
+        12162.220703125,
+        140.45651245117188,
+        12820.80859375
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12198.552734375,
+        140.42901611328125,
+        12770.267578125
+      ],
+      "Orientation": [
+        -29.814586639404297,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12198.552734375,
+        142.6177215576172,
+        12770.267578125
+      ],
+      "Orientation": [
+        -29.814586639404297,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12198.6279296875,
+        144.47640991210938,
+        12770.384765625
+      ],
+      "Orientation": [
+        -29.814586639404297,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12200.130859375,
+        140.4271697998047,
+        12767.5595703125
+      ],
+      "Orientation": [
+        -29.814586639404297,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12200.130859375,
+        142.61587524414062,
+        12767.5595703125
+      ],
+      "Orientation": [
+        -29.814586639404297,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12200.2001953125,
+        144.4745635986328,
+        12767.6728515625
+      ],
+      "Orientation": [
+        -29.814586639404297,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12202.5048828125,
+        140.4298095703125,
+        12764.126953125
+      ],
+      "Orientation": [
+        -29.814586639404297,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12202.5048828125,
+        142.61851501464844,
+        12764.126953125
+      ],
+      "Orientation": [
+        -29.814586639404297,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12202.5751953125,
+        144.47720336914062,
+        12764.2412109375
+      ],
+      "Orientation": [
+        -29.814586639404297,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12204.076171875,
+        140.42796325683594,
+        12761.4169921875
+      ],
+      "Orientation": [
+        -29.814586639404297,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12204.076171875,
+        142.61666870117188,
+        12761.4169921875
+      ],
+      "Orientation": [
+        -29.814586639404297,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roadblock_Bags_Long",
+      "DisplayName": "StaticObj_Roadblock_Bags_Long",
+      "Position": [
+        12204.1484375,
+        144.47535705566406,
+        12761.53515625
+      ],
+      "Orientation": [
+        -29.814586639404297,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Roads_Partrunway_main_40",
+      "DisplayName": "StaticObj_Roads_Partrunway_main_40",
+      "Position": [
+        12340.30078125,
+        159.71456909179688,
+        12585.150390625
+      ],
+      "Orientation": [
+        148.29489135742188,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_CementWorks_SiloBig1B",
+      "DisplayName": "Land_CementWorks_SiloBig1B",
+      "Position": [
+        12376.6435546875,
+        150.47244262695312,
+        12339.50390625
+      ],
+      "Orientation": [
+        -159.13783264160156,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_CementWorks_SiloBig1Bridge",
+      "DisplayName": "StaticObj_CementWorks_SiloBig1Bridge",
+      "Position": [
+        12400.8828125,
+        166.63278198242188,
+        12330.05078125
+      ],
+      "Orientation": [
+        19.623676300048828,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_CementWorks_SiloBig2",
+      "DisplayName": "StaticObj_CementWorks_SiloBig2",
+      "Position": [
+        12416.8515625,
+        155.20472717285156,
+        12326.33203125
+      ],
+      "Orientation": [
+        19.766958236694336,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Tent_Big3",
+      "DisplayName": "Land_Mil_Tent_Big3",
+      "Position": [
+        12255.7587890625,
+        141.10140991210938,
+        12394.2080078125
+      ],
+      "Orientation": [
+        -159.17799377441406,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Tent_Big3",
+      "DisplayName": "Land_Mil_Tent_Big3",
+      "Position": [
+        12273.9873046875,
+        141.10140991210938,
+        12387.8330078125
+      ],
+      "Orientation": [
+        20.197145462036133,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Tent_Big3",
+      "DisplayName": "Land_Mil_Tent_Big3",
+      "Position": [
+        12245.9970703125,
+        141.10140991210938,
+        12368.5087890625
+      ],
+      "Orientation": [
+        -159.17799377441406,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Tent_Big3",
+      "DisplayName": "Land_Mil_Tent_Big3",
+      "Position": [
+        12264.2255859375,
+        141.10140991210938,
+        12362.1337890625
+      ],
+      "Orientation": [
+        20.197145462036133,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Barracks5",
+      "DisplayName": "Land_Mil_Barracks5",
+      "Position": [
+        12158.5009765625,
+        145.7596893310547,
+        12564.4814453125
+      ],
+      "Orientation": [
+        -68.0752944946289,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Tisy_Barracks",
+      "DisplayName": "Land_Tisy_Barracks",
+      "Position": [
+        12217.1552734375,
+        144.13941955566406,
+        12391.7919921875
+      ],
+      "Orientation": [
+        -158.85107421875,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Fortified_Nest_Small",
+      "DisplayName": "Land_Mil_Fortified_Nest_Small",
+      "Position": [
+        12210.1689453125,
+        150.8434600830078,
+        12503.3671875
+      ],
+      "Orientation": [
+        22.918195724487305,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_ControlTower",
+      "DisplayName": "Land_Mil_ControlTower",
+      "Position": [
+        12054.2763671875,
+        156.04591369628906,
+        12570.1162109375
+      ],
+      "Orientation": [
+        22.20186424255371,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_C130J",
+      "DisplayName": "Land_Wreck_C130J",
+      "Position": [
+        12085.6396484375,
+        145.12103271484375,
+        12531.1650390625
+      ],
+      "Orientation": [
+        -100.99519348144531,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Radar_Mobile1",
+      "DisplayName": "Land_Mil_Radar_Mobile1",
+      "Position": [
+        12022.5380859375,
+        140.0787811279297,
+        12586.4267578125
+      ],
+      "Orientation": [
+        90.09765625,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "StaticObj_Mil_CamoNet_Side_east",
+      "DisplayName": "StaticObj_Mil_CamoNet_Side_east",
+      "Position": [
+        12215.3359375,
+        142.11651611328125,
+        12401.3857421875
+      ],
+      "Orientation": [
+        76.09970092773438,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Container_1Mo",
+      "DisplayName": "Land_Container_1Mo",
+      "Position": [
+        12177.017578125,
+        141.2143096923828,
+        12421.2939453125
+      ],
+      "Orientation": [
+        -34.804954528808594,
+        0,
+        0
+      ],
+      "Scale": 0.9999999403953552,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Container_1Mo",
+      "DisplayName": "Land_Container_1Mo",
+      "Position": [
+        12183.890625,
+        141.2143096923828,
+        12422.3896484375
+      ],
+      "Orientation": [
+        0.000008106228051474318,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Container_1Mo",
+      "DisplayName": "Land_Container_1Mo",
+      "Position": [
+        12190.46484375,
+        141.2143096923828,
+        12420.7958984375
+      ],
+      "Orientation": [
+        17.18878746032715,
+        0,
+        0
+      ],
+      "Scale": 1,
+      "Flags": 2147483647
+    }
+  ],
+  "EditorDeletedObjects": []
+}

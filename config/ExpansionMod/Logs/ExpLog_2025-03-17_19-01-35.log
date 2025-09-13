@@ -1,0 +1,202 @@
+19:10:10.484 [MissionAirdrop] An airdrop is heading towards "Balota" (pos=<5043.000000, 0.000000, 2505.000000> type=Random_Balota) with a ExpansionAirdropContainer_Medical
+19:14:23.351 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.375 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.375 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.382 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.382 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.382 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.382 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.382 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.382 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.382 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.382 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.382 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.382 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.382 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.390 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:14:23.398 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:18:17.539 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=39A1B9469F4F633B5AEBEB9A030F7A11 pos=<6372.47, 343.28, 8374.49>) as pilot
+19:19:27.062 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=39A1B9469F4F633B5AEBEB9A030F7A11 pos=<6372.429199, 343.283051, 8374.492188>)
+19:39:29.093 [AI Object Patrol 00009] Spawning 2 West bots at <7814.735840, 199.049591, 11949.296875>
+19:39:29.242 [AI Object Patrol 00009] Global patrol count: 1
+19:43:06.945 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] stopped vehicle Gyrocopter (id=39A1B9469F4F633B5AEBEB9A030F7A11 pos=<8654.641602, 330.803711, 11597.747070>)
+19:43:10.375 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=39A1B9469F4F633B5AEBEB9A030F7A11 pos=<8659.253906, 310.538940, 11590.035156>)
+19:44:00.070 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=39A1B9469F4F633B5AEBEB9A030F7A11 pos=<8677.87, 292.34, 11559.8>)
+19:44:14.781 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=39A1B9469F4F633B5AEBEB9A030F7A11 pos=<8671.32, 227.16, 11577.8>) as pilot
+19:44:17.187 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=39A1B9469F4F633B5AEBEB9A030F7A11 pos=<8671.322266, 227.159363, 11577.833984>)
+19:53:58.664 [AI Object Patrol 00024] Spawning 1 West bots at <2711.541748, 300.193298, 8261.786133>
+19:53:58.796 [AI Object Patrol 00024] Global patrol count: 2
+19:54:40.140 [AI Object Patrol 00026] Spawning 1 East bots at <349.158936, 369.768036, 9804.913086>
+19:54:40.234 [AI Object Patrol 00026] Global patrol count: 3
+19:55:21.976 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+19:55:21.976 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+19:55:21.976 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+19:57:00.039 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.046 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.046 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.054 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.062 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:00.062 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:57:02.281 [Killfeed] Boogahadeen fell to their death.
+19:57:37.695 [SpawnSelection] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) spawned at <13052.900391, 6.100000, 9894.700195>
+19:57:37.734 [AI Object Patrol 00008] Spawning 1 West bots at <13004.644531, 6.100000, 10474.302734>
+19:57:37.843 [AI Object Patrol 00008] Global patrol count: 4
+19:58:10.625 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=7E4366EF3049DDD29A94949C9FA4AC7D pos=<13050.2, 5.49, 9905.62>) as pilot
+19:58:16.054 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=7E4366EF3049DDD29A94949C9FA4AC7D pos=<13050.223633, 5.487431, 9905.624023>)
+19:58:27.140 [AI Object Patrol 00009] Despawning 2 West bots (spawn position <7814.735840, 199.049591, 11949.296875>, 0/2 deceased)
+19:58:27.140 [AI Object Patrol 00009] Global patrol count: 3
+19:58:55.992 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=7E4366EF3049DDD29A94949C9FA4AC7D pos=<12499.4, 28.56, 10063.3>)
+19:59:33.953 [VehicleDeleted] ExpansionGyrocopter (id=7E4366EF3049DDD29A94949C9FA4AC7D pos=<12500.9, 27.97, 10058.7>)
+19:59:44.843 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=8C1214FD164BD28ADCAC37B16DD551AA pos=<12502.8, 26.44, 10054.4>) as pilot
+19:59:47.460 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=8C1214FD164BD28ADCAC37B16DD551AA pos=<12502.823242, 26.436541, 10054.401367>)
+20:00:02.296 [GraveStone] Spawned GraveStone for Survivor at position 0x0000000006dae874 {<1178.91,314.414,9833.87>}
+20:00:04.000 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=8C1214FD164BD28ADCAC37B16DD551AA pos=<12505.8, 25.52, 10040>)
+20:00:13.648 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=8C1214FD164BD28ADCAC37B16DD551AA pos=<12506, 23.79, 10034.9>) as pilot
+20:00:15.914 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=8C1214FD164BD28ADCAC37B16DD551AA pos=<12505.953125, 23.793650, 10034.871094>)
+20:03:11.843 [AI Patrol 00020] Spawning 1 Raiders bots at <8533.052734, 171.639786, 13615.904297>
+20:03:12.039 [AI Patrol 00020] Global patrol count: 4
+20:04:09.054 [AI Object Patrol 00024] Despawning 1 West bots (spawn position <2711.541748, 300.193298, 8261.786133>, 0/1 deceased)
+20:04:09.054 [AI Object Patrol 00024] Global patrol count: 3
+20:05:08.992 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=8C1214FD164BD28ADCAC37B16DD551AA pos=<5834.78, 166.21, 12712>)
+20:05:12.007 [AI Object Patrol 00026] Despawning 1 East bots (spawn position <349.158936, 369.768036, 9804.913086>, 0/1 deceased)
+20:05:12.007 [AI Object Patrol 00026] Global patrol count: 2
+20:05:32.664 [VehicleDeleted] ExpansionGyrocopter (id=8C1214FD164BD28ADCAC37B16DD551AA pos=<5834.76, 166.2, 12712>)
+20:07:03.492 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=428C179E1D4920C8814EB09E46050024 pos=<5832.74, 168.9, 12724.4>) as pilot
+20:07:07.507 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=428C179E1D4920C8814EB09E46050024 pos=<5832.751465, 168.892151, 12724.368164>)
+20:10:57.062 [AI Object Patrol 00008] Despawning 1 West bots (spawn position <13004.644531, 6.100000, 10474.302734>, 0/1 deceased)
+20:10:57.062 [AI Object Patrol 00008] Global patrol count: 1
+20:11:45.851 [AI Object Patrol 00028] Spawning 3 West bots at <3315.788086, 362.362152, 10642.606445>
+20:11:45.945 [AI Object Patrol 00028] Global patrol count: 2
+20:12:26.468 [AI Object Patrol 00011] Spawning 3 West bots at <2924.041748, 301.456787, 8143.415527>
+20:12:26.554 [AI Object Patrol 00011] Global patrol count: 3
+20:12:27.156 [AI Object Patrol 00010] Spawning 3 West bots at <3006.096680, 295.498871, 8139.651855>
+20:12:27.234 [AI Object Patrol 00010] Global patrol count: 4
+20:12:53.937 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=428C179E1D4920C8814EB09E46050024 pos=<2719.11, 290.3, 8442.12>)
+20:13:46.953 [AI Patrol 00020] Despawning 1 Raiders bots (spawn position <8533.052734, 171.639786, 13615.904297>, 0/1 deceased)
+20:13:46.953 [AI Patrol 00020] Global patrol count: 3
+20:16:51.726 [VehicleDeleted] ExpansionGyrocopter (id=428C179E1D4920C8814EB09E46050024 pos=<2719.09, 290.3, 8442.12>)
+20:18:08.109 [AI Object Patrol 00029] Spawning 3 East bots at <2005.176147, 290.929749, 9008.641602>
+20:18:08.164 [AI Object Patrol 00029] Global patrol count: 4
+20:19:46.453 [Killfeed] AI Gabi (West) got killed by Boogahadeen with SNAFU Scar-H Tan from a distance of 188 m.
+20:19:55.046 [Killfeed] AI Jose (West) got killed by Boogahadeen with SNAFU Scar-H Tan from a distance of 77 m.
+20:20:14.515 [Killfeed] AI Denis (West) got killed by Boogahadeen with SNAFU Scar-H Tan from a distance of 188 m.
+20:21:08.367 [Killfeed] AI Baty (West) got killed by Boogahadeen with SNAFU Scar-H Tan from a distance of 3 m.
+20:21:37.875 [Killfeed] AI Helga (West) got killed by Boogahadeen with SNAFU Scar-H Tan from a distance of 23 m.
+20:21:41.867 [AI Object Patrol 00010] West bots were wiped out (spawn position <3006.096680, 295.498871, 8139.651855>, 3/3 deceased)
+20:21:41.867 [AI Object Patrol 00010] Global patrol count: 3
+20:22:01.312 [AI Object Patrol 00028] Despawning 3 West bots (spawn position <3315.788086, 362.362152, 10642.606445>, 0/3 deceased)
+20:22:01.312 [AI Object Patrol 00028] Global patrol count: 2
+20:23:48.382 [Killfeed] AI Irena (West) got killed by Boogahadeen with SNAFU Scar-H Tan from a distance of 4 m.
+20:23:51.867 [AI Object Patrol 00011] West bots were wiped out (spawn position <2924.041748, 301.456787, 8143.415527>, 3/3 deceased)
+20:23:51.867 [AI Object Patrol 00011] Global patrol count: 1
+20:24:23.460 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=701E15712148545841F265B65784475A pos=<2886.08, 295.87, 8229.24>) as pilot
+20:24:52.914 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=701E15712148545841F265B65784475A pos=<2886.278320, 295.841949, 8229.275391>)
+20:25:09.585 [AI Object Patrol 00030] Spawning 1 West bots at <3267.434814, 297.431641, 9373.661133>
+20:25:09.648 [AI Object Patrol 00030] Global patrol count: 2
+20:25:58.500 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=701E15712148545841F265B65784475A pos=<3370.29, 305.88, 9289.27>)
+20:26:08.195 [Killfeed] AI Maria (West) got killed by Boogahadeen with SNAFU Scar-H Tan from a distance of 136 m.
+20:26:11.703 [AI Object Patrol 00030] West bots were wiped out (spawn position <3267.434814, 297.431641, 9373.661133>, 1/1 deceased)
+20:26:11.703 [AI Object Patrol 00030] Global patrol count: 1
+20:28:21.492 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=701E15712148545841F265B65784475A pos=<3370.13, 305.86, 9289.27>) as pilot
+20:28:27.062 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=701E15712148545841F265B65784475A pos=<3370.119873, 305.861755, 9289.270508>)
+20:28:46.851 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=701E15712148545841F265B65784475A pos=<3404.52, 310.02, 9332.8>)
+20:29:09.523 [VehicleDeleted] ExpansionGyrocopter (id=701E15712148545841F265B65784475A pos=<3405.32, 310.19, 9335>)
+20:29:22.101 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=CD35FEBD9A4347E11E1FF4B32E2E4C3A pos=<3453.59, 313.98, 9362.08>) as pilot
+20:29:24.375 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=CD35FEBD9A4347E11E1FF4B32E2E4C3A pos=<3453.602295, 313.978424, 9362.075195>)
+20:30:31.375 [AI Object Patrol 00031] Spawning 1 East bots at <4008.294189, 296.777832, 7294.240723>
+20:30:31.453 [AI Object Patrol 00031] Global patrol count: 2
+20:31:05.734 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=CD35FEBD9A4347E11E1FF4B32E2E4C3A pos=<4081.77, 289.83, 7478.21>)
+20:31:18.328 [AI Object Patrol 00029] Despawning 3 East bots (spawn position <2005.176147, 290.929749, 9008.641602>, 0/3 deceased)
+20:31:18.328 [AI Object Patrol 00029] Global patrol count: 1
+20:33:52.335 [Killfeed] AI Elias (East) got killed by Boogahadeen with SNAFU Scar-H Tan from a distance of 3 m.
+20:33:56.085 [AI Object Patrol 00031] East bots were wiped out (spawn position <4008.294189, 296.777832, 7294.240723>, 1/1 deceased)
+20:33:56.085 [AI Object Patrol 00031] Global patrol count: 0
+20:39:18.453 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=CD35FEBD9A4347E11E1FF4B32E2E4C3A pos=<4081.79, 289.83, 7478.22>) as pilot
+20:39:28.703 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=CD35FEBD9A4347E11E1FF4B32E2E4C3A pos=<4081.789063, 289.831818, 7478.216797>)
+20:40:54.937 [MissionAirdrop] An airdrop is heading towards "Elektrozavodsk" (pos=<9371.000000, 0.000000, 2229.000000> type=Random_Elektrozavodsk) with a ExpansionAirdropContainer_Military
+20:46:09.031 [Expansion Quests] Initialize quest system on the connected client with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.039 [Party] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) joinded the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+20:46:09.078 [Expansion Quests] Loaded existing player quest data for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.078 [Expansion Quests] Created new persistent group quest data for group with ID=0
+20:46:09.078 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.078 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.078 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.078 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.078 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.078 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.078 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Sending 0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= quest configs to client for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.085 [Expansion Quests] Sending player quest data for 4 quests to player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+20:46:09.789 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+20:54:24.843 [AI Object Patrol 00031] Despawning 0 East bots (spawn position <4030.291504, 295.135315, 7292.556152>, 1/1 deceased)
+20:54:51.882 [AI Object Patrol 00030] Despawning 0 West bots (spawn position <3268.164795, 296.830933, 9349.587891>, 1/1 deceased)
+20:56:04.781 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=CD35FEBD9A4347E11E1FF4B32E2E4C3A pos=<3273.97, 298.67, 9379.8>)
+20:58:20.078 [VehicleDeleted] ExpansionGyrocopter (id=CD35FEBD9A4347E11E1FF4B32E2E4C3A pos=<3275.89, 298.78, 9376.76>)
+20:59:33.679 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.
+20:59:33.679 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.
+20:59:33.679 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.
+20:59:33.687 [Party] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+21:05:56.359 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+21:05:56.367 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+21:05:56.367 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+22:10:39.218 [MissionAirdrop] An airdrop is heading towards "Chernogorsk" (pos=<6128.000000, 0.000000, 2497.000000> type=Random_Chernogorsk) with a ExpansionAirdropContainer_Military

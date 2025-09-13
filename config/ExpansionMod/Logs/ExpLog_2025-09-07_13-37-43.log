@@ -1,0 +1,101 @@
+13:41:09.647 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) joined the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+13:41:09.649 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.653 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.655 [Expansion Quests] Loaded existing group quest data for group with ID=0
+13:41:09.656 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.656 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.657 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.657 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.659 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.659 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.659 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.660 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.661 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.661 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.662 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.662 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.662 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.662 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.663 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.663 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.663 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.664 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.664 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.665 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.665 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.665 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.665 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.666 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.666 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.667 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.667 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.669 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.670 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:41:09.673 [AI Object Patrol 00023] Spawning 2 Raiders bots at <3804.007080, 327.360535, 10928.160156>
+13:41:09.697 [AI Object Patrol 00023] Global patrol count: 1
+13:41:09.697 [AI Object Patrol 00023] ObjectPatrol category patrol count: 1
+13:41:09.698 [AI Object Patrol 00019] Spawning 1 Raiders bots at <3822.421631, 328.205017, 10934.981445>
+13:41:09.717 [AI Object Patrol 00019] Global patrol count: 2
+13:41:09.717 [AI Object Patrol 00019] ObjectPatrol category patrol count: 2
+13:41:09.717 [AI Object Patrol 00020] Spawning 2 Raiders bots at <3827.850098, 326.796753, 10945.928711>
+13:41:09.740 [AI Object Patrol 00020] Global patrol count: 3
+13:41:09.741 [AI Object Patrol 00020] ObjectPatrol category patrol count: 3
+13:41:09.741 [AI Object Patrol 00024] Spawning 3 Raiders bots at <3811.441650, 326.750000, 10926.443359>
+13:41:09.778 [AI Object Patrol 00024] Global patrol count: 4
+13:41:09.778 [AI Object Patrol 00024] ObjectPatrol category patrol count: 4
+13:41:09.779 [AI Object Patrol 00025] Spawning 1 Raiders bots at <3781.971680, 325.332153, 10937.040039>
+13:41:09.801 [AI Object Patrol 00025] Global patrol count: 5
+13:41:09.801 [AI Object Patrol 00025] ObjectPatrol category patrol count: 5
+13:41:10.576 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+13:41:18.891 [Killfeed] AI Keiko (Raiders) got killed by AI Baty (Raiders) with M4-A1 from a distance of 4 m.
+13:41:33.094 [Killfeed] AI Baty (Raiders) got killed by AI Taiki (Raiders) with M16-A2 from a distance of 4 m.
+13:41:45.983 [Killfeed] AI Oliver (Raiders) got killed by AI Cyril (Raiders) with AUR A1 from a distance of 38 m.
+13:41:55.200 [Killfeed] AI Taiki (Raiders) got killed by AI Frida (Raiders) with AUR A1 from a distance of 18 m.
+13:41:56.242 [AI Object Patrol 00023] Raiders bots were wiped out (spawn position <3804.007080, 327.360535, 10928.160156>, 2/2 deceased)
+13:41:56.244 [AI Object Patrol 00023] Global patrol count: 4
+13:41:56.245 [AI Object Patrol 00023] ObjectPatrol category patrol count: 4
+13:41:56.887 [AI Object Patrol 00021] Spawning 1 Raiders bots at <3786.125732, 325.927856, 10948.322266>
+13:41:56.919 [AI Object Patrol 00021] Global patrol count: 5
+13:41:56.920 [AI Object Patrol 00021] ObjectPatrol category patrol count: 5
+13:42:00.942 [Killfeed] AI Gabi (Raiders) got killed by AI Maria (Raiders) with M16-A2 from a distance of 12 m.
+13:42:01.822 [AI Object Patrol 00021] Raiders bots were wiped out (spawn position <3786.125732, 325.927856, 10948.322266>, 1/1 deceased)
+13:42:01.823 [AI Object Patrol 00021] Global patrol count: 4
+13:42:01.823 [AI Object Patrol 00021] ObjectPatrol category patrol count: 4
+13:42:27.702 [Killfeed] AI Frida (Raiders) got killed by AI Indar (Raiders) with M16-A2 from a distance of 17 m.
+13:42:31.241 [AI Object Patrol 00019] Raiders bots were wiped out (spawn position <3822.421631, 328.205017, 10934.981445>, 1/1 deceased)
+13:42:31.242 [AI Object Patrol 00019] Global patrol count: 3
+13:42:31.242 [AI Object Patrol 00019] ObjectPatrol category patrol count: 3
+13:42:43.962 [Killfeed] AI Indar (Raiders) got killed by AI Maria (Raiders) with M16-A2 from a distance of 44 m.
+13:42:46.542 [AI Object Patrol 00024] Raiders bots were wiped out (spawn position <3811.441650, 326.750000, 10926.443359>, 3/3 deceased)
+13:42:46.542 [AI Object Patrol 00024] Global patrol count: 2
+13:42:46.543 [AI Object Patrol 00024] ObjectPatrol category patrol count: 2
+13:44:39.092 [Killfeed] AI Maria (Raiders) bled out.
+13:44:42.074 [Killfeed] AI Cyril (Raiders) bled out.
+13:44:46.244 [AI Object Patrol 00020] Raiders bots were wiped out (spawn position <3827.850098, 326.796753, 10945.928711>, 2/2 deceased)
+13:44:46.244 [AI Object Patrol 00020] Global patrol count: 1
+13:44:46.245 [AI Object Patrol 00020] ObjectPatrol category patrol count: 1
+13:45:35.944 [MissionAirdrop] An airdrop is heading towards "Novodmitrovsk" (pos=<11125.000000, 0.000000, 14040.000000> type=Random_Novodmitrovsk) with a ExpansionAirdropContainer_Basebuilding
+14:32:32.089 [Killfeed] AI Naomi (Raiders) got killed by [ATF] Boogahadeen with 300AC AR15 Black from a distance of 20 m.
+14:32:36.716 [AI Object Patrol 00025] Raiders bots were wiped out (spawn position <3781.971680, 325.332153, 10937.040039>, 1/1 deceased)
+14:32:36.717 [AI Object Patrol 00025] Global patrol count: 0
+14:32:36.718 [AI Object Patrol 00025] ObjectPatrol category patrol count: 0
+14:33:55.817 [AI Patrol 00038] Spawning 3 Mercenaries bots at <2354.913574, 368.020203, 14124.683594>
+14:33:55.921 [AI Patrol 00038] Global patrol count: 1
+14:33:55.921 [AI Patrol 00038] Patrol category patrol count: 1
+14:34:33.806 [AI Object Patrol 00018] Spawning 1 Raiders bots at <4818.037109, 345.583710, 9645.218750>
+14:34:33.857 [AI Object Patrol 00018] Global patrol count: 2
+14:34:33.857 [AI Object Patrol 00018] ObjectPatrol category patrol count: 1
+14:34:33.858 [AI Object Patrol 00022] Spawning 1 Raiders bots at <4811.295410, 339.078339, 9647.976563>
+14:34:33.901 [AI Object Patrol 00022] Global patrol count: 3
+14:34:33.902 [AI Object Patrol 00022] ObjectPatrol category patrol count: 2
+14:34:37.031 [AI Patrol 00038] Despawning 3 Mercenaries bots (spawn position <2354.913574, 368.020203, 14124.683594>, 0/3 deceased)
+14:34:37.032 [AI Patrol 00038] Global patrol count: 2
+14:34:37.033 [AI Patrol 00038] Patrol category patrol count: 0
+14:35:29.430 [Killfeed] AI Judy (Raiders) got killed by AI Kaito (Raiders) with M4-A1 from a distance of 27 m.
+14:35:32.003 [AI Object Patrol 00022] Raiders bots were wiped out (spawn position <4811.295410, 339.078339, 9647.976563>, 1/1 deceased)
+14:35:32.004 [AI Object Patrol 00022] Global patrol count: 1
+14:35:32.004 [AI Object Patrol 00022] ObjectPatrol category patrol count: 1
+14:37:27.924 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+14:37:27.931 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+14:37:27.932 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+14:37:27.934 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.

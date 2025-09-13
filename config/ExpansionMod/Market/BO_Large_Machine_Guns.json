@@ -1,0 +1,179 @@
+{
+    "m_Version": 12,
+    "DisplayName": "BO_LARGE_MACHINE_GUNS",
+    "Icon": "Gun",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "BO_FG42",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Mag_FG42_20Rnd"
+            ],
+            "Variants": [
+                "BO_FG42M"
+            ]
+        },
+        {
+            "ClassName": "BO_FG42M",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Mag_FG42_20Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_RPK16",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Holosun_HS510C_Optic",
+                "BO_Mag_RPK16_96Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_M134",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Mag_M134_250rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_M249",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Holosun_HS510C_Optic",
+                "BO_Mag_M249_200rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_PKP_Black",
+            "MaxPriceThreshold": 22000,
+            "MinPriceThreshold": 22000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Holosun_HS510C_Optic",
+                "BO_Mag_PKP_250rnd"
+            ],
+            "Variants": [
+                "BO_PKP_FDE"
+            ]
+        },
+        {
+            "ClassName": "BO_PKP_FDE",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Holosun_HS510C_Optic",
+                "BO_Mag_PKP_250rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_M60",
+            "MaxPriceThreshold": 23000,
+            "MinPriceThreshold": 21000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Holosun_HS510C_Optic",
+                "BO_Mag_M60_100rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_PKM",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Holosun_HS510C_Optic",
+                "BO_Mag_PKM_100rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_M240B",
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 23000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Holosun_HS510C_Optic",
+                "BO_Mag_M240B_50rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_MG42",
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 23000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Holosun_HS510C_Optic",
+                "BO_Mag_MG42_50rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_U100",
+            "MaxPriceThreshold": 22000,
+            "MinPriceThreshold": 21000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Holosun_HS510C_Optic",
+                "BO_Mag_U100_100rnd"
+            ],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+12:32:21.324 [MissionAirdrop] An airdrop is heading towards "Zelenogorsk" (pos=<2351.000000, 0.000000, 5393.000000> type=Random_Zelenogorsk) with a ExpansionAirdropContainer_Medical
+12:35:47.218 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) joinded the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+12:35:47.218 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.234 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.234 [Expansion Quests] Loaded existing group quest data for group with ID=0
+12:35:47.234 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.234 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.234 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.234 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.234 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.234 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.234 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.234 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.234 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.234 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.234 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.234 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.234 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:47.238 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+12:35:48.191 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+12:55:34.402 [Party] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) joinded the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+12:55:34.406 [Expansion Quests] Initialize quest system on the connected client with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.421 [Expansion Quests] Loaded existing player quest data for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.421 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+12:55:34.421 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.421 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.421 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.421 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.425 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.425 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.425 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.425 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.425 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.425 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.425 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.425 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.425 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.425 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.425 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.425 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.425 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.429 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.429 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.429 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.429 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.429 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.429 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.429 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.429 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.429 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.429 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.429 [Expansion Quests] Sending 0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= quest configs to client for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.433 [Expansion Quests] Sending player quest data for 4 quests to player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+12:55:34.437 [AI Object Patrol 00023] Spawning 3 Raiders bots at <12070.236328, 140.000000, 12539.717773>
+12:55:34.488 [AI Object Patrol 00023] Global patrol count: 1
+12:55:34.488 [AI Object Patrol 00020] Spawning 1 Raiders bots at <11906.723633, 140.000000, 12610.986328>
+12:55:34.523 [AI Object Patrol 00020] Global patrol count: 2
+12:55:34.523 [AI Object Patrol 00021] Spawning 3 Raiders bots at <11815.836914, 140.000000, 12708.045898>
+12:55:34.550 [AI Object Patrol 00021] Global patrol count: 3
+12:55:34.550 [AI Object Patrol 00022] Spawning 2 Raiders bots at <12146.138672, 144.067520, 12867.166016>
+12:55:34.566 [AI Object Patrol 00022] Global patrol count: 4
+12:55:34.566 [AI Object Patrol 00035] Spawning 3 Raiders bots at <13240.234375, 130.692734, 12788.843750>
+12:55:34.585 [AI Object Patrol 00035] Global patrol count: 5
+12:55:34.589 [AI Object Patrol 00033] Spawning 1 Raiders bots at <11854.712891, 147.472443, 12524.347656>
+12:55:34.605 [AI Object Patrol 00033] Global patrol count: 6
+12:55:35.316 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+12:56:40.546 [Chat - Global]("Phill_Swift"(id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=)): yo tp me to bm
+12:56:49.476 [Killfeed] AI Helga (Raiders) got killed by AI Keiko (Raiders) with M4-A1 from a distance of 35 m.
+12:56:52.015 [AI Object Patrol 00020] Raiders bots were wiped out (spawn position <11906.723633, 140.000000, 12610.986328>, 1/1 deceased)
+12:56:52.015 [AI Object Patrol 00020] Global patrol count: 5
+12:57:07.367 [Killfeed] AI Jose (Raiders) got killed by AI Manua (Raiders) with AUR A1 from a distance of 54 m.
+12:57:07.625 [AI Object Patrol 00033] Raiders bots were wiped out (spawn position <11854.712891, 147.472443, 12524.347656>, 1/1 deceased)
+12:57:07.625 [AI Object Patrol 00033] Global patrol count: 4
+12:58:09.007 [Killfeed] AI Irena (Raiders) got killed by AI Keiko (Raiders) with M4-A1 from a distance of 171 m.
+12:58:15.570 [Killfeed] [ATF] Boogahadeen got mauled to death by a Wolf.
+12:59:11.242 [AI Object Patrol 00064] Spawning 2 Raiders bots at <12626.928711, 183.947769, 12800.123047>
+12:59:11.269 [AI Object Patrol 00064] Global patrol count: 5
+12:59:16.492 [Killfeed] AI Rolf (Raiders) got killed by AI Judy (Raiders) with M16-A2 from a distance of 3 m.
+12:59:24.074 [Killfeed] AI Peter (Raiders) got beaten to a pulp by AI Keiko (Raiders) with bare hands.
+12:59:43.160 [Killfeed] AI Maria (Raiders) bled out.
+12:59:46.132 [Killfeed] AI Manua (Raiders) bled out.
+12:59:47.023 [AI Object Patrol 00023] Raiders bots were wiped out (spawn position <12070.236328, 140.000000, 12539.717773>, 3/3 deceased)
+12:59:47.023 [AI Object Patrol 00023] Global patrol count: 4
+12:59:58.925 [Killfeed] AI Baty (Raiders) got killed by [ATF] Phill_Swift with AR-15 from a distance of 122 m.
+13:01:15.570 [GraveStone] Spawned GraveStone for player [ATF] Boogahadeen (bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) at position 0x0000000004ce4d54 {<512.458,431.933,10700.4>}
+13:02:56.144 [Killfeed] AI Judy (Raiders) got killed by [ATF] Phill_Swift with AR-15 from a distance of 59 m.
+13:02:57.328 [AI Object Patrol 00022] Raiders bots were wiped out (spawn position <12146.138672, 144.067520, 12867.166016>, 2/2 deceased)
+13:02:57.328 [AI Object Patrol 00022] Global patrol count: 3
+13:04:35.511 [Killfeed] AI Keiko (Raiders) got killed by [ATF] Phill_Swift with AR-15 from a distance of 76 m.
+13:04:37.332 [AI Object Patrol 00021] Raiders bots were wiped out (spawn position <11815.836914, 140.000000, 12708.045898>, 3/3 deceased)
+13:04:37.332 [AI Object Patrol 00021] Global patrol count: 2
+13:04:49.117 [Killfeed] AI Eva (Raiders) got killed by [ATF] Phill_Swift with AR-15 from a distance of 97 m.
+13:09:12.566 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought ammobox_308win_20rnd x1 (27c40600) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 5756.
+13:09:12.750 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought ammobox_308win_20rnd x1 (27c456f0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 5756.
+13:09:12.925 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought ammobox_308win_20rnd x1 (27c428b0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 5756.
+13:13:07.375 [AI Object Patrol 00035] Despawning 3 Raiders bots (spawn position <13240.234375, 130.692734, 12788.843750>, 0/3 deceased)
+13:13:07.375 [AI Object Patrol 00035] Global patrol count: 1
+13:21:27.082 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) joinded the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+13:21:27.085 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.089 [Expansion Quests] Loaded cached player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.089 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+13:21:27.089 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.089 [Expansion Quests] Player has already a active quest with this quest ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=. Skip creating quest..
+13:21:27.089 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.093 [Expansion Quests] Player has already a active quest with this quest ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=. Skip creating quest..
+13:21:27.093 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.093 [Expansion Quests] Player has already a active quest with this quest ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=. Skip creating quest..
+13:21:27.093 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.093 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.093 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.093 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.093 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.097 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.097 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.097 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.097 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.097 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.097 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.097 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.097 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.097 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.097 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.101 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.101 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.101 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.101 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.101 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.101 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:27.105 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:21:28.031 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+13:21:47.804 [AI Object Patrol 00068] Spawning 1 Raiders bots at <10449.828125, 277.925354, 12489.632813>
+13:21:47.871 [AI Object Patrol 00068] Global patrol count: 2
+13:22:03.847 [SpawnSelection] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) spawned at <14273.200195, 2.400000, 13053.299805>
+13:30:45.640 [AI Object Patrol 00064] Despawning 1 Raiders bots (spawn position <12626.928711, 183.947769, 12800.123047>, 1/2 deceased)
+13:30:45.640 [AI Object Patrol 00064] Global patrol count: 1
+13:31:55.414 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_mkgs x1 (a8662be0, BO_VortexAMG_UH1_Optic<4451fe10>, BO_Mag_MKGS_32rnd<44522240>) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1537.
+13:32:40.023 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_m1a_black x1 (c96590c0, BO_Mag_FNFAL_30rnd<497c0120>, ammo_308win x29) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 2295.
+13:32:43.582 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_glock18c x1 (f3c9bd40, BO_Mag_Glock18C_33rnd<4451a9a0>, ammo_9x19 x32) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1777.
+13:32:49.449 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_vudu x1 (44521630) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 112.
+13:32:50.253 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_vudu x1 (4451d9e0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 112.
+13:32:54.007 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_vortexrazor_black x1 (44513100) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 112.
+13:33:06.574 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought bo_mag_gen2300_100rnd x1 (c3f7a260) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 400.
+13:33:08.761 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_mag_glock26_10rnd x1 (44507c10, ammo_9x19 x10) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 410.
+13:33:11.601 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_mag_mrad_10rnd x1 (44524670) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 300.
+13:33:12.726 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_mag_glock18c_33rnd x1 (44508820, ammo_9x19 x33) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 663.
+13:33:17.585 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought bo_mag_t5000_5rnd x1 (b75292e0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 400.
+13:33:21.910 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_cordurasuppressor_green x1 (ce641740) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 300.
+13:33:27.734 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold expansiongoldbar x1 (ceb6dc20) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+13:33:28.027 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold expansiongoldbar x1 (ceb6dc20) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3500.
+13:33:28.652 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold expansiongoldnugget x1 (d0e63410) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+13:33:28.910 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold expansiongoldnugget x1 (44007960) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+13:33:29.019 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold expansiongoldnugget x1 (44007960) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1200.
+13:33:29.757 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold expansionsilverbar x1 (d87c6010) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1500.
+13:33:29.945 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold expansionsilverbar x1 (d87c6010) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1500.
+13:33:30.546 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold expansionsilverbar x1 (d87c6010) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1500.
+13:33:30.914 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold expansionsilverbar x1 (4400ca50) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1500.
+13:33:31.613 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold expansionsilverbar x1 (4400ca50) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1500.
+13:33:32.183 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold expansionsilverbar x1 (4400ca50) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1500.
+13:33:32.828 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold expansionsilvernugget x1 (d3e6d9b0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 500.
+13:33:33.203 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold expansionsilvernugget x1 (d3e6d9b0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 500.
+13:33:49.945 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ams_bandage x1 (d27b6470) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 18.
+13:33:50.492 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ams_bandage x1 (db5a4460) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 18.
+13:39:10.597 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought bo_fnfal x1 (ccb298a0, BO_Mag_FNFAL_30rnd<ccc42990>, ammo_308win x30, BO_Holosun_HS510C_Optic<ccc380b0>) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 12006.
+13:39:34.394 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought bo_mag_d40_40rnd x1 (d0618690, ammo_308win x40) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 2040.
+13:40:08.433 [AI Object Patrol 00068] Despawning 1 Raiders bots (spawn position <10449.828125, 277.925354, 12489.632813>, 0/1 deceased)
+13:40:08.433 [AI Object Patrol 00068] Global patrol count: 0
+13:40:36.304 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_fnfal x1 (ccb298a0, BO_Holosun_HS510C_Optic<ccc380b0>, BO_Mag_FNFAL_30rnd<ccc42990>, ammo_308win x11) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 8430.
+13:40:42.625 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought bo_scarh_black x1 (d2918320, BO_Mag_SCARH_20rnd<db1bcdf0>, ammo_308win x20) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 10222.
+13:40:51.988 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_scarh_black x1 (d2918320, BO_Mag_SCARH_20rnd<db1bcdf0>, ammo_308win x20) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 7658.
+13:40:53.355 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought bo_sa58 x1 (d2919d40, BO_Mag_SA58_20rnd<db1bda00>, ammo_308win x20, ItemBase<d08e1550>, BO_Holosun_HS510C_Optic<db1bcdf0>) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 11842.
+13:42:14.015 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought bo_scarh_black x1 (d5463410, BO_CorduraSuppressor_Black<c99cf630>, SNAFU_Trijicon_Docter<d76e2060>, BO_Mag_D40_40rnd<db4a7d80>, ammo_308win x40) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 11895.
+13:44:08.343 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought bo_fnfal x1 (bf1821c0, BO_CorduraSuppressor_Black<b7b997e0>, BO_HAMROptic<c86bc370>, BO_Mag_SA58_50rnd<c86bf3b0>, ammo_308win x50) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 13048.
+13:44:19.093 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_scarh_black x1 (d5463410, BO_Mag_D40_40rnd<db4a7d80>, ammo_308win x40, SNAFU_Trijicon_Docter<d76e2060>, BO_CorduraSuppressor_Black<c99cf630>) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 8990.
+13:44:32.644 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought bo_mag_sa58_50rnd x1 (c04d6360, ammo_308win x50) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 2689.
+13:44:33.070 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought bo_mag_sa58_50rnd x1 (c04d6f70, ammo_308win x50) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 2994.
+13:45:41.296 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_mag_d40_40rnd x1 (d0618690, ammo_308win x40) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1859.
+13:45:43.664 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_mag_sa58_20rnd x1 (db1bda00, ammo_308win x20) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1013.
+13:46:19.281 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought bo_cordurasuppressor_black x1 (d56ea3a0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 400.
+13:48:31.117 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold bo_sa58 x1 (d2919d40, ItemBase<d08e1550>) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 6915.
+13:48:36.765 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought bo_mag_sa58_50rnd x1 (cce92170, ammo_308win x50) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 2917.
+13:50:16.160 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold pokemoncard139 x1 (c5303760) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1000.
+13:50:16.625 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold pokemoncard016 x1 (d777a180) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1000.
+13:50:17.062 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold pokemoncard020 x1 (4400b330) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1000.
+13:50:17.445 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold pokemoncard037 x1 (ca003fb0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1000.
+13:50:17.835 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold pokemoncard041 x1 (d7798720) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1000.
+13:50:18.363 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold pokemoncard072 x1 (4400bec0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1000.
+13:50:18.828 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold pokemontrainer5 x1 (44006dd0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1000.
+13:50:19.390 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold pokemoncard110 x1 (c7dd11d0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1000.
+13:51:07.761 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mmg_mk_v_armor_black x1 (afc063e0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 75000.
+13:51:13.933 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold mmg_mk_v_armor_black x1 (afc063e0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 75000.
+13:52:31.074 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mmg_mk_v_armor_black x1 (cc961130, Container_Base<c05ddd20>, Container_Base<ca003420>, NylonKnifeSheath<cc963560>, MMG_tactical_pouch_multicamblack<ca006260>, PlateCarrierHolster<cc9665a0>) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 77500.
+13:53:00.062 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mmg_mk5_grenade_pouch_black x1 (c77fe670) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 500.
+13:54:48.109 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold mmg_mk_iii_armor_ucp x1 (4451e5f0, MMG_Med_Pouch_ucp<4400d5e0>) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 55050.
+13:55:12.734 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mmg_tactical_gloves_black x1 (c5dafd70) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 2000.
+13:55:14.195 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mmg_boots_black x1 (c5dad940) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 3000.
+13:55:16.000 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold mmg_boots_black x1 (c5dad940) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 3000.
+13:55:28.140 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mmg_combatpants_black x1 (b315b690) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 5000.
+13:57:08.570 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mmg_dump_pouch_green x1 (b7b73ea0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 500.
+13:58:46.117 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mmg_holster_pouch_black x1 (dc5ffe00) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 500.
+13:59:27.539 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mfp_hflask_midnight x1 (46541bb0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 2500.
+14:00:05.328 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold mfp_hflask_midnight x1 (46541bb0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 468.
+14:00:06.101 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mfp_hflask_midnight x1 (465352b0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 2500.
+14:01:08.328 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought snafuhoneybadger_black x1 (b7ce5c90, SNAFU_BMAG300_Black<dc8cf0b0>, snafu_ammo_300acc x100) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 2300.
+14:01:44.339 [Party] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+14:01:44.343 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.
+14:01:44.343 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.
+14:01:44.343 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.
+14:01:44.347 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+14:01:44.351 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+14:01:44.351 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+14:01:44.351 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.

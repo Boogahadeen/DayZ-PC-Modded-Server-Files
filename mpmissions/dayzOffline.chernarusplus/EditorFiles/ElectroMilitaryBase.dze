@@ -1,0 +1,851 @@
+{
+  "MapName": "ChernarusPlus",
+  "CameraPosition": [
+    9372.25,
+    23.249435424804688,
+    2165.010009765625
+  ],
+  "EditorObjects": [
+    {
+      "Type": "Land_Mil_Barracks3",
+      "DisplayName": "Land_Mil_Barracks3",
+      "Position": [
+        9401.8740234375,
+        8.171831130981445,
+        1987.145263671875
+      ],
+      "Orientation": [
+        -169.9867401123047,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Barracks2",
+      "DisplayName": "Land_Mil_Barracks2",
+      "Position": [
+        9373.1240234375,
+        7.386257171630859,
+        1996.3062744140625
+      ],
+      "Orientation": [
+        -78.1425552368164,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Barracks2",
+      "DisplayName": "Land_Mil_Barracks2",
+      "Position": [
+        9352.0810546875,
+        7.363442897796631,
+        2000.5660400390625
+      ],
+      "Orientation": [
+        -78.1425552368164,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Barracks1",
+      "DisplayName": "Land_Mil_Barracks1",
+      "Position": [
+        9397.76953125,
+        8.146120071411133,
+        2015.573486328125
+      ],
+      "Orientation": [
+        99.50907897949219,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Barracks_Round",
+      "DisplayName": "Land_Mil_Barracks_Round",
+      "Position": [
+        9332.451171875,
+        7.0880231857299805,
+        1999.8031005859375
+      ],
+      "Orientation": [
+        -74.59989929199219,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Tower_Small",
+      "DisplayName": "Land_Mil_Tower_Small",
+      "Position": [
+        9321.685546875,
+        10.361260414123535,
+        2046.1602783203125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Tower_Small",
+      "DisplayName": "Land_Mil_Tower_Small",
+      "Position": [
+        9449.84765625,
+        9.908305168151855,
+        2034.9405517578125
+      ],
+      "Orientation": [
+        13.036354064941406,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Tower_Small",
+      "DisplayName": "Land_Mil_Tower_Small",
+      "Position": [
+        9441.5595703125,
+        10.024534225463867,
+        1975.9019775390625
+      ],
+      "Orientation": [
+        -171.0001220703125,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Tower_Small",
+      "DisplayName": "Land_Mil_Tower_Small",
+      "Position": [
+        9316.37890625,
+        10.009038925170898,
+        2002.8873291015625
+      ],
+      "Orientation": [
+        -171.0001220703125,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Tower_Small",
+      "DisplayName": "Land_Mil_Tower_Small",
+      "Position": [
+        9387.6826171875,
+        10.322101593017578,
+        2047.170654296875
+      ],
+      "Orientation": [
+        -2.37749981880188,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_Tower_Small",
+      "DisplayName": "Land_Mil_Tower_Small",
+      "Position": [
+        9388.724609375,
+        9.926551818847656,
+        1984.4866943359375
+      ],
+      "Orientation": [
+        -166.81658935546875,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Container_1Mo",
+      "DisplayName": "Land_Container_1Mo",
+      "Position": [
+        9414.55078125,
+        7.087773323059082,
+        1980.40771484375
+      ],
+      "Orientation": [
+        -80.99996948242188,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Container_1Mo",
+      "DisplayName": "Land_Container_1Mo",
+      "Position": [
+        9363.294921875,
+        7.077127933502197,
+        2043.1104736328125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_ATC_Small",
+      "DisplayName": "Land_Mil_ATC_Small",
+      "Position": [
+        9372.7646484375,
+        16.248598098754883,
+        2020.623779296875
+      ],
+      "Orientation": [
+        9.0199613571167,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_hb01_aban1_police",
+      "DisplayName": "Land_Wreck_hb01_aban1_police",
+      "Position": [
+        9361.861328125,
+        6.9813737869262695,
+        2027.119384765625
+      ],
+      "Orientation": [
+        -143.99986267089844,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_GuardBox_Smooth",
+      "DisplayName": "Land_Mil_GuardBox_Smooth",
+      "Position": [
+        9444.2705078125,
+        7.594372749328613,
+        1980.182373046875
+      ],
+      "Orientation": [
+        -80.9999771118164,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_Mil_GuardBox_Brown",
+      "DisplayName": "Land_Ruin_Mil_GuardBox_Brown",
+      "Position": [
+        9444.486328125,
+        6.089879512786865,
+        1990.826904296875
+      ],
+      "Orientation": [
+        -80.99984741210938,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Monument_T34",
+      "DisplayName": "Land_Monument_T34",
+      "Position": [
+        9430.8896484375,
+        5.406675338745117,
+        1989.31005859375
+      ],
+      "Orientation": [
+        27,
+        0,
+        6.999999046325684
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Medical_Tent_Shower",
+      "DisplayName": "Land_Medical_Tent_Shower",
+      "Position": [
+        9323.26953125,
+        7.55345344543457,
+        2017.052001953125
+      ],
+      "Orientation": [
+        -176.88699340820312,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Medical_Tent_Shower",
+      "DisplayName": "Land_Medical_Tent_Shower",
+      "Position": [
+        9323.8154296875,
+        7.563607215881348,
+        2026.9669189453125
+      ],
+      "Orientation": [
+        -176.88699340820312,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_Ikarus",
+      "DisplayName": "Land_Wreck_Ikarus",
+      "Position": [
+        9335.9560546875,
+        6.924161911010742,
+        2020.462890625
+      ],
+      "Orientation": [
+        -35.999942779541016,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_wreck_truck01_aban1_green",
+      "DisplayName": "Land_wreck_truck01_aban1_green",
+      "Position": [
+        9424.4951171875,
+        6.22016716003418,
+        2028.4620361328125
+      ],
+      "Orientation": [
+        -71.99994659423828,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_wreck_truck01_aban2_green",
+      "DisplayName": "Land_wreck_truck01_aban2_green",
+      "Position": [
+        9423.966796875,
+        6.194674015045166,
+        2022.3172607421875
+      ],
+      "Orientation": [
+        -80.9999771118164,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Monument_T34",
+      "DisplayName": "Land_Monument_T34",
+      "Position": [
+        9420.521484375,
+        5.780177116394043,
+        2011.3046875
+      ],
+      "Orientation": [
+        0,
+        0,
+        6.999999046325684
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_wreck_truck01_aban2_blue",
+      "DisplayName": "Land_wreck_truck01_aban2_blue",
+      "Position": [
+        9344.3505859375,
+        6.294804096221924,
+        2037.6395263671875
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_V3S",
+      "DisplayName": "Land_Wreck_V3S",
+      "Position": [
+        9332.5302734375,
+        7.796624183654785,
+        2036.8017578125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Dead_MassGrave",
+      "DisplayName": "Land_Dead_MassGrave",
+      "Position": [
+        9328.138671875,
+        5.993917465209961,
+        2022.408447265625
+      ],
+      "Orientation": [
+        18,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Dead_MassGrave",
+      "DisplayName": "Land_Dead_MassGrave",
+      "Position": [
+        9335.021484375,
+        5.981296539306641,
+        2017.075439453125
+      ],
+      "Orientation": [
+        -27,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_House_1W02",
+      "DisplayName": "Land_Ruin_House_1W02",
+      "Position": [
+        9402.064453125,
+        6.28090763092041,
+        1991.2794189453125
+      ],
+      "Orientation": [
+        -35.999977111816406,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_House_1W01",
+      "DisplayName": "Land_Ruin_House_1W01",
+      "Position": [
+        9371.162109375,
+        6.25421667098999,
+        2023.9945068359375
+      ],
+      "Orientation": [
+        -9,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_House_1W02",
+      "DisplayName": "Land_Ruin_House_1W02",
+      "Position": [
+        9351.1103515625,
+        6.0360002517700195,
+        2008.613525390625
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_House_1W08",
+      "DisplayName": "Land_Ruin_House_1W08",
+      "Position": [
+        9366.8486328125,
+        6.708914279937744,
+        2002.8165283203125
+      ],
+      "Orientation": [
+        8.999969482421875,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_House_1W02",
+      "DisplayName": "Land_Ruin_House_1W02",
+      "Position": [
+        9396.015625,
+        6.145784378051758,
+        2008.67333984375
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_House_1W02",
+      "DisplayName": "Land_Ruin_House_1W02",
+      "Position": [
+        9372.921875,
+        5.997554779052734,
+        2014.041015625
+      ],
+      "Orientation": [
+        -161.9998321533203,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_hb02_aban1_black",
+      "DisplayName": "Land_Wreck_hb02_aban1_black",
+      "Position": [
+        9461.91796875,
+        6.664730548858643,
+        1994.6634521484375
+      ],
+      "Orientation": [
+        35.999977111816406,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_hb01_aban2_police",
+      "DisplayName": "Land_Wreck_hb01_aban2_police",
+      "Position": [
+        9471.0966796875,
+        6.843286991119385,
+        2000.6065673828125
+      ],
+      "Orientation": [
+        44.99998092651367,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_wreck_truck01_aban2_green",
+      "DisplayName": "Land_wreck_truck01_aban2_green",
+      "Position": [
+        9455.4892578125,
+        5.866067886352539,
+        1992.4215087890625
+      ],
+      "Orientation": [
+        62.99997329711914,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_House_1W02",
+      "DisplayName": "Land_Ruin_House_1W02",
+      "Position": [
+        9326.154296875,
+        6.147269248962402,
+        2002.5526123046875
+      ],
+      "Orientation": [
+        53.999969482421875,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_House_1W02",
+      "DisplayName": "Land_Ruin_House_1W02",
+      "Position": [
+        9336.8857421875,
+        6.21888542175293,
+        1995.9072265625
+      ],
+      "Orientation": [
+        9.000025749206543,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_wreck_truck01_aban1_green",
+      "DisplayName": "Land_wreck_truck01_aban1_green",
+      "Position": [
+        9385.619140625,
+        6.524710655212402,
+        2053.123046875
+      ],
+      "Orientation": [
+        -98.99996185302734,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_House_2W02",
+      "DisplayName": "Land_Ruin_House_2W02",
+      "Position": [
+        9315.298828125,
+        7.071660995483398,
+        2046.7916259765625
+      ],
+      "Orientation": [
+        -170.99998474121094,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_House_1W02",
+      "DisplayName": "Land_Ruin_House_1W02",
+      "Position": [
+        9317.1796875,
+        6.057656288146973,
+        2022.5155029296875
+      ],
+      "Orientation": [
+        -107.99996185302734,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_House_1W02",
+      "DisplayName": "Land_Ruin_House_1W02",
+      "Position": [
+        9451.544921875,
+        5.891054153442383,
+        2034.10009765625
+      ],
+      "Orientation": [
+        62.99997329711914,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_House_1W02",
+      "DisplayName": "Land_Ruin_House_1W02",
+      "Position": [
+        9386.5908203125,
+        6.838842391967773,
+        2051.277587890625
+      ],
+      "Orientation": [
+        9,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_House_1W09",
+      "DisplayName": "Land_Ruin_House_1W09",
+      "Position": [
+        9447.9521484375,
+        6.633319854736328,
+        1999.3145751953125
+      ],
+      "Orientation": [
+        -161.9998321533203,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Mil_GuardTower",
+      "DisplayName": "Land_Mil_GuardTower",
+      "Position": [
+        9444.0107421875,
+        8.562507629394531,
+        2021.4169921875
+      ],
+      "Orientation": [
+        -84.95523071289062,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_House_2W04",
+      "DisplayName": "Land_House_2W04",
+      "Position": [
+        9448.6328125,
+        12.677531242370605,
+        2062.02685546875
+      ],
+      "Orientation": [
+        -165.06146240234375,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Shed_W6",
+      "DisplayName": "Land_Shed_W6",
+      "Position": [
+        9422.509765625,
+        9.239537239074707,
+        2068.48291015625
+      ],
+      "Orientation": [
+        -74.58763885498047,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_Tractor",
+      "DisplayName": "Land_Wreck_Tractor",
+      "Position": [
+        9426.759765625,
+        7.84379768371582,
+        2063.43994140625
+      ],
+      "Orientation": [
+        -107.99999237060547,
+        -3,
+        -10
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_S1023_Beige",
+      "DisplayName": "Land_Wreck_S1023_Beige",
+      "Position": [
+        9460.3798828125,
+        8.65173625946045,
+        2064.449951171875
+      ],
+      "Orientation": [
+        -18.000099182128906,
+        7.999998569488525,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_Harverster",
+      "DisplayName": "Land_Wreck_Harverster",
+      "Position": [
+        9507.5595703125,
+        8.865934371948242,
+        2052.47998046875
+      ],
+      "Orientation": [
+        161.99996948242188,
+        -9,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Train_Wagon_Box",
+      "DisplayName": "Land_Train_Wagon_Box",
+      "Position": [
+        9457.7099609375,
+        7.884521007537842,
+        1965.510009765625
+      ],
+      "Orientation": [
+        -83.56108093261719,
+        0.9999998211860657,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Train_Wagon_Box",
+      "DisplayName": "Land_Train_Wagon_Box",
+      "Position": [
+        9378.234375,
+        6.660579681396484,
+        1974.8248291015625
+      ],
+      "Orientation": [
+        78.9103012084961,
+        4.999999046325684,
+        6
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Train_742_Red",
+      "DisplayName": "Land_Train_742_Red",
+      "Position": [
+        9364.6884765625,
+        6.596315383911133,
+        1972.100341796875
+      ],
+      "Orientation": [
+        117.60389709472656,
+        7.000312805175781,
+        19.99999237060547
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Ruin_HouseBig2_Half",
+      "DisplayName": "Land_Ruin_HouseBig2_Half",
+      "Position": [
+        9360.0732421875,
+        26.49643898010254,
+        2170.51806640625
+      ],
+      "Orientation": [
+        -108.00004577636719,
+        0,
+        0
+      ],
+      "Flags": 2147483647
+    },
+    {
+      "Type": "Land_Wreck_sed02_aban2_grey",
+      "DisplayName": "Land_Wreck_sed02_aban2_grey",
+      "Position": [
+        9372.25,
+        23.249435424804688,
+        2165.010009765625
+      ],
+      "Orientation": [
+        -152.31796264648438,
+        -6.999998092651367,
+        -5.999999046325684
+      ],
+      "Flags": 2147483647
+    }
+  ],
+  "EditorDeletedObjects": []
+}

@@ -1,0 +1,394 @@
+14:31:02.566 [Party] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) joinded the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+14:31:02.566 [Expansion Quests] Initialize quest system on the connected client with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.574 [Expansion Quests] Loaded existing player quest data for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.574 [Expansion Quests] Loaded existing group quest data for group with ID=0
+14:31:02.574 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.578 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.578 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.578 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.578 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.582 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.585 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.585 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.585 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.585 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.585 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.585 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.585 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.585 [Expansion Quests] Sending 0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= quest configs to client for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:02.589 [Expansion Quests] Sending player quest data for 4 quests to player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:31:03.464 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+14:31:52.949 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) joinded the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+14:31:52.949 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.980 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.980 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+14:31:52.980 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.980 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.980 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.980 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.980 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.980 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.984 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.984 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.984 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.984 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.984 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.984 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.984 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.984 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.984 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.984 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.984 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.988 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.988 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.988 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.988 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.988 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.988 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.988 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.988 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.988 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.988 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.992 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:52.992 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+14:31:53.921 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+14:34:00.964 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought ammobox_308win_20rnd x1 (ce9080d0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 5756.
+14:34:01.156 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought ammobox_308win_20rnd x1 (be2069e0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 5756.
+14:34:01.316 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought ammobox_308win_20rnd x1 (d5700d50) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 5756.
+14:34:04.636 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought ammobox_308win_20rnd x1 (bfd3dae0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 5756.
+14:35:31.359 [MissionAirdrop] An airdrop is heading towards "Sosnovka" (pos=<2700.000000, 0.000000, 6193.000000> type=Random_Sosnovka) with a ExpansionAirdropContainer_Military
+14:37:06.605 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_tt_vest_black x1 (fd8a9dd0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 15000.
+14:37:09.042 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_tt_vest_black x1 (fd8afe50) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 15000.
+14:37:11.308 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mmg_mk_iii_armor_black x1 (fd8b52c0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 55000.
+14:37:12.726 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mmg_mk_v_armor_black x1 (fd8bb340) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 75000.
+14:38:44.023 [Killfeed] [ATF] Boogahadeen got killed by [ATF] Phill_Swift with Beowulf .50 from a distance of 28 m.
+14:38:57.953 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) joinded the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+14:38:58.917 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+14:39:02.343 [SpawnSelection] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) spawned at <6220.440430, 1.917814, 2101.123291>
+14:39:02.371 [AI Object Patrol 00014] Spawning 1 Raiders bots at <6596.619141, 7.681616, 2836.057129>
+14:39:02.476 [AI Object Patrol 00014] Global patrol count: 1
+14:41:44.011 [GraveStone] Spawned GraveStone for Survivor at position 0x0000000004bf1074 {<516.153,432.22,10700.7>}
+14:43:50.730 [Party] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+14:43:50.734 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.
+14:43:50.734 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.
+14:43:50.734 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.
+14:44:14.257 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought cp_cigarettepack_cannabisblackfrost x1 (e2578130) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 150.
+14:44:17.304 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought cp_cigarettepack_cannabisblackfrost x1 (e257bb00) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 150.
+14:47:59.292 [Party] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) joinded the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+14:47:59.296 [Expansion Quests] Initialize quest system on the connected client with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.304 [Expansion Quests] Loaded existing player quest data for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.304 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+14:47:59.308 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.308 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.308 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.312 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.312 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.312 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.312 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.316 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.316 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.316 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.316 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.316 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.316 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.316 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.316 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.320 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.320 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.320 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.320 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.320 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.320 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.320 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.320 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.320 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.324 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.324 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.324 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.324 [Expansion Quests] Sending 0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= quest configs to client for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:47:59.328 [Expansion Quests] Sending player quest data for 4 quests to player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+14:48:00.066 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+14:49:18.046 [AI Object Patrol 00014] Despawning 1 Raiders bots (spawn position <6596.619141, 7.681616, 2836.057129>, 0/1 deceased)
+14:49:18.046 [AI Object Patrol 00014] Global patrol count: 0
+14:54:42.308 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold mmg_mk_iii_armor_black x1 (358a7cb0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 55000.
+14:55:06.285 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mmg_striker_helmet_black x1 (d02d9cc0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 7500.
+14:55:07.351 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mmg_tactical_gloves_black x1 (d02e1560) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 2000.
+15:00:14.101 [VehicleDeleted] ExpansionBigGyrocopter (id=94805FEEDC4CF6B3C619D39784E161DB pos=<510.84, 420.94, 10605.5>)
+15:00:21.476 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=5BA623077F4DE82EB11382ACADD640AC pos=<512.59, 420.73, 10606.1>) as passenger
+15:00:32.433 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=5BA623077F4DE82EB11382ACADD640AC pos=<512.65, 420.72, 10606.1>) as pilot
+15:00:36.597 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=5BA623077F4DE82EB11382ACADD640AC pos=<512.667786, 420.722839, 10606.114258>)
+15:00:43.296 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] stopped vehicle Gyrocopter (id=5BA623077F4DE82EB11382ACADD640AC pos=<513.363708, 431.997528, 10600.182617>)
+15:01:06.000 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=5BA623077F4DE82EB11382ACADD640AC pos=<506.774902, 420.523987, 10594.687500>)
+15:01:16.468 [AI Object Patrol 00058] Spawning 3 Raiders bots at <1600.079712, 240.584427, 10640.188477>
+15:01:16.640 [AI Object Patrol 00058] Global patrol count: 1
+15:02:18.355 [AI Object Patrol 00063] Spawning 2 Raiders bots at <1746.611084, 293.283051, 7827.932129>
+15:02:18.496 [AI Object Patrol 00063] Global patrol count: 2
+15:02:59.019 [AI Object Patrol 00038] Spawning 1 Raiders bots at <2499.871582, 362.246124, 6874.645508>
+15:02:59.132 [AI Object Patrol 00038] Global patrol count: 3
+15:03:40.007 [AI Object Patrol 00066] Spawning 2 Raiders bots at <2015.498169, 310.116547, 6603.865723>
+15:03:40.062 [AI Object Patrol 00066] Global patrol count: 4
+15:04:04.156 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=5BA623077F4DE82EB11382ACADD640AC pos=<2447.62, 277.64, 5956.52>)
+15:04:04.367 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=5BA623077F4DE82EB11382ACADD640AC pos=<2447.62, 277.64, 5956.52>)
+15:05:55.628 [AI Object Patrol 00067] Spawning 2 Raiders bots at <2257.834473, 307.401428, 5968.754883>
+15:05:55.742 [AI Object Patrol 00067] Global patrol count: 5
+15:08:52.167 [Killfeed] AI Seth (Raiders) got killed by [ATF] Boogahadeen with AKM from a distance of 27 m.
+15:08:55.496 [Killfeed] AI Maria (Raiders) got killed by [ATF] Boogahadeen with AKM from a distance of 13 m.
+15:08:57.562 [AI Object Patrol 00067] Raiders bots were wiped out (spawn position <2257.834473, 307.401428, 5968.754883>, 2/2 deceased)
+15:08:57.566 [AI Object Patrol 00067] Global patrol count: 4
+15:10:08.316 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=5BA623077F4DE82EB11382ACADD640AC pos=<2448.32, 277.57, 5957.01>) as pilot
+15:10:10.468 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=5BA623077F4DE82EB11382ACADD640AC pos=<2448.34, 277.56, 5957.01>) as passenger
+15:11:28.582 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=5BA623077F4DE82EB11382ACADD640AC pos=<2134.8, 188.84, 5309.51>)
+15:11:34.492 [AI Object Patrol 00058] Despawning 3 Raiders bots (spawn position <1600.079712, 240.584427, 10640.188477>, 0/3 deceased)
+15:11:34.492 [AI Object Patrol 00058] Global patrol count: 3
+15:11:44.023 [VehicleDeleted] ExpansionBigGyrocopter (id=5BA623077F4DE82EB11382ACADD640AC pos=<2134.93, 188.82, 5309.39>)
+15:12:02.398 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<2132.28, 188.03, 5308.71>) as passenger
+15:12:04.335 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<2132.28, 188.03, 5308.71>) as pilot
+15:12:08.460 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<2132.277100, 188.032928, 5308.711426>)
+15:13:14.980 [AI Object Patrol 00056] Spawning 1 Raiders bots at <2751.705078, 167.365189, 3594.295410>
+15:13:15.050 [AI Object Patrol 00056] Global patrol count: 4
+15:13:16.457 [AI Object Patrol 00063] Despawning 2 Raiders bots (spawn position <1746.611084, 293.283051, 7827.932129>, 0/2 deceased)
+15:13:16.457 [AI Object Patrol 00063] Global patrol count: 3
+15:13:17.136 [AI Object Patrol 00008] Spawning 3 Raiders bots at <2192.623535, 112.092827, 3486.549316>
+15:13:17.218 [AI Object Patrol 00008] Global patrol count: 4
+15:13:19.507 [AI Object Patrol 00009] Spawning 2 Raiders bots at <2264.586426, 102.614326, 3404.126221>
+15:13:19.605 [AI Object Patrol 00009] Global patrol count: 5
+15:13:32.281 [AI Patrol 00041] Spawning 3 Mercenaries bots at <2670.581543, 126.946541, 3018.547119>
+15:13:32.371 [AI Patrol 00041] Global patrol count: 6
+15:14:10.367 [Killfeed] AI Gabi (Raiders) got killed by AI Judy (Raiders) with KA-101 from a distance of 47 m.
+15:15:14.750 [Killfeed] AI Indar (Raiders) got killed by AI Judy (Raiders) with KA-101 from a distance of 46 m.
+15:15:37.175 [AI Object Patrol 00064] Spawning 2 Raiders bots at <1156.680298, 5.438568, 2621.170166>
+15:15:37.250 [AI Object Patrol 00064] Global patrol count: 7
+15:15:49.484 [Safezone] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= pos=<1757.18, 104.47, 2738.25>) entered the safezone
+15:15:49.484 [Safezone] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<1756.56, 104.01, 2738.74>) entered the safezone
+15:15:59.539 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<1619.05, 64.58, 2820.74>)
+15:15:59.851 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<1619.05, 64.58, 2820.74>)
+15:16:46.800 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<1618.72, 64.55, 2820.86>) as pilot
+15:17:00.199 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<1618.63, 64.54, 2820.89>) as passenger
+15:17:07.808 [Killfeed] AI Jose (Raiders) got killed by AI Kaito (Raiders) with KA-M from a distance of 23 m.
+15:17:08.687 [AI Object Patrol 00008] Raiders bots were wiped out (spawn position <2192.623535, 112.092827, 3486.549316>, 3/3 deceased)
+15:17:08.687 [AI Object Patrol 00008] Global patrol count: 6
+15:17:13.894 [AI Patrol 00041] Despawning 3 Mercenaries bots (spawn position <2670.581543, 126.946541, 3018.547119>, 0/3 deceased)
+15:17:13.894 [AI Patrol 00041] Global patrol count: 5
+15:18:09.332 [Safezone] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= pos=<484.6, 199.33, 2196.96>) entered the safezone
+15:18:09.332 [Safezone] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<485.12, 198.64, 2197.23>) entered the safezone
+15:18:14.234 [Killfeed] AI Judy (Raiders) died from Chemical Poisoning.
+15:18:54.820 [AI Object Patrol 00069] Spawning 2 Raiders bots at <405.423950, 67.372475, 3864.933105>
+15:18:54.902 [AI Object Patrol 00069] Global patrol count: 6
+15:19:08.585 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+15:19:08.589 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+15:19:48.105 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<821.13, 23.6, 3204.37>)
+15:19:53.066 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<820.07, 22.41, 3204.37>)
+15:21:04.855 [AI Object Patrol 00038] Despawning 1 Raiders bots (spawn position <2499.871582, 362.246124, 6874.645508>, 0/1 deceased)
+15:21:04.859 [AI Object Patrol 00038] Global patrol count: 5
+15:21:16.218 [AI Object Patrol 00066] Despawning 2 Raiders bots (spawn position <2015.498169, 310.116547, 6603.865723>, 0/2 deceased)
+15:21:16.222 [AI Object Patrol 00066] Global patrol count: 4
+15:21:45.289 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<819.77, 22.39, 3204.93>) as pilot
+15:21:52.800 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<819.775574, 22.385361, 3204.933105>)
+15:21:56.902 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<819.78, 22.39, 3204.93>) as passenger
+15:22:06.863 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<820.03, 23.12, 3205.27>)
+15:22:09.484 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<820.04, 23.12, 3205.26>)
+15:22:13.875 [VehicleDestroyed] ExpansionBigGyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<819.76, 22.49, 3204.98>)
+15:22:20.074 [VehicleDeleted] ExpansionBigGyrocopter (id=29E3F0BA5C421CD12438768BFE9FB27F pos=<0, 0, 0>)
+15:23:07.300 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<824.8, 27.14, 3160.24>) as passenger
+15:23:10.496 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<824.8, 27.14, 3160.24>) as pilot
+15:23:40.269 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<824.855469, 27.137451, 3160.222168>)
+15:24:46.281 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<144.6, 134.67, 4142.98>)
+15:24:46.324 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<144.6, 134.67, 4142.98>)
+15:25:00.289 [AI Object Patrol 00056] Despawning 1 Raiders bots (spawn position <2751.705078, 167.365189, 3594.295410>, 0/1 deceased)
+15:25:00.292 [AI Object Patrol 00056] Global patrol count: 3
+15:26:01.855 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<144.3, 134.61, 4143.32>) as pilot
+15:26:18.695 [AI Object Patrol 00009] Despawning 1 Raiders bots (spawn position <2264.586426, 102.614326, 3404.126221>, 1/2 deceased)
+15:26:18.695 [AI Object Patrol 00009] Global patrol count: 2
+15:26:22.847 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<144.21, 134.59, 4143.43>) as passenger
+15:26:53.496 [AI Object Patrol 00070] Spawning 3 Raiders bots at <251.678375, 95.946960, 4330.413574>
+15:26:53.578 [AI Object Patrol 00070] Global patrol count: 3
+15:28:16.863 [AI Object Patrol 00071] Spawning 2 Raiders bots at <751.514221, 172.367752, 6001.209473>
+15:28:16.949 [AI Object Patrol 00071] Global patrol count: 4
+15:29:38.339 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<145.43, 151.12, 5315.6>)
+15:29:39.910 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<145.42, 151.12, 5315.59>)
+15:31:08.886 [AI Object Patrol 00064] Despawning 2 Raiders bots (spawn position <1156.680298, 5.438568, 2621.170166>, 0/2 deceased)
+15:31:08.886 [AI Object Patrol 00064] Global patrol count: 3
+15:32:53.890 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<144.95, 151.06, 5314.76>) as passenger
+15:32:56.750 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<144.95, 151.06, 5314.76>) as pilot
+15:32:59.144 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<144.948334, 151.065460, 5314.764648>)
+15:35:19.375 [AI Object Patrol 00078] Spawning 3 Raiders bots at <1485.241943, 317.199219, 8555.086914>
+15:35:19.441 [AI Object Patrol 00078] Global patrol count: 4
+15:35:55.347 [AI Object Patrol 00074] Spawning 2 Raiders bots at <1625.607300, 287.030762, 11106.056641>
+15:35:55.464 [AI Object Patrol 00074] Global patrol count: 5
+15:36:04.402 [AI Object Patrol 00079] Spawning 1 Raiders bots at <1052.315063, 352.863892, 11237.059570>
+15:36:04.515 [AI Object Patrol 00079] Global patrol count: 6
+15:36:26.230 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<1582.78, 360.02, 11094.7>)
+15:36:35.734 [Killfeed] AI Quinn (Raiders) got killed by [ATF] Phill_Swift with FN FAL from a distance of 29 m.
+15:36:37.132 [Killfeed] AI Peter (Raiders) got killed by [ATF] Phill_Swift with FN FAL from a distance of 42 m.
+15:36:40.023 [AI Object Patrol 00074] Raiders bots were wiped out (spawn position <1625.607300, 287.030762, 11106.056641>, 2/2 deceased)
+15:36:40.023 [AI Object Patrol 00074] Global patrol count: 5
+15:36:40.320 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<1610.41, 286.11, 11034>)
+15:37:01.453 [AI Object Patrol 00069] Despawning 2 Raiders bots (spawn position <405.423950, 67.372475, 3864.933105>, 0/2 deceased)
+15:37:01.457 [AI Object Patrol 00069] Global patrol count: 4
+15:39:03.519 [AI Object Patrol 00070] Despawning 3 Raiders bots (spawn position <251.678375, 95.946960, 4330.413574>, 0/3 deceased)
+15:39:03.519 [AI Object Patrol 00070] Global patrol count: 3
+15:39:05.968 [AI Object Patrol 00080] Spawning 3 Raiders bots at <1818.164917, 261.222321, 11422.380859>
+15:39:06.027 [AI Object Patrol 00080] Global patrol count: 4
+15:39:15.933 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<1610.61, 286.11, 11034>) as pilot
+15:39:17.968 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<1610.61, 286.11, 11034>) as passenger
+15:41:31.425 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<861.45, 331.49, 12191.6>)
+15:41:32.148 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<861.45, 331.49, 12191.6>)
+15:44:14.875 [AI Object Patrol 00071] Despawning 2 Raiders bots (spawn position <751.514221, 172.367752, 6001.209473>, 0/2 deceased)
+15:44:14.875 [AI Object Patrol 00071] Global patrol count: 3
+15:44:19.390 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<862.13, 331.48, 12191.6>) as pilot
+15:44:28.136 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] stopped vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<862.171021, 331.480865, 12191.610352>)
+15:44:33.039 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<862.2, 331.48, 12191.6>) as passenger
+15:44:33.570 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<862.199890, 331.480621, 12191.610352>)
+15:45:05.605 [AI Object Patrol 00082] Spawning 3 Raiders bots at <1047.382080, 425.473877, 12423.791016>
+15:45:05.710 [AI Object Patrol 00082] Global patrol count: 4
+15:45:39.308 [AI Object Patrol 00078] Despawning 3 Raiders bots (spawn position <1485.241943, 317.199219, 8555.086914>, 0/3 deceased)
+15:45:39.312 [AI Object Patrol 00078] Global patrol count: 3
+15:46:13.859 [AI Patrol 00047] Spawning 3 Mercenaries bots at <2348.457275, 370.323547, 14124.916016>
+15:46:13.917 [AI Patrol 00047] Global patrol count: 4
+15:46:45.054 [AI Patrol 00047] Despawning 3 Mercenaries bots (spawn position <2348.457275, 370.323547, 14124.916016>, 0/3 deceased)
+15:46:45.054 [AI Patrol 00047] Global patrol count: 3
+15:48:03.734 [AI Object Patrol 00084] Spawning 2 Raiders bots at <2587.173584, 296.871674, 13891.913086>
+15:48:03.816 [AI Object Patrol 00084] Global patrol count: 4
+15:48:25.769 [AI Object Patrol 00039] Spawning 1 Raiders bots at <4310.191406, 253.677170, 14297.994141>
+15:48:25.824 [AI Object Patrol 00039] Global patrol count: 5
+15:49:15.289 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<3365.84, 356.05, 14898.1>)
+15:49:37.914 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<3384.46, 291.35, 14818.3>)
+15:50:27.023 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<3384.46, 291.35, 14818.3>) as pilot
+15:50:30.960 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<3384.45, 291.35, 14818.3>) as passenger
+15:50:43.320 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<3380.93, 300.88, 14804.4>)
+15:50:46.433 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<3380.86, 300.71, 14804.3>)
+15:50:56.039 [VehicleDestroyed] ExpansionBigGyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<3379.08, 296.14, 14802.2>)
+15:51:02.191 [AI Object Patrol 00080] Despawning 3 Raiders bots (spawn position <1818.164917, 261.222321, 11422.380859>, 0/3 deceased)
+15:51:02.191 [AI Object Patrol 00080] Global patrol count: 4
+15:51:22.699 [VehicleDeleted] ExpansionBigGyrocopter (id=4C4B90A95A461639908CDCA7FA255ECD pos=<0, 0, 0>)
+15:51:35.011 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=E3CBB0CBC046B6B4A9ADFCB4D7D07989 pos=<3330.07, 298.74, 14892.6>) as pilot
+15:51:39.039 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=E3CBB0CBC046B6B4A9ADFCB4D7D07989 pos=<3330.1, 298.73, 14892.6>) as passenger
+15:51:52.046 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=E3CBB0CBC046B6B4A9ADFCB4D7D07989 pos=<3330.170654, 298.723328, 14892.609375>)
+15:52:09.015 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=E3CBB0CBC046B6B4A9ADFCB4D7D07989 pos=<3344.63, 332.5, 14875.8>)
+15:52:11.132 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=E3CBB0CBC046B6B4A9ADFCB4D7D07989 pos=<3344.23, 331.44, 14876.8>)
+15:52:33.011 [VehicleDestroyed] ExpansionBigGyrocopter (id=E3CBB0CBC046B6B4A9ADFCB4D7D07989 pos=<3337.55, 298.48, 14881.1>)
+15:52:39.156 [VehicleDeleted] ExpansionBigGyrocopter (id=E3CBB0CBC046B6B4A9ADFCB4D7D07989 pos=<0, 0, 0>)
+15:53:29.289 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<3322.9, 299.91, 14901>) as passenger
+15:53:47.210 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<3323.07, 299.88, 14901>) as pilot
+15:53:49.621 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<3323.093750, 299.879852, 14901.050781>)
+15:54:18.898 [AI Object Patrol 00062] Spawning 2 Raiders bots at <4725.568359, 473.449768, 14975.486328>
+15:54:18.984 [AI Object Patrol 00062] Global patrol count: 5
+15:54:28.929 [AI Object Patrol 00079] Despawning 1 Raiders bots (spawn position <1052.315063, 352.863892, 11237.059570>, 0/1 deceased)
+15:54:28.929 [AI Object Patrol 00079] Global patrol count: 4
+15:54:45.800 [AI Object Patrol 00085] Spawning 1 Raiders bots at <4116.807129, 443.611633, 15176.850586>
+15:54:45.820 [AI Object Patrol 00085] Global patrol count: 5
+15:55:36.894 [AI Object Patrol 00082] Despawning 3 Raiders bots (spawn position <1047.382080, 425.473877, 12423.791016>, 0/3 deceased)
+15:55:36.894 [AI Object Patrol 00082] Global patrol count: 4
+15:56:19.222 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<7307.88, 415.95, 14990.6>)
+15:56:19.437 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<7307.88, 415.95, 14990.6>)
+15:58:30.019 [AI Object Patrol 00084] Despawning 2 Raiders bots (spawn position <2587.173584, 296.871674, 13891.913086>, 0/2 deceased)
+15:58:30.019 [AI Object Patrol 00084] Global patrol count: 3
+16:01:32.593 [AI Object Patrol 00039] Despawning 1 Raiders bots (spawn position <4310.191406, 253.677170, 14297.994141>, 0/1 deceased)
+16:01:32.593 [AI Object Patrol 00039] Global patrol count: 2
+16:04:43.742 [Territory] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) created territory "test" at <7262.433594, 409.965454, 14917.203125>
+16:05:03.128 [AI Object Patrol 00085] Despawning 1 Raiders bots (spawn position <4116.807129, 443.611633, 15176.850586>, 0/1 deceased)
+16:05:03.132 [AI Object Patrol 00085] Global patrol count: 1
+16:05:25.855 [AI Object Patrol 00062] Despawning 2 Raiders bots (spawn position <4725.568359, 473.449768, 14975.486328>, 0/2 deceased)
+16:05:25.855 [AI Object Patrol 00062] Global patrol count: 0
+16:05:49.171 [AI Object Patrol 00074] Despawning 0 Raiders bots (spawn position <1622.743286, 287.363464, 11100.217773>, 2/2 deceased)
+16:07:14.707 [Territory] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) deleted territory "test" at <7262.433594, 409.965454, 14917.203125>
+16:08:38.929 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<7309.08, 415.99, 14990.7>) as passenger
+16:08:41.277 [MissionAirdrop] An airdrop is heading towards "Chernogorsk" (pos=<6128.000000, 0.000000, 2497.000000> type=Random_Chernogorsk) with a ExpansionAirdropContainer_Basebuilding
+16:08:45.492 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<7309.08, 415.99, 14990.7>) as pilot
+16:08:48.828 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] stopped vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<7309.080078, 415.987213, 14990.647461>)
+16:08:53.695 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<7309.080566, 415.987762, 14990.647461>)
+16:09:48.507 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<8002.19, 339.87, 14608.6>)
+16:09:51.339 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<8002.19, 339.87, 14608.6>)
+16:14:32.269 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<8002.03, 339.88, 14608.6>) as pilot
+16:14:33.078 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<8002.03, 339.87, 14608.6>) as passenger
+16:14:36.296 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<8002.027344, 339.875366, 14608.632813>)
+16:14:48.000 [AI Patrol 00051] Spawning 1 Raiders bots at <8398.486328, 182.188049, 13645.315430>
+16:14:48.109 [AI Patrol 00051] Global patrol count: 1
+16:16:42.289 [AI Object Patrol 00090] Spawning 1 Raiders bots at <5549.520996, 478.595795, 15078.242188>
+16:16:42.375 [AI Object Patrol 00090] Global patrol count: 2
+16:19:46.406 [AI Object Patrol 00086] Spawning 1 Raiders bots at <3884.029053, 199.834045, 13226.463867>
+16:19:46.468 [AI Object Patrol 00086] Global patrol count: 3
+16:20:17.710 [AI Object Patrol 00040] Spawning 3 Raiders bots at <3191.240723, 277.762543, 11582.402344>
+16:20:17.757 [AI Object Patrol 00040] Global patrol count: 4
+16:20:38.437 [AI Object Patrol 00026] Spawning 1 Raiders bots at <3781.479004, 325.342743, 10937.947266>
+16:20:38.492 [AI Object Patrol 00026] Global patrol count: 5
+16:20:38.550 [AI Object Patrol 00030] Spawning 3 Raiders bots at <3803.637451, 327.955963, 10943.433594>
+16:20:38.585 [AI Object Patrol 00030] Global patrol count: 6
+16:20:38.812 [AI Object Patrol 00029] Spawning 3 Raiders bots at <3825.173096, 326.115143, 10948.031250>
+16:20:38.859 [AI Object Patrol 00029] Global patrol count: 7
+16:20:38.859 [AI Object Patrol 00025] Spawning 3 Raiders bots at <3810.913086, 326.592377, 10938.582031>
+16:20:38.914 [AI Object Patrol 00025] Global patrol count: 8
+16:20:38.914 [AI Object Patrol 00024] Spawning 1 Raiders bots at <3814.097168, 326.551941, 10939.287109>
+16:20:38.968 [AI Object Patrol 00024] Global patrol count: 9
+16:20:39.570 [AI Object Patrol 00028] Spawning 2 Raiders bots at <3801.675293, 326.726807, 10924.934570>
+16:20:39.605 [AI Object Patrol 00028] Global patrol count: 10
+16:20:42.386 [Killfeed] AI Oliver (Raiders) got killed by AI Indar (Raiders) with M4-A1 from a distance of 4 m.
+16:20:47.531 [AI Object Patrol 00092] Spawning 1 Raiders bots at <3448.972412, 261.876587, 12120.722656>
+16:20:47.554 [AI Object Patrol 00092] Global patrol count: 11
+16:20:47.882 [Killfeed] AI Cyril (Raiders) got killed by AI Baty (Raiders) with AUR AX from a distance of 12 m.
+16:20:49.210 [AI Object Patrol 00024] Raiders bots were wiped out (spawn position <3814.097168, 326.551941, 10939.287109>, 1/1 deceased)
+16:20:49.210 [AI Object Patrol 00024] Global patrol count: 10
+16:20:51.296 [Killfeed] AI Jose (Raiders) got killed by AI Eva (Raiders) with AUR A1 from a distance of 8 m.
+16:20:54.746 [AI Object Patrol 00026] Raiders bots were wiped out (spawn position <3781.479004, 325.342743, 10937.947266>, 1/1 deceased)
+16:20:54.746 [AI Object Patrol 00026] Global patrol count: 9
+16:21:19.015 [Killfeed] AI Francis (Raiders) got beaten to a pulp by AI Indar (Raiders) with bare hands.
+16:21:32.589 [Killfeed] AI Peter (Raiders) got killed by AI Taiki (Raiders) with AUR AX from a distance of 2 m.
+16:21:35.253 [Killfeed] AI Baty (Raiders) got killed by AI Taiki (Raiders) with AUR AX from a distance of 4 m.
+16:21:40.925 [AI Object Patrol 00027] Spawning 1 Raiders bots at <4822.445801, 339.131165, 9663.882813>
+16:21:40.957 [AI Object Patrol 00027] Global patrol count: 10
+16:21:41.390 [AI Object Patrol 00023] Spawning 3 Raiders bots at <4837.883301, 339.184021, 9655.134766>
+16:21:41.421 [AI Object Patrol 00023] Global patrol count: 11
+16:21:59.781 [Killfeed] AI Indar (Raiders) got killed by AI Keiko (Raiders) with M4-A1 from a distance of 2 m.
+16:22:12.718 [AI Object Patrol 00087] Spawning 1 Raiders bots at <4311.359375, 316.894470, 8562.058594>
+16:22:12.750 [AI Object Patrol 00087] Global patrol count: 12
+16:22:14.984 [Killfeed] AI Maria (Raiders) got killed by AI Keiko (Raiders) with M4-A1 from a distance of 2 m.
+16:22:15.863 [AI Object Patrol 00025] Raiders bots were wiped out (spawn position <3810.913086, 326.592377, 10938.582031>, 3/3 deceased)
+16:22:15.863 [AI Object Patrol 00025] Global patrol count: 11
+16:22:24.125 [Killfeed] AI Niki (Raiders) got killed by AI Helga (Raiders) with M16-A2 from a distance of 23 m.
+16:22:26.183 [AI Object Patrol 00027] Raiders bots were wiped out (spawn position <4822.445801, 339.131165, 9663.882813>, 1/1 deceased)
+16:22:26.183 [AI Object Patrol 00027] Global patrol count: 10
+16:22:28.515 [Killfeed] AI Taiki (Raiders) got killed by AI Quinn (Raiders) with LE-MAS from a distance of 2 m.
+16:23:05.398 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] stopped vehicle Gyrocopter (id=91AE05BF164958381DCB80A2AF6F9B84 pos=<5622.297852, 320.322632, 9358.931641>)
+16:23:10.781 [Killfeed] AI Eva (Raiders) got killed by AI Keiko (Raiders) with M4-A1 from a distance of 29 m.
+16:23:10.824 [AI Object Patrol 00028] Raiders bots were wiped out (spawn position <3801.675293, 326.726807, 10924.934570>, 2/2 deceased)
+16:23:10.824 [AI Object Patrol 00028] Global patrol count: 9
+16:24:20.054 [Killfeed] AI Quinn (Raiders) got killed by AI Keiko (Raiders) with M4-A1 from a distance of 47 m.
+16:24:21.460 [AI Object Patrol 00029] Raiders bots were wiped out (spawn position <3825.173096, 326.115143, 10948.031250>, 3/3 deceased)
+16:24:21.464 [AI Object Patrol 00029] Global patrol count: 8
+16:24:31.500 [Killfeed] AI Seth (Raiders) bled out.
+16:25:16.304 [AI Patrol 00051] Despawning 1 Raiders bots (spawn position <8398.486328, 182.188049, 13645.315430>, 0/1 deceased)
+16:25:16.304 [AI Patrol 00051] Global patrol count: 7
+16:27:06.625 [AI Object Patrol 00090] Despawning 1 Raiders bots (spawn position <5549.520996, 478.595795, 15078.242188>, 0/1 deceased)
+16:27:06.625 [AI Object Patrol 00090] Global patrol count: 6
+16:30:31.652 [AI Object Patrol 00086] Despawning 1 Raiders bots (spawn position <3884.029053, 199.834045, 13226.463867>, 0/1 deceased)
+16:30:31.652 [AI Object Patrol 00086] Global patrol count: 5
+16:31:16.597 [AI Object Patrol 00092] Despawning 1 Raiders bots (spawn position <3448.972412, 261.876587, 12120.722656>, 0/1 deceased)
+16:31:16.597 [AI Object Patrol 00092] Global patrol count: 4
+16:31:23.273 [AI Object Patrol 00040] Despawning 3 Raiders bots (spawn position <3191.240723, 277.762543, 11582.402344>, 0/3 deceased)
+16:31:23.273 [AI Object Patrol 00040] Global patrol count: 3
+16:31:56.222 [AI Object Patrol 00030] Despawning 1 Raiders bots (spawn position <3803.637451, 327.955963, 10943.433594>, 2/3 deceased)
+16:31:56.222 [AI Object Patrol 00030] Global patrol count: 2
+16:32:32.773 [AI Object Patrol 00087] Despawning 1 Raiders bots (spawn position <4311.359375, 316.894470, 8562.058594>, 0/1 deceased)
+16:32:32.773 [AI Object Patrol 00087] Global patrol count: 1
+17:09:11.625 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+17:09:11.628 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+17:09:11.632 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+17:09:11.632 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+17:09:11.640 [Party] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+17:09:11.644 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.
+17:09:11.648 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.
+17:09:11.648 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.

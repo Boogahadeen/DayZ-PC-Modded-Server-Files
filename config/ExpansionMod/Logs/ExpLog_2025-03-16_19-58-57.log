@@ -1,0 +1,187 @@
+20:03:11.804 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.843 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.843 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.843 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.843 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.843 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.843 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.843 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.851 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:11.859 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:03:45.882 [VehicleDeleted] Volkswagen_Golf_RUS_black (id=F125120891460CF6D1A11EB85D363126 pos=<4715.63, 283.65, 6329.66>)
+20:06:25.664 [MissionAirdrop] An airdrop is heading towards "Stary Sobor" (pos=<5823.000000, 0.000000, 7764.000000> type=Random_Stary Sobor) with a ExpansionAirdropContainer_Military
+20:22:50.937 [Airdrop] A player called airdrop is heading toward <5852.502441, 0.000000, 7820.729004> with a ExpansionAirdropContainer_Basebuilding
+20:42:42.406 [Expansion Quests] Initialize quest system on the connected client with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.414 [Expansion Quests] Created new persistent player quest data for player UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.414 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.414 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.421 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.421 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.421 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.421 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.421 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.421 [Expansion Quests] Create new achievement/auto-start quest for quest ID=8 for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.421 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=3
+20:42:42.421 [Expansion Quests] Updated and saved persistent player quest data for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= | Quest ID=8
+20:42:42.421 [Expansion Quests] Create new achievement/auto-start quest for quest ID=9 for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.421 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=2
+20:42:42.421 [Expansion Quests] Updated and saved persistent player quest data for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= | Quest ID=9
+20:42:42.429 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.429 [Expansion Quests] Create new achievement/auto-start quest for quest ID=11 for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.429 [Expansion Quests] Added new objective data for type=ACTION | Key= | ID=1
+20:42:42.429 [Expansion Quests] Updated and saved persistent player quest data for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= | Quest ID=11
+20:42:42.429 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.429 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.429 [Expansion Quests] Create new achievement/auto-start quest for quest ID=14 for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.437 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=3
+20:42:42.437 [Expansion Quests] Updated and saved persistent player quest data for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= | Quest ID=14
+20:42:42.437 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.437 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.437 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.437 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.437 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.437 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.437 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.445 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.445 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.445 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.445 [Expansion Quests] Sending YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= quest configs to client for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.445 [Expansion Quests] Sending player quest data for 4 quests to player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+20:42:42.703 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=3
+20:42:42.710 [Expansion Quests] Updated and saved persistent player quest data for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= | Quest ID=14
+20:43:12.265 [SpawnSelection] Player "ShinyDart" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) spawned at <4269.422852, 1.289235, 2245.660889>
+20:43:45.882 [Chat - Global]("ShinyDart"(id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=)): hey boog
+20:43:55.359 [Chat - Global]("ShinyDart"(id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=)): you at balota airdroop
+20:50:46.062 [Killfeed] ShinyDart got killed.
+20:51:30.523 [SpawnSelection] Player "ShinyDart" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) spawned at <13910.900391, 4.300000, 13624.900391>
+20:53:46.062 [GraveStone] Spawned GraveStone for Survivor at position 0x00000000867c0fa4 {<4903.3,10.535,2516.47>}
+21:00:01.007 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=.
+21:00:01.015 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=.
+21:00:01.015 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=.
+21:00:01.015 [Expansion Quests] Deleted quest with ID=14 is a of player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=.
+21:00:10.054 [Expansion Quests] Initialize quest system on the connected client with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Loaded existing player quest data for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Check quest initialization for quest with ID=14 | State=STARTED | Player UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Create new quest instance for quest with ID=14 | Player UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Sending YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= quest configs to client for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.062 [Expansion Quests] Sending player quest data for 4 quests to player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=
+21:00:10.531 [Expansion Quests] Added new objective data for type=TRAVEL | Key=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= | ID=3
+21:00:10.531 [Expansion Quests] Updated and saved persistent player quest data for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= | Quest ID=14
+21:01:37.703 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has sold pokemoncard020 x1 (54299e00) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 1000.
+21:01:59.914 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has sold dp_cocabrick x1 (6b846b20) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 30000.
+21:05:01.687 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_mar10_black_gun x1 (4cabe7e0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 9000.
+21:05:15.023 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_mar10_15rnd_mag x1 (7133e910, snafu_ammo_338 x15) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 460.
+21:05:15.500 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_mar10_15rnd_mag x1 (7133b8d0, snafu_ammo_338 x15) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 460.
+21:05:15.984 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_mar10_15rnd_mag x1 (71344990, snafu_ammo_338 x15) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 460.
+21:05:16.515 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_mar10_15rnd_mag x1 (72013d10, snafu_ammo_338 x15) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 460.
+21:05:17.609 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_mar10_15rnd_mag x1 (720100c0, snafu_ammo_338 x15) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 460.
+21:05:23.242 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafukivaari_338_supp x1 (6a39a350) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 400.
+21:05:27.546 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_huntingoptic x1 (72015530) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 400.
+21:06:27.820 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_saint_gun x1 (8cfb3060) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 9000.
+21:06:32.429 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_saint_mag x1 (540eb8d0, ammo_308win x20) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 1200.
+21:06:33.390 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_saint_mag x1 (540ec4e0, ammo_308win x20) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 1200.
+21:06:34.085 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_saint_mag x1 (540ed0f0, ammo_308win x20) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 1200.
+21:06:34.359 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_saint_mag x1 (540f0130, ammo_308win x20) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 1200.
+21:06:34.515 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_saint_mag x1 (540f55a0, ammo_308win x20) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 1200.
+21:06:34.656 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_saint_mag x1 (540e94a0, ammo_308win x20) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 1200.
+21:06:35.148 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_saint_mag x1 (540f85e0, ammo_308win x20) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 1205.
+21:06:44.218 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought snafu_fgkac_grip x1 (46a03000) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 400.
+21:12:06.296 [Chat - Global]("ShinyDart (2)"(id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=)): green moutain?
+21:12:30.328 [AI Patrol 00020] Spawning 3 West bots at <3989.003662, 306.799408, 5437.243164>
+21:12:30.421 [AI Patrol 00020] Global patrol count: 1
+21:12:31.843 [Safezone] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<3703.69, 402, 5991.8>) entered the safezone
+21:12:35.820 [Expansion Quests] Added new objective data for type=TRAVEL | Key=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= | ID=3
+21:12:35.820 [Expansion Quests] Updated and saved persistent player quest data for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= | Quest ID=14
+21:12:35.820 [Expansion Quests] Player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= has completed quest with ID=14
+21:12:35.820 [Expansion Quests] Updated and saved persistent player quest data for player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= | Quest ID=14
+21:12:35.859 [Safezone] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= pos=<3703.07, 402.01, 5991.61>) entered the safezone
+21:13:35.296 [AI Patrol 00021] Spawning 1 West bots at <4709.015137, 286.907349, 6121.127441>
+21:13:35.367 [AI Patrol 00021] Global patrol count: 2
+21:13:50.226 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>) as passenger
+21:13:53.203 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>)
+21:14:18.703 [VehicleDeleted] artillery_tractor (id=77EF69966346C4C2526DA4B19BE533B9 pos=<-0.01, 1.01, 0.02>)
+21:14:18.804 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought artillery_tractor x1 (8caeb490, artillery_tractor_tent<4f0d7d80>, artillery_tractor_doors_hood<4f0baf00>, artillery_tractor_doors_codriver<4f0b97e0>, artillery_tractor_doors_driver<49e028d0>, artillery_tractor_wheel<616c47a0>, artillery_tractor_wheel<616c47a0>, artillery_tractor_wheel<616c47a0>, artillery_tractor_wheel<616c47a0>, artillery_tractor_wheel<616c47a0>, artillery_tractor_wheel<616c47a0>, artillery_tractor_wheel<616c47a0>, artillery_tractor_wheel<616c47a0>, artillery_tractor_wheel<616c47a0>, artillery_tractor_wheel<616c47a0>, SparkPlug<616efd60>, TruckBattery<6cf68080>, CarRadiator<6d785c80>, HeadlightH7<6a38dec0>, HeadlightH7<6a38dec0>) from the trader "Vehicles (Rolf [#STR_EXPANSION_MARKET_TRADER_VEHICLES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 17655.
+21:14:40.070 [VehicleCarKey] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY= pos=<3739.28, 402.49, 6002.49>) used ExpansionCarKey to unlock artillery_tractor (id=692D4F718F4FFA39B198C9906D831222 pos=<3737.16, 402.45, 6002>)
+21:14:46.031 [VehicleEnter] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) entered vehicle АТ-Т бортовой (id=692D4F718F4FFA39B198C9906D831222 pos=<3737.16, 402.45, 6002>) as driver
+21:14:49.601 [VehicleEngine] Player "ShinyDart (2)" [uid=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=] started vehicle АТ-Т бортовой (id=692D4F718F4FFA39B198C9906D831222 pos=<3737.156982, 402.454010, 6001.999023>)
+21:14:58.375 [VehicleEngine] Player "ShinyDart (2)" [uid=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=] stopped vehicle АТ-Т бортовой (id=692D4F718F4FFA39B198C9906D831222 pos=<3718.898438, 401.310150, 6014.854004>)
+21:15:01.890 [VehicleLeave] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) left vehicle АТ-Т бортовой (id=692D4F718F4FFA39B198C9906D831222 pos=<3718.9, 401.31, 6014.85>)
+21:15:26.867 [VehicleEnter] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) entered vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>) as passenger
+21:15:31.898 [VehicleLeave] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) left vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>)
+21:15:55.796 [VehicleEnter] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) entered vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>) as driver
+21:16:03.148 [VehicleLeave] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) left vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>)
+21:16:15.773 [VehicleEnter] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) entered vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>) as driver
+21:16:19.031 [VehicleLeave] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) left vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>)
+21:16:49.414 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>) as driver
+21:17:29.421 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>)
+21:17:29.710 [VehicleEnter] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) entered vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>) as passenger
+21:17:39.273 [VehicleLeave] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) left vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>)
+21:17:47.039 [VehicleEnter] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) entered vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>) as driver
+21:18:16.726 [VehicleLeave] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) left vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>)
+21:19:07.531 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought crabcan x1 (3a5d3de0) from the trader "Consumables (Quinn [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 175.
+21:19:07.968 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought crabcan x1 (3a5dcea0) from the trader "Consumables (Quinn [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 175.
+21:19:10.414 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought sodacan_fronta x1 (3a59fd90) from the trader "Consumables (Quinn [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 605.
+21:19:10.570 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought sodacan_fronta x1 (3a5bafd0) from the trader "Consumables (Quinn [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 605.
+21:19:10.726 [Market] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) has bought sodacan_fronta x1 (73b60cf0) from the trader "Consumables (Quinn [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 605.
+21:19:34.140 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>) as passenger
+21:19:44.968 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>)
+21:21:18.625 [VehicleEnter] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) entered vehicle АТ-Т бортовой (id=692D4F718F4FFA39B198C9906D831222 pos=<3718.9, 401.32, 6014.85>) as driver
+21:21:20.117 [VehicleDeleted] BTR_80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.45, 400.99, 6019.33>)
+21:21:22.273 [VehicleEngine] Player "ShinyDart (2)" [uid=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=] started vehicle АТ-Т бортовой (id=692D4F718F4FFA39B198C9906D831222 pos=<3718.897949, 401.315430, 6014.848145>)
+21:21:51.265 [VehicleLeave] Player "ShinyDart (2)" (id=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=) left vehicle АТ-Т бортовой (id=692D4F718F4FFA39B198C9906D831222 pos=<3701.29, 402.03, 5990.71>)
+21:23:16.343 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=.
+21:23:16.343 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=.
+21:23:16.343 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=YXFsvfTsRuhLDvH4irEiAq5VGiYf12CdDWUtl0Up2OY=.
+21:24:18.351 [Expansion Quests] Added new objective data for type=TARGET | Key=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | ID=3
+21:24:18.351 [Expansion Quests] Updated and saved persistent player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | Quest ID=8
+21:24:18.351 [Expansion Quests] Added new objective data for type=TARGET | Key=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | ID=2
+21:24:18.359 [Expansion Quests] Updated and saved persistent player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | Quest ID=9
+21:24:18.359 [Expansion Quests] Added new objective data for type=ACTION | Key=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | ID=1
+21:24:18.359 [Expansion Quests] Updated and saved persistent player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | Quest ID=11

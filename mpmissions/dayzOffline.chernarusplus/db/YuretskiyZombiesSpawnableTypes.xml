@@ -1,0 +1,109 @@
+<spawnabletypes>
+	<type name="YRTSK_ZMB_SWAT">
+	 	<cargo preset="PokemonCards" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+		<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="YRTSK_ZMB_Male">
+		<cargo preset="PokemonCards" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+		<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="YRTSK_ZMB_TShirt">
+		<cargo preset="PokemonCards" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+		<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="YRTSK_ZMB_Fitness_F">
+		<cargo preset="PokemonCards" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+		<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="YRTSK_ZMB_Fitness_F_2">
+		<cargo preset="PokemonCards" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+		<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="YRTSK_ZMB_Fat">
+		<cargo preset="PokemonCards" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+		<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="YRTSK_ZMB_PartFoot">
+		<cargo preset="PokemonCards" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+		<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	
+
+</spawnabletypes>

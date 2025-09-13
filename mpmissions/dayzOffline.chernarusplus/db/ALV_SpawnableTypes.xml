@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+<!-- ALV Clothing -->
+
+ <!-- Bags -->
+	<type name="ALV_DuffleBag_Grey">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="ALV_HipsterBag_Blue">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="ALV_HipsterBag_Black">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="ALV_HipsterBag_Green">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+  <type name="ALV_MilitaryBag_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+  </type>
+  <type name="ALV_MilitaryBag_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+  </type>
+  <type name="ALV_CanvasBag_Green">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_CanvasBag_Blue">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_CanvasBag_Black">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_CanvasBag_Yellow">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_RollTopBag_Brown">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Satchel_Tan">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+  </type>
+
+ <!-- Shirts -->
+  <type name="ALV_CottonTop_Grey">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_CottonTop_Tan">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_CottonTop_Olive">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_CottonTop_Brown">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_CottonTop_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_CottonTop_BlackWhite">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_RaglanTshirt_BlackWhite">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_RaglanTshirt_WhiteBlack">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_RaglanTshirt_Teal">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_RaglanTshirt_Tan">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_RaglanTshirt_Red">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_RaglanTshirt_Pink">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_RaglanTshirt_Blue">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_TacticalHoodie_Grey">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_TacticalHoodie_Tan">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_TacticalHoodie_Red">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_TacticalHoodie_Olive">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_TacticalHoodie_MC">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_TacticalHoodie_EMR">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_TacticalHoodie_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_FlannelShirt_White">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_FlannelShirt_Yellow">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_FlannelShirt_Red2">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_FlannelShirt_Red">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_FlannelShirt_Blue">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_SheriffShirt_Plain">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_SheriffShirt_Tan">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Tshirt_Beige">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Tshirt_Grey">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Tshirt_White">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Tshirt_Green">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Tshirt_Blue">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Tshirt_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_FleeceTop_Blue">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_FleeceTop_Khaki">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_FleeceTop_CreBlue">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_FleeceTop_Cream">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_FleeceTop_BlaGrn">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_FleeceTop_OrgBlu">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_FleeceTop_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_MechanicTop_Grey">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_ScrubsTop_Blue">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_PulloverHoodie_Grey">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_PulloverHoodie_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_PulloverHoodie_BlackWhite">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_PulloverHoodie_Tan">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_PulloverHoodie_Yellow">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_PulloverHoodie_Blue">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_PulloverHoodie_Green">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_DressShirt_White">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_DressShirt_Blue">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_DressShirt_Grey">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_DressShirt_Red">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_DressShirt_Brown">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_LongSleeve_Tshirt_Grey">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_LongSleeve_Tshirt_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_LongSleeve_Tshirt_Shanka">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_LongSleeve_Tshirt_Shanka_STG">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_VestShirt_Grey">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Sweater_Tan">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Sweater_Grey">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_WorkersShirt_Tan">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_WorkersShirt_Olive">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_WorkersShirt_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_WorkersShirt_Denim">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_WorkersShirt_Blue">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Shirt_MC_Rolled">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Shirt_Tan_Rolled">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Shirt_Black_Rolled">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Shirt_Snow_Rolled">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Shirt_MC_Long">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Shirt_Tan_Long">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Shirt_Black_Long">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Shirt_Snow_Long">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Shirt_MC_Cut">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Shirt_Black_Cut">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Shirt_Snow_Cut">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Shirt_Tan_Cut6">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_ReverendTop_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_OpenShirt_Red">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_OpenShirt_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_OpenShirt_Green">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_OpenShirt_Pink">
+		<cargo preset="mixVillage" />
+  </type>
+  
+ <!-- Pants -->
+  <type name="ALV_Jeans_Blue_Kneepads">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Jeans_Grey_Kneepads">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Jeans_Black_Kneepads">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Jeans_Brown_Kneepads">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Jeans_Blue">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Jeans_Grey">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Jeans_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Jeans_Brown">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Workpants_Beige">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Sheriffpants_Brown">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Sheriffpants_Olive">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Cargopants_Beige">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_Cargopants_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_MechanicPants_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_FirefighterPants_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_FirefighterPants_Beige">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_ScrubsPants_Blue">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_PatrolPants_Green">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_PatrolPants_STG_Red">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_PatrolPants_Snow">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Pants_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Pants_Tan">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Pants_MC">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_G3Pants_Snow">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_HunterPants_Tan">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_HunterPants_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_HunterPants_Camo">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_HunterPants_WinterCamo">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_CargoShorts_Olive">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_CargoShorts_Tan">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_SweatPants_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_SmartPants_Grey">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_SmartPants_Brown">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_WW2Pants_Classic">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_LeatherLeggings_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_HunterPants_Kneepads_Tan">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_HunterPants_Kneepads_Black">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_HunterPants_Kneepads_Camo">
+		<cargo preset="mixVillage" />
+  </type>
+  <type name="ALV_HunterPants_Kneepads_WinterCamo">
+		<cargo preset="mixVillage" />
+  </type>
+</spawnabletypes>

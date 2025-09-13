@@ -1,0 +1,184 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-3-23_23-20-41
+====================================================================================
+23:20:41 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:20:41 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:20:41 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:20:41 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:20:41 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:20:41 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:20:41 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:20:41 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:20:41 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:20:41 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:20:41 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:20:41 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:20:41 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:20:41 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:20:41 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:20:41 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:20:41 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:20:41 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:20:41 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:20:41 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:20:41 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:20:41 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:20:41 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:20:41 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:20:41 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:20:41 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:20:41 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:20:41 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:20:41 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:20:41 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:20:41 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:20:41 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+23:20:41 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:20:41 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:20:41 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:20:41 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:20:41 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:20:41 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:20:41 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:20:41 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:20:41 | [PermissionManager] Adding Super Admin (76561199205606578)
+23:20:41 | [PermissionManager] Adding Super Admin (76561199569546626)
+23:20:41 | [PermissionManager] Loaded UserGroups.json
+23:20:41 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:20:41 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:20:41 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:20:41 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:20:41 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:20:41 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:20:41 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:20:41 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:20:41 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:20:41 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:20:41 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:20:41 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:20:41 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:20:41 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:20:41 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:20:41 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:20:41 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:20:41 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:20:41 | Building Sets Loaded: 1
+23:20:42 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+23:20:42 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+23:25:23 | Player "Boogahadeen" (steamId=76561199205606578) connected to server!
+23:25:23 | Player "Phill_Swift" (steamId=76561199569546626) connected to server!
+23:26:14 | "Phill_Swift" (steamid=76561199569546626) gave godmode to (steamid=76561199569546626)
+23:26:16 | "Phill_Swift" (steamid=76561199569546626) gave unlimited ammo to (steamid=76561199569546626)
+23:26:23 | "Phill_Swift" (steamid=76561199569546626) gave godmode to (steamid=76561199205606578)
+23:26:27 | "Phill_Swift" (steamid=76561199569546626) gave unlimited ammo to (steamid=76561199205606578)
+23:34:4 | "Phill_Swift" (steamid=76561199569546626) gave unlimited ammo to (steamid=76561199569546626)
+23:34:10 | "Phill_Swift" (steamid=76561199569546626) gave unlimited ammo to (steamid=76561199569546626)
+23:34:42 | "Phill_Swift" (steamid=76561199569546626) gave unlimited ammo to (steamid=76561199569546626)
+23:34:48 | "Phill_Swift" (steamid=76561199569546626) gave unlimited ammo to (steamid=76561199569546626)
+23:35:47 | "Boogahadeen" (steamid=76561199205606578) gave unlimited ammo to (steamid=76561199569546626)
+23:35:49 | "Boogahadeen" (steamid=76561199205606578) gave unlimited ammo to (steamid=76561199569546626)
+23:36:10 | "Boogahadeen" (steamid=76561199205606578) gave godmode to (steamid=76561199569546626)
+23:36:10 | "Boogahadeen" (steamid=76561199205606578) gave godmode to (steamid=76561199569546626)
+23:36:39 | "Phill_Swift" (steamid=76561199569546626) gave unlimited ammo to (steamid=76561199569546626)
+23:36:45 | "Phill_Swift" (steamid=76561199569546626) gave unlimited ammo to (steamid=76561199569546626)
+23:41:19 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (BO_AKM_FDE)
+23:41:19 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (BO_AKM_FDE)
+23:41:20 | "Boogahadeen" (steamid=76561199205606578) Spawned Item: (BO_AKM_FDE)
+23:42:0 | "76561199205606578" (steamid=76561199205606578) teleported to (pos=<4378.149902, 338.625244, 10525.299805>)
+23:42:0 | "Boogahadeen": (steamid=76561199205606578) teleported to (pos=4378.15,0,10525.3)
+23:42:1 | "76561199205606578" (steamid=76561199205606578) teleported to (pos=<4644.810059, 339.000000, 10557.299805>)
+23:42:1 | "Boogahadeen": (steamid=76561199205606578) teleported to (pos=4644.81,0,10557.3)
+23:42:4 | "76561199205606578" (steamid=76561199205606578) teleported to (pos=<4740.810059, 339.000000, 10344.000000>)
+23:42:4 | "Boogahadeen": (steamid=76561199205606578) teleported to (pos=4740.81,0,10344)
+23:42:12 | "76561199569546626" (steamid=76561199569546626) teleported to (pos=<4698.109863, 339.000000, 10296.599609>)
+23:42:12 | "Phill_Swift": (steamid=76561199569546626) teleported to (pos=4698.11,0,10296.6)
+23:49:48 | Player "Boogahadeen" (steamId=76561199205606578) initiated disconnect process...
+23:49:55 | Player "Boogahadeen" (steamId=76561199205606578) disconnected early from server (EXIT NOW).
+23:50:3 | Player "Boogahadeen" (steamId=76561199205606578) disconnected from server.
+23:51:3 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (WeaponCleaningKit)
+23:51:4 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (WeaponCleaningKit)
+23:53:24 | "76561199569546626" (steamid=76561199569546626) teleported to (pos=<3726.050049, 401.552521, 6011.520020>)
+23:53:24 | "Phill_Swift": (steamid=76561199569546626) teleported to (pos=3726.05,0,6011.52)
+0:29:21 | "76561199569546626" (steamid=76561199569546626) teleported to (pos=<10038.400391, 190.695648, 9527.009766>)
+0:29:21 | "Phill_Swift": (steamid=76561199569546626) teleported to (pos=10038.4,0,9527.01)
+0:29:25 | "76561199569546626" (steamid=76561199569546626) teleported to (pos=<10086.799805, 187.893402, 9508.860352>)
+0:29:25 | "Phill_Swift": (steamid=76561199569546626) teleported to (pos=10086.8,0,9508.86)
+0:29:56 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (ExpansionGyrocopter)
+0:35:6 | "76561199569546626" (steamid=76561199569546626) teleported to (pos=<1314.180054, 292.622894, 12047.099609>)
+0:35:6 | "Phill_Swift": (steamid=76561199569546626) teleported to (pos=1314.18,0,12047.1)
+0:42:41 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (WoodenPlank)
+0:42:41 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (WoodenPlank)
+0:42:41 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (WoodenPlank)
+0:42:41 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (WoodenPlank)
+0:42:42 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (WoodenPlank)
+0:42:42 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (WoodenPlank)
+0:42:42 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (WoodenPlank)
+0:42:42 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (WoodenPlank)
+0:42:42 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (WoodenPlank)
+0:42:42 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (WoodenPlank)
+0:42:43 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (WoodenPlank)
+0:42:43 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (WoodenPlank)
+0:43:46 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (BBP_Workbench_Kit)
+0:43:47 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (BBP_Workbench_Kit)
+0:43:56 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (BBP_BuildPermit)
+0:45:11 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (BBP_Blueprint)
+0:48:15 | Admin "Phill_Swift" (steamId=76561199569546626) built part frame at position: <942.791748, 331.992096, 12191.813477>
+0:48:18 | Admin "Phill_Swift" (steamId=76561199569546626) built part t3_wall_concrete_bricks at position: <942.791748, 331.992096, 12191.813477>
+0:49:8 | Admin "Phill_Swift" (steamId=76561199569546626) built part frame at position: <942.791809, 332.210297, 12194.703125>
+0:49:11 | Admin "Phill_Swift" (steamId=76561199569546626) built part t3_wall_concrete_bricks at position: <942.791809, 332.210297, 12194.703125>
+0:49:14 | Admin "Phill_Swift" (steamId=76561199569546626) built part t3_door at position: <942.791809, 332.210297, 12194.703125>
+0:50:2 | Admin "Phill_Swift" (steamId=76561199569546626) built part frame at position: <948.791748, 331.991882, 12191.814453>
+0:50:5 | Admin "Phill_Swift" (steamId=76561199569546626) built part t3_wall_concrete_bricks at position: <948.791748, 331.991882, 12191.814453>
+0:51:5 | Admin "Phill_Swift" (steamId=76561199569546626) built part frame at position: <942.791748, 331.991882, 12197.813477>
+0:51:7 | Admin "Phill_Swift" (steamId=76561199569546626) built part t3_wall_concrete_bricks at position: <942.791748, 331.991882, 12197.813477>
+0:52:1 | Admin "Phill_Swift" (steamId=76561199569546626) built part frame at position: <954.791748, 331.991669, 12191.815430>
+0:52:2 | Admin "Phill_Swift" (steamId=76561199569546626) built part t3_wall_concrete_bricks at position: <954.791748, 331.991669, 12191.815430>
+0:52:43 | Admin "Phill_Swift" (steamId=76561199569546626) built part frame at position: <954.791748, 331.991455, 12185.815430>
+0:52:44 | Admin "Phill_Swift" (steamId=76561199569546626) built part t3_wall_concrete_bricks at position: <954.791748, 331.991455, 12185.815430>
+0:53:37 | Admin "Phill_Swift" (steamId=76561199569546626) built part frame at position: <948.791748, 331.991669, 12185.814453>
+0:53:38 | Admin "Phill_Swift" (steamId=76561199569546626) built part t3_wall_concrete_bricks at position: <948.791748, 331.991669, 12185.814453>
+0:54:37 | Admin "Phill_Swift" (steamId=76561199569546626) built part frame at position: <946.418823, 328.669678, 12186.254883>
+0:54:43 | Admin "Phill_Swift" (steamId=76561199569546626) built part t3_wall_concrete_bricks at position: <946.418823, 328.669678, 12186.254883>
+1:2:3 | Player "Phill_Swift" (steamId=76561199569546626) initiated disconnect process...
+1:2:9 | Player "Phill_Swift" (steamId=76561199569546626) aborted logout process [canceledLogout]
+1:2:28 | "Phill_Swift" (steamid=76561199569546626) Spawned Item: (ExpansionCodeLock)
+1:2:49 | Player "Phill_Swift" (steamId=76561199569546626) initiated disconnect process...
+1:2:53 | Player "Phill_Swift" (steamId=76561199569546626) disconnected early from server (EXIT NOW).
+1:3:4 | Player "Phill_Swift" (steamId=76561199569546626) disconnected from server.

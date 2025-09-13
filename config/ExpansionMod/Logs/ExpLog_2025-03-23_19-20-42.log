@@ -1,0 +1,242 @@
+19:25:22.570 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) joinded the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+19:25:22.570 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.578 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.578 [Expansion Quests] Loaded existing group quest data for group with ID=0
+19:25:22.578 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.578 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.578 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.578 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.585 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.585 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.585 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.585 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.585 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.585 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.585 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.585 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.585 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.585 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.585 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.593 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.593 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.593 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.593 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.593 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.593 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.593 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.593 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.593 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.593 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.593 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.593 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.601 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.601 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+19:25:22.843 [Party] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) joinded the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+19:25:22.843 [Expansion Quests] Initialize quest system on the connected client with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.851 [Expansion Quests] Loaded existing player quest data for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+19:25:22.859 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.859 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.867 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.867 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.867 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.867 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.867 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.867 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.867 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.867 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.867 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.867 [Expansion Quests] Sending 0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= quest configs to client for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:22.867 [Expansion Quests] Sending player quest data for 4 quests to player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+19:25:23.523 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+19:25:23.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+19:30:03.492 [MissionAirdrop] An airdrop is heading towards "Skalisty Island" (pos=<13452.000000, 0.000000, 3112.000000> type=Random_Skalisty Island) with a ExpansionAirdropContainer_Military
+19:31:14.859 [Killfeed] AI Gabi (Passive) got killed by [ATF] Boogahadeen with AKM from a distance of 15 m.
+19:31:15.671 [Killfeed] AI Baty (Passive) got killed by [ATF] Phill_Swift with FN FAL from a distance of 18 m.
+19:32:23.445 [Killfeed] AI Keiko (Mercenaries) got killed by [ATF] Boogahadeen with AKM from a distance of 36 m.
+19:32:28.570 [Killfeed] AI Maria (Yeet Brigade) got killed by [ATF] Boogahadeen with AKM from a distance of 74 m.
+19:32:55.031 [Killfeed] AI Francis (Raiders) got killed by [ATF] Phill_Swift with FN FAL from a distance of 2 m.
+19:33:05.023 [Killfeed] AI Guo (Raiders) got killed by [ATF] Phill_Swift with FN FAL from a distance of 2 m.
+19:33:09.648 [Killfeed] AI Naomi (Raiders) got killed by [ATF] Phill_Swift with FN FAL from a distance of 3 m.
+19:33:14.484 [Killfeed] AI Lewis (Raiders) got killed by [ATF] Phill_Swift with FN FAL from a distance of 20 m.
+19:33:47.265 [Killfeed] AI Rolf (Raiders) got killed by [ATF] Phill_Swift with FN FAL from a distance of 5 m.
+19:35:19.445 [Killfeed] AI Eva (Raiders) got killed by [ATF] Phill_Swift with Orsis T-5000 from a distance of 37 m.
+19:37:10.250 [Killfeed] AI Irena (Raiders) got killed by [ATF] Boogahadeen with AKM from a distance of 39 m.
+19:37:17.500 [Killfeed] AI Taiki (Mercenaries) got killed by [ATF] Boogahadeen with AKM from a distance of 88 m.
+19:37:31.492 [Killfeed] AI Helga (Raiders) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 15 m.
+19:38:17.085 [Killfeed] AI Kaito (Raiders) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 10 m.
+19:38:34.023 [Killfeed] AI Judy (Mercenaries) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 32 m.
+19:38:38.539 [Killfeed] AI Oliver (Mercenaries) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 18 m.
+19:38:44.695 [Killfeed] AI Manua (Mercenaries) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 27 m.
+19:38:54.351 [Killfeed] AI Helga (Mercenaries) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 56 m.
+19:39:49.375 [Killfeed] AI Linda (Mercenaries) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 9 m.
+19:39:56.289 [Killfeed] AI Frida (Mercenaries) got killed by [ATF] Boogahadeen with AKM from a distance of 26 m.
+19:40:08.765 [Killfeed] AI Naomi (Mercenaries) got killed by [ATF] Boogahadeen with AKM from a distance of 17 m.
+19:40:12.492 [Killfeed] AI Quinn (Yeet Brigade) got killed by [ATF] Boogahadeen with AKM from a distance of 42 m.
+19:40:13.960 [Killfeed] AI Eva (Yeet Brigade) got killed by [ATF] Boogahadeen with AKM from a distance of 49 m.
+19:40:14.398 [Killfeed] AI Frida (Yeet Brigade) got killed by [ATF] Boogahadeen with AKM from a distance of 47 m.
+19:40:15.742 [Killfeed] AI Maria (Yeet Brigade) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 20 m.
+19:40:19.640 [Killfeed] AI Irena (Yeet Brigade) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 9 m.
+19:40:22.210 [Killfeed] AI Keiko (Yeet Brigade) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 14 m.
+19:40:25.250 [Killfeed] AI Cyril (Yeet Brigade) got killed by [ATF] Boogahadeen with AKM from a distance of 40 m.
+19:40:25.562 [Killfeed] AI Indar (Yeet Brigade) got killed by AI Boris (Mercenaries) with M4-A1 from a distance of 36 m.
+19:40:27.726 [Killfeed] AI Boris (Mercenaries) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 17 m.
+19:40:35.875 [Killfeed] AI Gabi (Yeet Brigade) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 9 m.
+19:40:52.406 [Killfeed] AI Judy (Mercenaries) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 3 m.
+19:40:55.835 [Killfeed] AI Denis (Mercenaries) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 9 m.
+19:41:17.726 [Killfeed] AI Baty (Mercenaries) got killed by [ATF] Phill_Swift with FN FAL from a distance of 14 m.
+19:41:26.726 [Killfeed] AI Jose (Yeet Brigade) got killed by [ATF] Phill_Swift with FN FAL from a distance of 5 m.
+19:41:59.421 [AI Object Patrol 00030] Spawning 3 Raiders bots at <3845.181885, 328.586029, 10941.791992>
+19:41:59.453 [AI Object Patrol 00030] Global patrol count: 1
+19:41:59.453 [AI Object Patrol 00025] Spawning 1 Raiders bots at <3823.332031, 328.286804, 10932.188477>
+19:41:59.523 [AI Object Patrol 00025] Global patrol count: 2
+19:41:59.523 [AI Object Patrol 00031] Spawning 2 Raiders bots at <3800.535400, 326.545685, 10930.204102>
+19:41:59.554 [AI Object Patrol 00031] Global patrol count: 3
+19:41:59.554 [AI Object Patrol 00027] Spawning 2 Raiders bots at <3807.640381, 326.750000, 10930.856445>
+19:41:59.585 [AI Object Patrol 00027] Global patrol count: 4
+19:41:59.585 [AI Object Patrol 00026] Spawning 2 Raiders bots at <3811.112793, 326.750000, 10926.988281>
+19:41:59.609 [AI Object Patrol 00026] Global patrol count: 5
+19:41:59.609 [AI Object Patrol 00029] Spawning 1 Raiders bots at <3815.899170, 331.124298, 10934.514648>
+19:41:59.664 [AI Object Patrol 00029] Global patrol count: 6
+19:42:00.617 [AI Object Patrol 00024] Spawning 2 Raiders bots at <4831.420898, 339.191132, 9629.153320>
+19:42:00.632 [AI Object Patrol 00024] Global patrol count: 7
+19:42:00.632 [AI Object Patrol 00028] Spawning 3 Raiders bots at <4834.452637, 339.188263, 9631.306641>
+19:42:00.671 [AI Object Patrol 00028] Global patrol count: 8
+19:42:03.953 [Killfeed] AI Peter (Raiders) got killed by AI Quinn (Raiders) with AUR A1 from a distance of 4 m.
+19:42:05.984 [Killfeed] AI Hassan (Raiders) got killed by AI Keiko (Raiders) with LE-MAS from a distance of 5 m.
+19:42:07.578 [Killfeed] AI Baty (Raiders) got killed by AI Gabi (Raiders) with LE-MAS from a distance of 5 m.
+19:42:14.664 [Killfeed] AI Seth (Raiders) got killed by AI Niki (Raiders) with M16-A2 from a distance of 15 m.
+19:42:26.890 [Killfeed] AI Keiko (Raiders) got killed by AI Quinn (Raiders) with AUR A1 from a distance of 6 m.
+19:42:26.898 [AI Object Patrol 00024] Raiders bots were wiped out (spawn position <4831.420898, 339.191132, 9629.153320>, 2/2 deceased)
+19:42:26.898 [AI Object Patrol 00024] Global patrol count: 7
+19:42:49.289 [Killfeed] AI Peter (Raiders) got killed by AI Mirek (Raiders) with M16-A2 from a distance of 1 m.
+19:42:52.195 [AI Object Patrol 00029] Raiders bots were wiped out (spawn position <3815.899170, 331.124298, 10934.514648>, 1/1 deceased)
+19:42:52.195 [AI Object Patrol 00029] Global patrol count: 6
+19:43:06.257 [Killfeed] AI Niki (Raiders) got killed by AI Mirek (Raiders) with M16-A2 from a distance of 1 m.
+19:43:06.937 [Killfeed] AI Mirek (Raiders) got killed by AI Linda (Raiders) with M4-A1 from a distance of 33 m.
+19:43:07.156 [AI Object Patrol 00025] Raiders bots were wiped out (spawn position <3823.332031, 328.286804, 10932.188477>, 1/1 deceased)
+19:43:07.164 [AI Object Patrol 00025] Global patrol count: 5
+19:43:07.796 [AI Object Patrol 00026] Raiders bots were wiped out (spawn position <3811.112793, 326.750000, 10926.988281>, 2/2 deceased)
+19:43:07.796 [AI Object Patrol 00026] Global patrol count: 4
+19:44:09.781 [Killfeed] AI Judy (Mercenaries) got killed by [ATF] Phill_Swift with Orsis T-5000 from a distance of 137 m.
+19:44:16.687 [Killfeed] AI Jose (Mercenaries) got killed by [ATF] Boogahadeen with AKM from a distance of 48 m.
+19:45:06.062 [Killfeed] AI Eva (Mercenaries) got killed by [ATF] Phill_Swift with FN FAL from a distance of 89 m.
+19:45:13.976 [Killfeed] AI Helga (Mercenaries) got killed by [ATF] Boogahadeen with AKM from a distance of 90 m.
+19:45:14.242 [Killfeed] AI Naomi (Mercenaries) got killed by [ATF] Phill_Swift with FN FAL from a distance of 88 m.
+19:45:50.726 [Killfeed] AI Irena (Mercenaries) got killed by [ATF] Phill_Swift with FN FAL from a distance of 144 m.
+19:45:54.960 [Killfeed] AI Linda (Raiders) got beaten to a pulp by AI Maria (Raiders) with bare hands.
+19:45:55.617 [Killfeed] AI Frida (Raiders) bled out.
+19:46:08.031 [Killfeed] AI Maria (Mercenaries) got killed by [ATF] Phill_Swift with FN FAL from a distance of 106 m.
+19:46:52.359 [Killfeed] AI Seth (Mercenaries) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 120 m.
+19:46:55.937 [Killfeed] AI Oliver (Mercenaries) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 131 m.
+19:47:01.539 [Killfeed] AI Keiko (Mercenaries) got killed.
+19:47:08.460 [Killfeed] AI Judy (Mercenaries) got killed by [ATF] Boogahadeen with AKM from a distance of 143 m.
+19:47:09.671 [Killfeed] AI Irena (Mercenaries) got killed by [ATF] Boogahadeen with AKM from a distance of 124 m.
+19:47:15.375 [Killfeed] AI Francis (Mercenaries) got killed by [ATF] Boogahadeen with AKM from a distance of 30 m.
+19:47:39.375 [Killfeed] AI Naomi (Mercenaries) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 145 m.
+19:48:10.726 [Killfeed] AI Helga (Mercenaries) bled out.
+19:48:32.437 [Killfeed] AI Elias (Mercenaries) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 182 m.
+19:49:00.796 [Killfeed] AI Cyril (Mercenaries) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 141 m.
+19:49:12.164 [Killfeed] AI Kaito (Mercenaries) bled out.
+19:49:23.687 [Killfeed] AI Guo (Mercenaries) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 264 m.
+19:50:02.429 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+19:50:02.437 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+19:50:02.437 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+19:50:02.437 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+19:50:04.500 [Killfeed] AI Hassan (Mercenaries) got killed by [ATF] Phill_Swift with Orsis T-5000 from a distance of 261 m.
+19:52:27.992 [Killfeed] AI Manua (Mercenaries) got killed by [ATF] Phill_Swift with Beowulf .50 from a distance of 3 m.
+19:53:23.148 [AI Patrol 00047] Spawning 1 Raiders bots at <4229.392578, 334.448517, 6077.209961>
+19:53:23.187 [AI Patrol 00047] Global patrol count: 5
+19:53:23.187 [AI Patrol 00048] Spawning 3 Raiders bots at <4448.654297, 303.719635, 6213.397949>
+19:53:23.210 [AI Patrol 00048] Global patrol count: 6
+19:53:24.078 [Safezone] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= pos=<3726.05, 401.55, 6011.52>) entered the safezone
+19:53:47.859 [ATM] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has deposited 61311250 on his ATM account.
+19:54:23.039 [Killfeed] AI Niki (Raiders) got killed by AI Frida (Raiders) with AUR A1 from a distance of 144 m.
+19:54:26.531 [AI Patrol 00047] Raiders bots were wiped out (spawn position <4229.392578, 334.448517, 6077.209961>, 1/1 deceased)
+19:54:26.531 [AI Patrol 00047] Global patrol count: 5
+19:55:18.390 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold mag_ak101_30rnd x1 (f0d8c260, ammo_556x45 x30) at the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 7747.
+19:55:19.062 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold mag_ak101_30rnd x1 (f0d8feb0, ammo_556x45 x30) at the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 7747.
+19:55:19.695 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold mag_ak101_30rnd x1 (f0b49e10, ammo_556x45 x30) at the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 7747.
+19:57:14.773 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammobox_556x45_20rnd x1 (efc73310) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 26497.
+19:57:15.343 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammobox_556x45_20rnd x1 (efc76ce0) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 26497.
+19:57:15.679 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammobox_556x45_20rnd x1 (efc77870) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 26497.
+19:57:16.554 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammobox_556x45_20rnd x1 (efc9d1b0) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 26496.
+19:57:17.148 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammobox_556x45_20rnd x1 (efc9a370) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 26496.
+19:57:21.023 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammobox_556x45_20rnd x1 (efca0b80) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 26496.
+19:57:23.687 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammobox_556x45_20rnd x1 (efc969a0) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 26496.
+19:57:24.398 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammobox_556x45tracer_20rnd x1 (efc76150) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 26726.
+19:57:24.726 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammobox_556x45tracer_20rnd x1 (efc997e0) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 26726.
+19:57:25.195 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammobox_762x54_20rnd x1 (efc9ba90) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 5434.
+19:57:28.710 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammobox_762x54tracer_20rnd x1 (efc9fff0) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 8907.
+19:57:38.570 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammo_40mm_explosive x1 (f0d80160) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 3368.
+19:57:39.140 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammo_40mm_explosive x1 (f0d861e0) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 3368.
+19:57:39.718 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammo_40mm_explosive x1 (f0d86df0) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 3367.
+19:57:40.437 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammo_40mm_explosive x1 (f0d849c0) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 3367.
+19:57:41.320 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammo_40mm_explosive x1 (f0d855d0) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 3367.
+19:58:00.617 [ATM] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has deposited 289500 on his ATM account.
+19:59:37.187 [ATM] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has withdrawn 10000 from his ATM account.
+19:59:47.648 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought canteen x1 (1726e10) from the trader "Consumables (Quinn [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 725.
+20:02:37.500 [AI Object Patrol 00031] Despawning 2 Raiders bots (spawn position <3800.535400, 326.545685, 10930.204102>, 0/2 deceased)
+20:02:37.500 [AI Object Patrol 00031] Global patrol count: 4
+20:02:37.796 [AI Object Patrol 00027] Despawning 1 Raiders bots (spawn position <3807.640381, 326.750000, 10930.856445>, 1/2 deceased)
+20:02:37.804 [AI Object Patrol 00027] Global patrol count: 3
+20:03:07.203 [AI Object Patrol 00030] Despawning 1 Raiders bots (spawn position <3845.181885, 328.586029, 10941.791992>, 2/3 deceased)
+20:03:07.203 [AI Object Patrol 00030] Global patrol count: 2
+20:03:23.101 [AI Object Patrol 00028] Despawning 2 Raiders bots (spawn position <4834.452637, 339.188263, 9631.306641>, 1/3 deceased)
+20:03:23.101 [AI Object Patrol 00028] Global patrol count: 1
+20:24:54.101 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought mmg_gun_rack_kit_blue x1 (d576ca50) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 7500.
+20:26:22.507 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought nailbox x1 (b884ff40) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 450.
+20:26:22.960 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought nailbox x1 (b8879de0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 450.
+20:26:23.890 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought nailbox x1 (d1474ab0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 450.
+20:26:34.609 [ATM] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has withdrawn 100000 from his ATM account.
+20:26:44.437 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought nailbox x1 (c239feb0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 450.
+20:26:47.890 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought rope x1 (c23c9d50) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 450.
+20:27:16.875 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought handsaw x1 (cdcf50c0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 450.
+20:27:20.296 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought hatchet x1 (cdcf2e10) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 250.
+20:27:48.906 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought expansioncodelock x1 (cc93f340) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 1500.
+20:29:21.054 [AI Patrol 00043] Spawning 3 Mercenaries bots at <10067.836914, 257.671997, 8864.550781>
+20:29:21.078 [AI Patrol 00043] Global patrol count: 2
+20:29:31.367 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+20:30:02.507 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=573FCE85E24F9DDF78920987FC3A3E93 pos=<10119.7, 184.31, 9520.85>) as pilot
+20:30:05.671 [VehicleEngine] Player "Phill_Swift" [uid=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=] started vehicle Gyrocopter (id=573FCE85E24F9DDF78920987FC3A3E93 pos=<10119.678711, 184.306610, 9520.846680>)
+20:31:04.109 [AI Object Patrol 00070] Spawning 3 Raiders bots at <9932.967773, 200.480774, 9634.300781>
+20:31:04.171 [AI Object Patrol 00070] Global patrol count: 3
+20:31:22.500 [VehicleEngine] Player "Phill_Swift" [uid=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=] stopped vehicle Gyrocopter (id=573FCE85E24F9DDF78920987FC3A3E93 pos=<9855.411133, 581.909485, 9839.754883>)
+20:31:59.203 [AI Patrol 00051] Spawning 3 Raiders bots at <9927.388672, 193.923508, 10901.601563>
+20:31:59.234 [AI Patrol 00051] Global patrol count: 4
+20:32:02.601 [AI Patrol 00043] Despawning 3 Mercenaries bots (spawn position <10067.836914, 257.671997, 8864.550781>, 0/3 deceased)
+20:32:02.601 [AI Patrol 00043] Global patrol count: 3
+20:32:08.835 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=573FCE85E24F9DDF78920987FC3A3E93 pos=<9709.18, 218.57, 9932.58>)
+20:33:22.937 [VehicleDestroyed] ExpansionGyrocopter (id=573FCE85E24F9DDF78920987FC3A3E93 pos=<9709.18, 218.57, 9932.58>)
+20:34:03.015 [Killfeed] AI Mirek (Raiders) got killed by [ATF] Phill_Swift with Beowulf .50 from a distance of 4 m.
+20:35:27.375 [VehicleDeleted] ExpansionGyrocopter (id=573FCE85E24F9DDF78920987FC3A3E93 pos=<9709.2, 218.57, 9932.58>)
+20:39:17.625 [AI Patrol 00048] Despawning 3 Raiders bots (spawn position <4448.654297, 303.719635, 6213.397949>, 0/3 deceased)
+20:39:17.625 [AI Patrol 00048] Global patrol count: 2
+20:40:14.375 [Territory] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) created territory "SWIFTYS" at <925.419189, 330.396606, 12183.844727>
+20:45:02.609 [AI Object Patrol 00070] Despawning 2 Raiders bots (spawn position <9932.967773, 200.480774, 9634.300781>, 1/3 deceased)
+20:45:02.609 [AI Object Patrol 00070] Global patrol count: 1
+20:45:03.015 [AI Patrol 00051] Despawning 3 Raiders bots (spawn position <9927.388672, 193.923508, 10901.601563>, 0/3 deceased)
+20:45:03.015 [AI Patrol 00051] Global patrol count: 0
+21:01:43.734 [MissionAirdrop] An airdrop is heading towards "Myshkinko" (pos=<2036.000000, 0.000000, 7491.000000> type=Random_Myshkinko) with a ExpansionAirdropContainer_Medical
+21:01:58.015 [BaseRaiding] BBP_SGate (<946.418823, 328.669678, 12186.254883>) Code set by "player "Phill_Swift" (ID = "0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=" at <947.251160, 328.907166, 12187.030273>)" and the code is 1973
+21:02:40.687 [BaseRaiding] BBP_BDoor (<942.791809, 332.210297, 12194.703125>) Code set by "player "Phill_Swift" (ID = "0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=" at <942.528381, 332.238068, 12193.359375>)" and the code is 1520
+21:03:03.085 [Party] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+21:03:03.085 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.
+21:03:03.085 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.
+21:03:03.085 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=.

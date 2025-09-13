@@ -1,0 +1,78 @@
+02:59:24.152 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.176 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.178 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.180 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.183 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.184 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.184 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.185 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.185 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.187 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.187 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.187 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.188 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.188 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.188 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.189 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.189 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.189 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.189 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.189 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.190 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.190 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.190 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.191 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.191 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.192 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.193 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.193 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.194 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.196 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:24.198 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+02:59:42.132 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold dp_cocabrick x1 (83b68230) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 30000.
+02:59:44.333 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold dp_cocabrick x1 (83b6a4e0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 30000.
+02:59:44.470 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold dp_cocabrick x1 (83b68dc0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 30000.
+02:59:44.641 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold dp_cocabrick x1 (83b70cf0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 30000.
+02:59:44.825 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold dp_cocabrick x1 (83b6ea40) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 30000.
+02:59:52.575 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought dp_cocabrick x1 (83b68dc0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 30000.
+02:59:56.214 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has sold dp_cocabrick x1 (83b68dc0) at the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) and got 30000.
+03:00:46.473 [AI Patrol 00020] Spawning 2 West bots at <4110.493652, 357.300781, 5868.588379>
+03:00:46.506 [AI Patrol 00020] Global patrol count: 1
+03:00:46.507 [AI Patrol 00021] Spawning 2 West bots at <4236.164551, 313.723328, 5405.869141>
+03:00:46.548 [AI Patrol 00021] Global patrol count: 2
+03:00:47.396 [Safezone] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<3703.42, 402, 5994.4>) entered the safezone
+03:01:48.127 [VehicleDeleted] BTR_80 (id=3C42399D784BA87D29918AB642020AC2 pos=<0, 0.54, -0.19>)
+03:01:48.194 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought btr_80 x1 (840cecf0, BTR_80_wheel<83b8c450>, BTR_80_doors_trunk1<83ba41e0>, BTR_80_doors_trunk<83ba3650>, BTR_80_doors_hood<83ba13a0>, BTR_80_doors_cargo4<83ba1f30>, BTR_80_doors_cargo3<83b9ce40>, BTR_80_doors_cargo2<83b971c0>, BTR_80_doors_cargo1<83b9ab90>, BTR_80_doors_codriver<83b97d50>, BTR_80_doors_driver<83b99470>, BTR_80_wheel<83b8c450>, BTR_80_wheel<83b8c450>, BTR_80_wheel<83b8c450>, BTR_80_wheel<83b8c450>, BTR_80_wheel<83b8c450>, BTR_80_wheel<83b8c450>, BTR_80_wheel<83b8c450>, BTR_80_wheel<83b8c450>, SparkPlug<83b8a1a0>, TruckBattery<83b87360>, CarRadiator<83b87ef0>, HeadlightH7<83b84520>, HeadlightH7<83b84520>) from the trader "Vehicles (Rolf [#STR_EXPANSION_MARKET_TRADER_VEHICLES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 17855.
+03:02:07.903 [VehicleDeleted] GAZ_69_rus_green (id=891EFCFEF94A30DC14DA658E249EF98C pos=<0, 0.99, 0.14>)
+03:02:08.003 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought gaz_69_rus_green x1 (840e4d70, GAZ_69_rus_wheel<83b89610>, GAZ_69_rus_tent<8bc01d00>, GAZ_69_rus_doors_trunk<8bc01170>, GAZ_69_rus_doors_hood<8bbfc080>, GAZ_69_rus_doors_cargo2<8bbfcc10>, GAZ_69_rus_doors_cargo1<83b8f290>, GAZ_69_rus_doors_codriver<83b91540>, GAZ_69_rus_doors_driver<83b8db70>, GAZ_69_rus_wheel<83b89610>, GAZ_69_rus_wheel<83b89610>, GAZ_69_rus_wheel<83b89610>, GAZ_69_rus_wheel<83b89610>, SparkPlug<83ba7020>, CarBattery<83ba5900>, CarRadiator<83ba2ac0>, HeadlightH7<83b9b720>, HeadlightH7<83b9b720>) from the trader "Vehicles (Rolf [#STR_EXPANSION_MARKET_TRADER_VEHICLES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 17505.
+03:02:28.356 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought expansioncarkey x1 (9074ad40) from the trader "Vehicle_Parts (Naomi [#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 250.
+03:03:16.060 [VehicleCarKey] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<3725.24, 401.16, 6018.56>) used ExpansionCarKey to unlock BTR_80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.79, 401.03, 6018.91>)
+03:03:25.378 [MissionAirdrop] An airdrop is heading towards "Chernogorsk" (pos=<6128.000000, 0.000000, 2497.000000> type=Random_Chernogorsk) with a ExpansionAirdropContainer_Medical
+03:04:00.666 [VehicleCarKey] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<3722.78, 403.37, 6018.5>) used ExpansionCarKey to lock BTR_80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.79, 401.03, 6018.91>)
+03:04:03.767 [VehicleCarKey] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<3723.04, 403.4, 6018.14>) used ExpansionCarKey to unlock BTR_80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.79, 401.03, 6018.91>)
+03:04:47.574 [VehicleCarKey] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<3723.43, 401.63, 6018.4>) used ExpansionCarKey to lock BTR_80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.79, 401.03, 6018.91>)
+03:04:51.804 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.79, 401.03, 6018.91>) as passenger
+03:04:55.802 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.79, 401.03, 6018.91>)
+03:05:02.027 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.79, 401.03, 6018.91>) as passenger
+03:05:05.027 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.79, 401.03, 6018.91>)
+03:05:10.875 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.79, 401.03, 6018.91>) as passenger
+03:05:13.489 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle БТР-80 (id=BEF26C0E3C4AB195B970AB8D203B8807 pos=<3722.79, 401.03, 6018.91>)
+03:05:35.468 [VehicleCarKey] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<3738.56, 402.46, 6002.7>) used ExpansionCarKey to unlock GAZ_69_rus_green (id=51432B65FC412869B14107A38B723670 pos=<3737.16, 402.36, 6002.14>)
+03:05:41.033 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle GAZ_69 (id=51432B65FC412869B14107A38B723670 pos=<3737.16, 402.36, 6002.14>) as driver
+03:05:44.592 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle GAZ_69 (id=51432B65FC412869B14107A38B723670 pos=<3737.156982, 402.357208, 6002.136719>)
+03:07:14.124 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+03:07:32.695 [VehicleDeleted] Volkswagen_Golf_RUS_black (id=C7F46D32904F4A153846419EAC2256B1 pos=<2432.31, 5.17, 2066.12>)
+03:08:06.658 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] stopped vehicle GAZ_69 (id=51432B65FC412869B14107A38B723670 pos=<4402.577148, 301.364990, 6434.558105>)
+03:08:12.551 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle GAZ_69 (id=51432B65FC412869B14107A38B723670 pos=<4402.577148, 301.365021, 6434.558105>)
+03:08:22.208 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] stopped vehicle GAZ_69 (id=51432B65FC412869B14107A38B723670 pos=<4402.577148, 301.365021, 6434.558105>)
+03:10:37.246 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle GAZ_69 (id=51432B65FC412869B14107A38B723670 pos=<4402.58, 301.37, 6434.56>)
+03:12:02.256 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought pokemoncard_box4s x1 (b6d665f0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 5000.
+03:12:05.616 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought pokemoncard_box4s x1 (b6d67d10) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 5000.
+03:17:48.892 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+03:17:48.894 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+03:17:48.897 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+03:18:31.793 [AI Patrol 00020] Despawning 2 West bots (spawn position <4110.493652, 357.300781, 5868.588379>, 0/2 deceased)
+03:18:31.794 [AI Patrol 00020] Global patrol count: 1
+03:20:47.519 [AI Patrol 00021] Despawning 2 West bots (spawn position <4236.164551, 313.723328, 5405.869141>, 0/2 deceased)
+03:20:47.521 [AI Patrol 00021] Global patrol count: 0
+04:32:49.496 [MissionAirdrop] An airdrop is heading towards "Sosnovka" (pos=<2700.000000, 0.000000, 6193.000000> type=Random_Sosnovka) with a ExpansionAirdropContainer_Military

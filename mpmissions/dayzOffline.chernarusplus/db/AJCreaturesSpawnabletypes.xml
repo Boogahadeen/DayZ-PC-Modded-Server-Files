@@ -1,0 +1,259 @@
+<!--Ajs Creature Attatchments-->
+<spawnabletypes>
+	<type name="CZCDAJ_ZmbM_Clown">
+	 	<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_Dark_Heavy">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_Demon">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_LostInfected">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_Mutant">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_Mutant_Pale">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_TribeDemon">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_TribeDemon_White">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_NBC_Red">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_NBC_BlueLight">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_NBC_Green">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_NBC_Rainbow">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_NBC_Space">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_NBC_ERDL">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_Mutant_Bloody">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CDAJ_ZmbM_TribeDemon_Pale">
+		<cargo preset="PokemonCards" />
+		<cargo preset="Pokebox" />
+		<attachments chance="0.20">
+			<item name="ExpansionGoldBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionGoldNugget" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverBar" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="ExpansionSilverNugget" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>

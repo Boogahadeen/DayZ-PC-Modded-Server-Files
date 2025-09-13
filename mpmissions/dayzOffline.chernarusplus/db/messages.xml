@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    
+    <message>
+        <deadline>230</deadline>
+        <shutdown>1</shutdown>
+        <text>[ THE SERVER WILL RESTART IN #tmin MINUTES ]
+        </text>
+    </message>
+
+    <message>
+        <delay>2</delay>
+        <onconnect>1</onconnect>
+        <text>[WELCOME TO BoogieNights PVP] </text>
+    </message>
+
+    <message>
+        <repeat>3</repeat>
+        <text>[JOIN THE DISCORD https://discord.gg/Je7heDmpW3]</text>
+    </message>
+    
+    <message>
+        <repeat>2</repeat>
+        <text>[100k Starter Cash]</text>
+    </message>
+
+    <message>
+        <repeat>2</repeat>
+        <text>[$$$Pokemon Cards + Bullion sold at BM$$$]</text>
+    </message>
+    
+    <message>
+        <repeat>3</repeat>
+        <text>[Base Raid Every Weekend]  </text>
+    </message>
+    
+    <message>
+        <repeat>4</repeat>
+        <text>[KOS] </text>
+    </message>
+    
+</messages>

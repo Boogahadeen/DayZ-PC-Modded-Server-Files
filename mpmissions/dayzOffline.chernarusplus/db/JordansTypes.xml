@@ -1,0 +1,380 @@
+<types>
+<type name="JordanDread_boots_1">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+ 	</type>
+ 	<type name="JordanDread_boots_2">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+ 	</type>
+ 	<type name="JordanDread_boots_3">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+ 	</type>
+ 	<type name="JordanDread_boots_4">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+ 	</type>
+ 	<type name="JordanDread_boots_5">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+ 	</type>
+	<type name="JordanDread_boots_6">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+ 	</type>
+ 	<type name="JordanDread_boots_7">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+ 	</type>
+ 	<type name="JordanDread_boots_8">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+ 	</type>
+ 	<type name="JordanDread_boots_9">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+ 	</type>
+ 	<type name="JordanDread_boots_1_100">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3"/>
+ 	 	<value name="Tier4"/>
+ 	</type>
+	<type name="JordanDread_boots_2_100">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3"/>
+ 	 	<value name="Tier4"/>
+ 	</type>
+ 	<type name="JordanDread_boots_3_100">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3"/>
+ 	 	<value name="Tier4"/>
+ 	</type>
+ 	<type name="JordanDread_boots_4_100">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3"/>
+ 	 	<value name="Tier4"/>
+ 	</type>
+ 	<type name="JordanDread_boots_5_100">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3"/>
+ 	 	<value name="Tier4"/>
+ 	</type>
+ 	<type name="JordanDread_boots_6_100">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3"/>
+ 	 	<value name="Tier4"/>
+ 	</type>
+	<type name="JordanDread_boots_7_100">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3"/>
+ 	 	<value name="Tier4"/>
+ 	</type>
+ 	<type name="JordanDread_boots_8_100">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3"/>
+ 	 	<value name="Tier4"/>
+ 	</type>
+ 	<type name="JordanDread_boots_9_100">
+ 	 	<nominal>2</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3"/>
+ 	 	<value name="Tier4"/>
+ 	</type>
+ 	<type name="JordanDread_boots_1_200">
+ 	 	<nominal>1</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+ 	 	<value name="Tier4"/>
+ 	</type>
+ 	<type name="JordanDread_boots_2_200">
+ 	 	<nominal>1</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>0</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier4"/>
+ 	</type>
+	<type name="JordanDread_boots_3_200">
+ 	 	<nominal>1</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>2</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier4"/>
+ 	</type>
+ 	<type name="JordanDread_boots_4_200">
+ 	 	<nominal>1</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>0</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier4"/>
+ 	</type>
+ 	<type name="JordanDread_boots_5_200">
+ 	 	<nominal>1</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>0</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier4"/>
+ 	</type>
+ 	<type name="JordanDread_boots_6_200">
+ 	 	<nominal>1</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier4"/>
+ 	</type>
+ 	<type name="JordanDread_boots_7_200">
+ 	 	<nominal>1</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier4"/>
+ 	</type>
+	<type name="JordanDread_boots_8_200">
+ 	 	<nominal>1</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier4"/>
+ 	</type>
+ 	<type name="JordanDread_boots_9_200">
+ 	 	<nominal>1</nominal>
+ 	 	<lifetime>14400</lifetime>
+ 	 	<restock>0</restock>
+ 	 	<min>1</min>
+ 	 	<quantmin>-1</quantmin>
+ 	 	<quantmax>-1</quantmax>
+ 	 	<cost>100</cost>
+ 	 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+ 	 	<category name="clothes" />
+        <usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier4"/>
+ 	</type>
+</types>

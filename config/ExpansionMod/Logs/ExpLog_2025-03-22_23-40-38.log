@@ -1,0 +1,217 @@
+23:42:45.093 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) joinded the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+23:42:45.093 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.101 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.101 [Expansion Quests] Loaded existing group quest data for group with ID=0
+23:42:45.109 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.109 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.117 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.117 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.117 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.117 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.117 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.117 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.117 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.117 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.117 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.117 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.117 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+23:42:45.976 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+23:43:05.460 [Party] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) joinded the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+23:43:05.460 [Expansion Quests] Initialize quest system on the connected client with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.468 [Expansion Quests] Loaded existing player quest data for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.468 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+23:43:05.468 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.468 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.476 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.476 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.476 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.476 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.476 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.476 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.476 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.476 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.476 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.476 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.484 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.484 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.484 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.484 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.484 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.484 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.484 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.484 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.484 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.492 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.492 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.492 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.492 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.492 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.492 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.492 [Expansion Quests] Sending 0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= quest configs to client for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:05.492 [Expansion Quests] Sending player quest data for 4 quests to player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=
+23:43:06.320 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+23:43:32.125 [VehicleDeleted] IJ_2140_SL (id=2FF45F9D4B4D787383C60481114E9735 pos=<0.01, 0.47, 0.1>)
+23:43:32.164 [VehicleDeleted] IJ_2140_SL (id=1E019952A34F6037F4BC898E5166C70E pos=<2774.54, 195.15, 5102.78>)
+23:43:32.164 [VirtualGarage] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<2782.091309, 195.106430, 5101.825684>) stored a vehicle "IJ_2140_SL" (GlobalID=800000008000000080000000800003A5 pos=<2774.539551, 195.149475, 5102.782227>)
+23:43:42.218 [VirtualGarage] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= pos=<2783.191406, 195.111755, 5101.594727>) retrieved a vehicle "IJ_2140_SL" (GlobalID=800000008000000080000000800003A5 pos=<2774.539551, 195.149475, 5102.782227>)
+23:43:56.648 [VehicleDeleted] IJ_2140_SL (id=2BF6EE576244057A74C189909F24BEF9 pos=<2774.54, 195.15, 5102.78>)
+23:43:56.656 [VirtualGarage] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= pos=<2783.191406, 195.111755, 5101.594727>) stored a vehicle "IJ_2140_SL" (GlobalID=800000008000000080000000800003A5 pos=<2774.539063, 195.149475, 5102.782227>)
+23:46:05.484 [Territory] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) deleted territory "TEST" at <2781.456055, 195.055893, 5098.738281>
+23:47:13.265 [MissionAirdrop] An airdrop is heading towards "Myshkinko" (pos=<2036.000000, 0.000000, 7491.000000> type=Random_Myshkinko) with a ExpansionAirdropContainer_Military
+23:51:47.250 [VehicleDeleted] ExpansionGyrocopter (id=31A00C5B364E0B2C4DD593AD05A3A761 pos=<2789.61, 195.92, 5110.05>)
+23:51:51.101 [VehicleDeleted] ExpansionGyrocopter (id=ECA69974FD4BD3F8CADC5C8A185A6DEA pos=<2781.87, 195.46, 5107.64>)
+23:52:04.789 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=D3D0F09E5C42DAA69A5A6C8106AF2506 pos=<2786.41, 195.73, 5108.89>) as pilot
+23:52:16.859 [VehicleEnter] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) entered vehicle Gyrocopter (id=D3D0F09E5C42DAA69A5A6C8106AF2506 pos=<2786.44, 195.73, 5108.84>) as passenger
+23:52:17.289 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=D3D0F09E5C42DAA69A5A6C8106AF2506 pos=<2786.443848, 195.725388, 5108.841797>)
+23:52:54.054 [AI Object Patrol 00001] Spawning 2 Raiders bots at <3854.188477, 240.831741, 4916.372070>
+23:52:54.156 [AI Object Patrol 00001] Global patrol count: 1
+23:52:58.039 [AI Patrol 00047] Spawning 1 Raiders bots at <4168.477539, 343.691772, 5993.213867>
+23:52:58.085 [AI Patrol 00047] Global patrol count: 2
+23:52:59.226 [AI Patrol 00041] Spawning 3 Mercenaries bots at <3852.251709, 234.416931, 4783.253906>
+23:52:59.265 [AI Patrol 00041] Global patrol count: 3
+23:53:03.562 [Safezone] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<3431.02, 390.03, 5602.12>) entered the safezone
+23:53:05.414 [Safezone] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= pos=<3489.96, 391.73, 5603.64>) entered the safezone
+23:53:07.929 [AI Patrol 00048] Spawning 1 Raiders bots at <4558.007324, 312.338165, 5746.280273>
+23:53:08.000 [AI Patrol 00048] Global patrol count: 4
+23:53:33.203 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+23:53:33.468 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+23:53:37.492 [Killfeed] AI Hassan (Mercenaries) got killed by AI Mirek (Raiders) with AUR A1 from a distance of 146 m.
+23:53:46.312 [Killfeed] AI Frida (Mercenaries) got killed by AI Mirek (Raiders) with AUR A1 from a distance of 161 m.
+23:53:48.523 [AI Patrol 00041] Despawning 1 Mercenaries bots (spawn position <3852.251709, 234.416931, 4783.253906>, 2/3 deceased)
+23:53:48.523 [AI Patrol 00041] Global patrol count: 3
+23:55:53.062 [Killfeed] AI Mirek (Raiders) bled out.
+23:55:56.257 [AI Object Patrol 00037] Spawning 1 Raiders bots at <9716.919922, 98.822548, 4485.789063>
+23:55:56.351 [AI Object Patrol 00037] Global patrol count: 4
+23:57:03.492 [AI Object Patrol 00034] Spawning 2 Raiders bots at <11722.958984, 192.225372, 4432.975098>
+23:57:03.546 [AI Object Patrol 00034] Global patrol count: 5
+23:57:37.632 [AI Object Patrol 00056] Spawning 3 Raiders bots at <11445.320313, 243.185837, 5121.445801>
+23:57:37.671 [AI Object Patrol 00056] Global patrol count: 6
+23:58:03.757 [AI Object Patrol 00057] Spawning 1 Raiders bots at <12257.430664, 118.044731, 5452.405273>
+23:58:03.812 [AI Object Patrol 00057] Global patrol count: 7
+00:00:11.976 [AI Object Patrol 00011] Spawning 3 Raiders bots at <12979.304688, 6.824967, 10587.259766>
+00:00:12.054 [AI Object Patrol 00011] Global patrol count: 8
+00:01:10.875 [AI Object Patrol 00023] Spawning 3 Raiders bots at <12079.272461, 140.000000, 12514.293945>
+00:01:10.937 [AI Object Patrol 00023] Global patrol count: 9
+00:01:13.570 [AI Object Patrol 00033] Spawning 1 Raiders bots at <11841.787109, 144.016998, 12526.953125>
+00:01:13.593 [AI Object Patrol 00033] Global patrol count: 10
+00:01:15.203 [AI Object Patrol 00020] Spawning 3 Raiders bots at <11916.489258, 140.000000, 12607.034180>
+00:01:15.242 [AI Object Patrol 00020] Global patrol count: 11
+00:01:20.578 [AI Object Patrol 00021] Spawning 2 Raiders bots at <11791.145508, 140.047089, 12711.254883>
+00:01:20.609 [AI Object Patrol 00021] Global patrol count: 12
+00:01:21.453 [AI Object Patrol 00022] Spawning 3 Raiders bots at <12157.832031, 140.000000, 12859.592773>
+00:01:21.500 [AI Object Patrol 00022] Global patrol count: 13
+00:01:21.640 [AI Object Patrol 00064] Spawning 2 Raiders bots at <12286.869141, 133.602905, 11460.281250>
+00:01:21.656 [AI Object Patrol 00064] Global patrol count: 14
+00:01:54.218 [Safezone] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= pos=<11880.4, 171.78, 12517.6>) entered the safezone
+00:01:55.195 [Safezone] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<11888.2, 168.16, 12497.9>) entered the safezone
+00:02:21.781 [VehicleLeave] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) left vehicle Gyrocopter (id=D3D0F09E5C42DAA69A5A6C8106AF2506 pos=<11684.3, 145.32, 12506.9>)
+00:02:22.039 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+00:02:22.039 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=D3D0F09E5C42DAA69A5A6C8106AF2506 pos=<11684.3, 145.32, 12507>)
+00:02:37.296 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+00:02:59.343 [Safezone] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= pos=<11745.7, 140.4, 12564.4>) entered the safezone
+00:03:00.468 [Safezone] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<11728.7, 141.86, 12539>) entered the safezone
+00:03:20.289 [VehicleDeleted] ExpansionBigGyrocopter (id=D3D0F09E5C42DAA69A5A6C8106AF2506 pos=<11685, 145.26, 12508>)
+00:03:29.632 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+00:03:38.898 [Safezone] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<11786, 139.94, 12553.4>) entered the safezone
+00:03:50.750 [AI Object Patrol 00001] Despawning 1 Raiders bots (spawn position <3854.188477, 240.831741, 4916.372070>, 1/2 deceased)
+00:03:50.750 [AI Object Patrol 00001] Global patrol count: 13
+00:04:01.781 [AI Patrol 00047] Despawning 1 Raiders bots (spawn position <4168.477539, 343.691772, 5993.213867>, 0/1 deceased)
+00:04:01.781 [AI Patrol 00047] Global patrol count: 12
+00:04:16.382 [AI Patrol 00048] Despawning 1 Raiders bots (spawn position <4558.007324, 312.338165, 5746.280273>, 0/1 deceased)
+00:04:16.382 [AI Patrol 00048] Global patrol count: 11
+00:06:57.945 [AI Object Patrol 00037] Despawning 1 Raiders bots (spawn position <9716.919922, 98.822548, 4485.789063>, 0/1 deceased)
+00:06:57.945 [AI Object Patrol 00037] Global patrol count: 10
+00:07:52.015 [AI Object Patrol 00034] Despawning 2 Raiders bots (spawn position <11722.958984, 192.225372, 4432.975098>, 0/2 deceased)
+00:07:52.023 [AI Object Patrol 00034] Global patrol count: 9
+00:08:00.218 [AI Object Patrol 00056] Despawning 3 Raiders bots (spawn position <11445.320313, 243.185837, 5121.445801>, 0/3 deceased)
+00:08:00.218 [AI Object Patrol 00056] Global patrol count: 8
+00:08:26.210 [AI Object Patrol 00057] Despawning 1 Raiders bots (spawn position <12257.430664, 118.044731, 5452.405273>, 0/1 deceased)
+00:08:26.218 [AI Object Patrol 00057] Global patrol count: 7
+00:08:43.937 [AI Object Patrol 00035] Spawning 3 Raiders bots at <13248.942383, 128.300888, 12791.450195>
+00:08:44.070 [AI Object Patrol 00035] Global patrol count: 8
+00:08:59.039 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+00:09:02.234 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+00:11:08.195 [AI Object Patrol 00011] Despawning 3 Raiders bots (spawn position <12979.304688, 6.824967, 10587.259766>, 0/3 deceased)
+00:11:08.203 [AI Object Patrol 00011] Global patrol count: 7
+00:13:02.992 [AI Object Patrol 00067] Spawning 2 Raiders bots at <12953.241211, 111.257690, 12237.343750>
+00:13:03.132 [AI Object Patrol 00067] Global patrol count: 8
+00:15:50.226 [Killfeed] AI Baty (Raiders) got killed by [ATF] Boogahadeen with Orsis T-5000 from a distance of 52 m.
+00:16:48.421 [Killfeed] AI Judy (Raiders) got killed by [ATF] Boogahadeen with Orsis T-5000 from a distance of 36 m.
+00:17:14.882 [Killfeed] AI Helga (Raiders) got killed by [ATF] Phill_Swift with SNAFU PKP from a distance of 35 m.
+00:18:03.398 [Killfeed] AI Elias (Raiders) got killed by [ATF] Phill_Swift with SNAFU PKP from a distance of 2 m.
+00:19:59.460 [Killfeed] AI Linda (Raiders) got killed by [ATF] Phill_Swift with SNAFU PKP from a distance of 19 m.
+00:25:16.914 [Safezone] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= pos=<12311.9, 140.01, 12559.5>) entered the safezone
+00:27:03.289 [AI Object Patrol 00068] Spawning 1 Raiders bots at <12618.236328, 183.760223, 12805.846680>
+00:27:03.343 [AI Object Patrol 00068] Global patrol count: 9
+00:27:43.476 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammobox_762x39_20rnd x1 (61e0e640) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 6856.
+00:27:44.070 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammobox_762x39_20rnd x1 (4474d480) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 6855.
+00:27:55.148 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold ammo_45acp x100 (d3d59720) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 5600.
+00:28:09.281 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has sold m4_t3nrdsoptic x1 (7a5717e0) at the trader "Attachments (Francis [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 4905.
+00:28:31.687 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought battery9v x1 (c75c2b20) from the trader "Special (Gabi [#STR_EXPANSION_MARKET_TRADER_SPECIAL])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 155.
+00:28:31.859 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought battery9v x1 (c75c36b0) from the trader "Special (Gabi [#STR_EXPANSION_MARKET_TRADER_SPECIAL])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 155.
+00:28:32.132 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought battery9v x1 (c75de280) from the trader "Special (Gabi [#STR_EXPANSION_MARKET_TRADER_SPECIAL])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 155.
+00:28:32.585 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought battery9v x1 (c75dbfd0) from the trader "Special (Gabi [#STR_EXPANSION_MARKET_TRADER_SPECIAL])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 155.
+00:28:33.656 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought battery9v x1 (35855440) from the trader "Special (Gabi [#STR_EXPANSION_MARKET_TRADER_SPECIAL])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 155.
+00:29:07.914 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought ams_ai2 x1 (7f06b2a0) from the trader "Medicals (Keiko [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 190.
+00:29:08.507 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought ams_ai2 x1 (7f069b80) from the trader "Medicals (Keiko [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 190.
+00:29:09.140 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought ams_ai2 x1 (7f06c9c0) from the trader "Medicals (Keiko [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 190.
+00:29:11.070 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought ams_splint x1 (35841c10) from the trader "Medicals (Keiko [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 190.
+00:29:34.523 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought bandagedressing x1 (544929f0) from the trader "Medicals (Keiko [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 855.
+00:29:34.734 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought bandagedressing x1 (3fbb99e0) from the trader "Medicals (Keiko [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 855.
+00:29:49.164 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought honey x1 (3f45a270) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 1075.
+00:29:49.710 [Market] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has bought honey x1 (3f45ae80) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 1075.
+00:30:14.843 [ATM] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has withdrawn 9000 from his ATM account.
+00:30:19.906 [ATM] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has deposited 100000 on his ATM account.
+00:30:34.890 [ATM] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has deposited 100000 on the party "ATG" (partyid=0 | ownerid=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) ATM account.
+00:30:40.546 [ATM] Player "Phill_Swift" (id=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY=) has deposited 100000 on his ATM account.
+00:33:30.843 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+00:41:56.359 [Killfeed] AI Maria (Raiders) got killed by [ATF] Phill_Swift with Orsis T-5000 from a distance of 363 m.
+00:41:58.945 [AI Object Patrol 00068] Raiders bots were wiped out (spawn position <12618.236328, 183.760223, 12805.846680>, 1/1 deceased)
+00:41:58.945 [AI Object Patrol 00068] Global patrol count: 8
+00:46:51.250 [Killfeed] AI Francis (Raiders) got killed by [ATF] Boogahadeen with Orsis T-5000 from a distance of 232 m.
+00:47:13.398 [AI Object Patrol 00064] Despawning 2 Raiders bots (spawn position <12286.869141, 133.602905, 11460.281250>, 0/2 deceased)
+00:47:13.406 [AI Object Patrol 00064] Global patrol count: 7
+00:48:11.515 [Killfeed] AI Naomi (Raiders) got killed by [ATF] Phill_Swift with Orsis T-5000 from a distance of 2 m.
+00:48:27.843 [Killfeed] AI Kaito (Raiders) got killed by [ATF] Phill_Swift with AR-15 from a distance of 3 m.
+00:48:28.625 [AI Object Patrol 00020] Raiders bots were wiped out (spawn position <11916.489258, 140.000000, 12607.034180>, 3/3 deceased)
+00:48:28.625 [AI Object Patrol 00020] Global patrol count: 6
+00:51:23.570 [Killfeed] AI Denis (Raiders) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 235 m.
+00:51:23.984 [AI Object Patrol 00023] Raiders bots were wiped out (spawn position <12079.272461, 140.000000, 12514.293945>, 3/3 deceased)
+00:51:23.984 [AI Object Patrol 00023] Global patrol count: 5
+00:51:29.570 [Killfeed] Survivor got killed by [ATF] Phill_Swift with MAR-10 from a distance of 9 m.
+00:51:55.312 [Killfeed] AI Niki (Raiders) got killed by [ATF] Phill_Swift with MAR-10 from a distance of 110 m.
+00:51:59.546 [AI Object Patrol 00021] Raiders bots were wiped out (spawn position <11791.145508, 140.047089, 12711.254883>, 2/2 deceased)
+00:51:59.546 [AI Object Patrol 00021] Global patrol count: 4
+00:52:12.375 [Killfeed] Survivor got killed by [ATF] Boogahadeen with Orsis T-5000 from a distance of 323 m.
+00:54:29.687 [GraveStone] Spawned GraveStone for Survivor at position 0x0000000084ec0834 {<12567.5,172.88,12764.7>}
+00:55:12.484 [GraveStone] Spawned GraveStone for Survivor at position 0x0000000084ec0834 {<12599.3,149.994,12445>}
+00:58:22.000 [Killfeed] Survivor got killed by [ATF] Phill_Swift with MAR-10 from a distance of 963 m.
+01:01:21.992 [GraveStone] Spawned GraveStone for Survivor at position 0x0000000084ec0834 {<11609,154.832,12855.4>}
+01:11:43.453 [Expansion Quests] Added new objective data for type=TARGET | Key=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= | ID=3
+01:11:43.460 [Expansion Quests] Updated and saved persistent player quest data for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= | Quest ID=8
+01:11:43.468 [Expansion Quests] Added new objective data for type=TARGET | Key=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | ID=3
+01:11:43.468 [Expansion Quests] Updated and saved persistent player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | Quest ID=8
+01:11:43.468 [Expansion Quests] Added new objective data for type=TARGET | Key=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= | ID=2
+01:11:43.468 [Expansion Quests] Updated and saved persistent player quest data for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= | Quest ID=9
+01:11:43.468 [Expansion Quests] Added new objective data for type=TARGET | Key=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | ID=2
+01:11:43.476 [Expansion Quests] Updated and saved persistent player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | Quest ID=9
+01:11:43.476 [Expansion Quests] Added new objective data for type=ACTION | Key=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= | ID=1
+01:11:43.476 [Expansion Quests] Updated and saved persistent player quest data for player with UID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= | Quest ID=11
+01:11:43.476 [Expansion Quests] Added new objective data for type=ACTION | Key=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | ID=1
+01:11:43.484 [Expansion Quests] Updated and saved persistent player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | Quest ID=11

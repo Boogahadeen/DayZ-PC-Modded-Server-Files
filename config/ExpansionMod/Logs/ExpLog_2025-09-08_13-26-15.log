@@ -1,0 +1,81 @@
+13:32:26.186 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) joined the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+13:32:26.188 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.195 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.198 [Expansion Quests] Loaded existing group quest data for group with ID=0
+13:32:26.198 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.199 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.200 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.200 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.201 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.201 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.202 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.203 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.203 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.203 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.204 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.204 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.204 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.205 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.205 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.205 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.206 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.206 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.206 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.207 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.207 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.207 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.207 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.208 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.208 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.208 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.209 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.211 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.212 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+13:32:26.215 [AI Object Patrol 00011] Spawning 1 Raiders bots at <6842.735352, 7.316353, 3068.960938>
+13:32:26.265 [AI Object Patrol 00011] Global patrol count: 1
+13:32:26.266 [AI Object Patrol 00011] ContaminatedArea category patrol count: 1
+13:32:26.267 [AI Object Patrol 00009] Spawning 3 Raiders bots at <6647.921875, 11.530713, 3029.105469>
+13:32:26.298 [AI Object Patrol 00009] Global patrol count: 2
+13:32:26.299 [AI Object Patrol 00009] ContaminatedArea category patrol count: 2
+13:32:27.165 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+13:33:43.120 [Territory] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) created territory "booga" at <6605.649902, 5.999932, 2572.635986>
+13:34:12.563 [Killfeed] [ATF] Boogahadeen commited suicide with AKM.
+13:34:28.180 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) joined the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+13:34:29.142 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+13:34:32.369 [SpawnSelection] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) spawned at <6606.649902, 5.999932, 2573.635986>
+13:35:42.539 [MissionAirdrop] An airdrop is heading towards "Sosnovka" (pos=<2700.000000, 0.000000, 6193.000000> type=Random_Sosnovka) with a ExpansionAirdropContainer_Military
+13:35:43.505 [Killfeed] AI Oliver (Raiders) bled out.
+13:35:48.136 [AI Object Patrol 00011] Raiders bots were wiped out (spawn position <6842.735352, 7.316353, 3068.960938>, 1/1 deceased)
+13:35:48.137 [AI Object Patrol 00011] Global patrol count: 1
+13:35:48.140 [AI Object Patrol 00011] ContaminatedArea category patrol count: 1
+13:35:48.493 [AI Object Patrol 00010] Spawning 2 Raiders bots at <6576.603516, 14.148822, 2995.847656>
+13:35:48.564 [AI Object Patrol 00010] Global patrol count: 2
+13:35:48.565 [AI Object Patrol 00010] ContaminatedArea category patrol count: 2
+13:37:03.055 [Killfeed] AI Keiko (Raiders) got killed by [ATF] Boogahadeen with AKM from a distance of 2 m.
+13:37:12.585 [GraveStone] Spawned GraveStone for Survivor at position 0x000000000107ba34 {<6604.01,6.6,2574.03>}
+13:37:24.965 [Killfeed] AI Baty (Raiders) got killed by [ATF] Boogahadeen with AKM from a distance of 14 m.
+13:39:07.096 [Killfeed] AI Frida (West) got killed by [ATF] Boogahadeen with AKM from a distance of 15 m.
+13:39:07.857 [Killfeed] AI Irena (West) got killed by [ATF] Boogahadeen with AKM from a distance of 15 m.
+13:39:18.163 [Killfeed] AI Jose (Raiders) got beaten to a pulp by AI Naomi (Raiders) with bare hands.
+13:39:26.926 [Killfeed] AI Francis (West) got killed by [ATF] Boogahadeen with AKM from a distance of 8 m.
+13:41:22.656 [Killfeed] AI Naomi (Raiders) got killed by [ATF] Boogahadeen with AKM from a distance of 11 m.
+13:41:23.163 [AI Object Patrol 00009] Raiders bots were wiped out (spawn position <6647.921875, 11.530713, 3029.105469>, 3/3 deceased)
+13:41:23.164 [AI Object Patrol 00009] Global patrol count: 1
+13:41:23.164 [AI Object Patrol 00009] ContaminatedArea category patrol count: 1
+13:41:41.762 [Territory] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) deleted territory "booga" at <6605.649902, 5.999932, 2572.635986>
+14:27:55.769 [Killfeed] AI Maria (Raiders) got killed by [ATF] Boogahadeen with AKM from a distance of 2 m.
+14:27:58.566 [AI Object Patrol 00010] Raiders bots were wiped out (spawn position <6576.603516, 14.148822, 2995.847656>, 2/2 deceased)
+14:27:58.566 [AI Object Patrol 00010] Global patrol count: 0
+14:27:58.567 [AI Object Patrol 00010] ContaminatedArea category patrol count: 0
+14:28:57.808 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Merlin (id=EA7C2DB9964204533AA679B1F58910E6 pos=<6610.94, 5.95, 2560.58>) as passenger
+14:29:06.194 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Merlin (id=EA7C2DB9964204533AA679B1F58910E6 pos=<6610.94, 5.95, 2560.58>)
+14:29:08.910 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Merlin (id=EA7C2DB9964204533AA679B1F58910E6 pos=<6610.94, 5.95, 2560.57>) as pilot
+14:29:11.446 [VehicleEngine] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) started vehicle Merlin (id=EA7C2DB9964204533AA679B1F58910E6 pos=<6610.94, 5.95, 2560.56>)
+14:30:35.826 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Merlin (id=EA7C2DB9964204533AA679B1F58910E6 pos=<6601.08, 11.37, 2565.48>)
+14:30:35.847 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Merlin (id=EA7C2DB9964204533AA679B1F58910E6 pos=<6601.07, 11.37, 2565.48>)
+14:31:01.185 [VehicleDestroyed] ExpansionMerlin_President (id=EA7C2DB9964204533AA679B1F58910E6 pos=<6600.28, 9.22, 2565.56>)
+14:33:56.812 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+14:33:56.819 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+14:33:56.820 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+14:33:56.820 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+14:34:02.206 [VehicleDeleted] ExpansionMerlin_President (id=EA7C2DB9964204533AA679B1F58910E6 pos=<6600.3, 9.2, 2565.55>)

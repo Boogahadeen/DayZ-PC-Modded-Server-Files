@@ -1,0 +1,214 @@
+{
+    "dna_Description": "Config for spawning and respawning smol crates. In order to use this to spawn smol crates, set dna_SpawnSmolCrates to true, and add your",
+    "dna_DescriptionCont": "locations, and orientations along with the desired tier. To use timer settings, the timer must be activated in ResetTimer_Config.json.",
+    "dna_CrateSpawns": [
+        {
+            "dna_Tier": "Yellow",
+            "dna_Location": "5638.189941 197.584000 863.508972",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Yellow",
+            "dna_Location": "5571.370117 199.076004 2092.219971",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Yellow",
+            "dna_Location": "5973.089844 220.457001 5121.240234",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Yellow",
+            "dna_Location": "5054.990234 216.460007 6416.330078",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Yellow",
+            "dna_Location": "2690.919922 244.257004 8750.940430",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Yellow",
+            "dna_Location": "11599.200195 297.053009 6534.279785",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Yellow",
+            "dna_Location": "7302.240234 292.734985 13712.700195",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Yellow",
+            "dna_Location": "13312.000000 382.990997 12462.900391",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Green",
+            "dna_Location": "6422.990234 290.957001 13884.500000",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Green",
+            "dna_Location": "1214.839966 241.671997 10643.299805",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Green",
+            "dna_Location": "3586.889893 226.610001 371.755005",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Green",
+            "dna_Location": "6411.109863 225.320999 5887.629883",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Green",
+            "dna_Location": "4927.060059 197.386002 517.439026",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Green",
+            "dna_Location": "6391.839844 229.365997 2081.800049",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Green",
+            "dna_Location": "12889.400391 319.438995 522.257996",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Green",
+            "dna_Location": "12126.799805 268.790985 6546.470215",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Green",
+            "dna_Location": "4220.609863 260.471008 13649.900391",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Blue",
+            "dna_Location": "6411.220215 205.434006 1556.489990",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Blue",
+            "dna_Location": "6101.839844 215.406006 1768.050049",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Blue",
+            "dna_Location": "5622.009766 197.410995 2472.350098",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Blue",
+            "dna_Location": "11540.400391 265.635010 4414.750000",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Blue",
+            "dna_Location": "4954.060059 213.707993 6572.129883",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Blue",
+            "dna_Location": "2079.649902 225.850006 6421.740234",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Blue",
+            "dna_Location": "14588.299805 539.960999 9668.559570",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Blue",
+            "dna_Location": "3548.860107 309.532013 9932.919922",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Blue",
+            "dna_Location": "7108.359863 577.794983 12097.000000",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Blue",
+            "dna_Location": "8269.620117 438.265991 13790.299805",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Blue",
+            "dna_Location": "12777.400391 327.156006 10968.200195",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Purple",
+            "dna_Location": "894.833008 234.460999 2943.899902",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Purple",
+            "dna_Location": "122.306000 220.061005 7977.990234",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Purple",
+            "dna_Location": "2731.500000 245.970001 8760.019531",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Purple",
+            "dna_Location": "5041.399902 229.869995 10063.000000",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Purple",
+            "dna_Location": "861.078003 272.046997 13374.400391",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Purple",
+            "dna_Location": "10098.799805 375.132996 13163.799805",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Purple",
+            "dna_Location": "14474.799805 439.838013 12546.000000",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Red",
+            "dna_Location": "8006.930176 551.929993 9926.269531",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Red",
+            "dna_Location": "1839.209961 273.634003 11464.500000",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Red",
+            "dna_Location": "2168.530029 273.640991 12065.400391",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Red",
+            "dna_Location": "11972.000000 621.486023 14816.000000",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Red",
+            "dna_Location": "12175.799805 621.481995 14828.200195",
+            "dna_Rotation": "0.0 0.0 0.0"
+        }
+
+    ],
+    "dna_SpawnSmolCrates": 1,
+    "dna_ResetSmolCrates": 0,
+    "dna_TimeUntilYellowSmolCrateResets": 30,
+    "dna_TimeUntilGreenSmolCrateResets": 30,
+    "dna_TimeUntilBlueSmolCrateResets": 30,
+    "dna_TimeUntilPurpleSmolCrateResets": 30,
+    "dna_TimeUntilRedSmolCrateResets": 30
+}

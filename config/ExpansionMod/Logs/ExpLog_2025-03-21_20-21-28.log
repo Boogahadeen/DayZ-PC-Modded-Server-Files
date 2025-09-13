@@ -1,0 +1,157 @@
+20:29:12.812 [MissionAirdrop] An airdrop is heading towards "Stary Sobor" (pos=<5823.000000, 0.000000, 7764.000000> type=Random_Stary Sobor) with a ExpansionAirdropContainer_Military
+20:30:25.210 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.234 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:30:25.242 [Expansion Quests] Sending player quest data for 4 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+20:53:04.031 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_headphones_black x1 (3e5c52a0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 500.
+20:53:09.015 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_combatpants_black x2 (3e5cd750) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 10000.
+20:53:12.296 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_falcon_b1_belt_black x1 (3e5ca710) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 6000.
+20:53:37.484 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_operatorshirt_black x1 (3ed619d0) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 5000.
+20:53:40.718 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_tactical_helmet_black x1 (3ed69e80) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 5000.
+20:54:12.687 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_striker_helmet_black x1 (53566460) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 7500.
+20:54:14.820 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_gp_nvg_black x1 (b66b9100) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 25000.
+20:54:21.554 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_tac_goggles_red_black x1 (3bf28d20) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 750.
+20:54:31.734 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_mk_v_armor_black x1 (3bf2b150) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 75000.
+20:55:50.898 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_tt_vest_black x1 (409b1360) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 15000.
+20:56:03.000 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_multiple_magpouch_black x1 (48d27150) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 500.
+20:56:10.250 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_holster_pouch_black x1 (4ad19890) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 500.
+20:56:37.460 [Market] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) has bought mmg_balaclava_black x1 (47f70490) from the trader "BlackMarket (Francis [BlackMarket])" in market zone "BlackMarket Trading Zone" (pos=<511.481995, 431.127991, 10698.700195>) for a price of 3000.
+21:01:33.882 [Airdrop] A player called airdrop is heading toward <542.158264, 0.000000, 10552.141602> with a ExpansionAirdropContainer_Military
+21:22:07.242 [VehicleEnter] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) entered vehicle Gyrocopter (id=1001D4C4614D5BCC0BBB8A99AE985A91 pos=<555.94, 412.58, 10555>) as pilot
+21:22:11.804 [VehicleEngine] Player "Boogahadeen" [uid=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=] started vehicle Gyrocopter (id=1001D4C4614D5BCC0BBB8A99AE985A91 pos=<555.961914, 412.575836, 10555.042969>)
+21:22:54.523 [AI Object Patrol 00059] Spawning 1 Raiders bots at <1599.175659, 240.575500, 10655.473633>
+21:22:54.804 [AI Object Patrol 00059] Global patrol count: 1
+21:23:26.015 [AI Object Patrol 00067] Spawning 3 Raiders bots at <1369.139771, 328.606384, 9856.143555>
+21:23:26.140 [AI Object Patrol 00067] Global patrol count: 2
+21:23:38.843 [AI Object Patrol 00058] Spawning 1 Raiders bots at <780.778809, 226.814957, 8681.538086>
+21:23:38.921 [AI Object Patrol 00058] Global patrol count: 3
+21:24:35.210 [AI Object Patrol 00068] Spawning 3 Raiders bots at <527.518250, 268.752319, 9313.079102>
+21:24:35.304 [AI Object Patrol 00068] Global patrol count: 4
+21:24:40.125 [AI Object Patrol 00057] Spawning 1 Raiders bots at <1491.211792, 316.664032, 8550.282227>
+21:24:40.218 [AI Object Patrol 00057] Global patrol count: 5
+21:25:27.515 [AI Object Patrol 00070] Spawning 1 Raiders bots at <1908.622681, 258.776550, 9416.979492>
+21:25:27.562 [AI Object Patrol 00070] Global patrol count: 6
+21:25:54.578 [AI Object Patrol 00053] Spawning 2 Raiders bots at <2637.928223, 288.403992, 11340.385742>
+21:25:54.671 [AI Object Patrol 00053] Global patrol count: 7
+21:26:11.203 [AI Object Patrol 00054] Spawning 3 Raiders bots at <3215.024902, 280.293152, 11589.972656>
+21:26:11.296 [AI Object Patrol 00054] Global patrol count: 8
+21:28:28.914 [AI Object Patrol 00026] Spawning 3 Raiders bots at <3794.364990, 326.307343, 10930.338867>
+21:28:29.031 [AI Object Patrol 00026] Global patrol count: 9
+21:28:29.453 [AI Object Patrol 00030] Spawning 2 Raiders bots at <3803.968750, 326.739655, 10937.583984>
+21:28:29.492 [AI Object Patrol 00030] Global patrol count: 10
+21:28:29.828 [AI Object Patrol 00024] Spawning 2 Raiders bots at <3818.680176, 336.835815, 10952.389648>
+21:28:29.882 [AI Object Patrol 00024] Global patrol count: 11
+21:28:30.164 [AI Object Patrol 00028] Spawning 1 Raiders bots at <3813.151855, 329.920837, 10932.484375>
+21:28:30.226 [AI Object Patrol 00028] Global patrol count: 12
+21:28:30.375 [AI Object Patrol 00025] Spawning 2 Raiders bots at <3825.697266, 326.465759, 10956.073242>
+21:28:30.406 [AI Object Patrol 00025] Global patrol count: 13
+21:28:31.320 [AI Object Patrol 00029] Spawning 1 Raiders bots at <3838.828369, 328.115570, 10934.471680>
+21:28:31.375 [AI Object Patrol 00029] Global patrol count: 14
+21:28:32.664 [Killfeed] AI Niki (Raiders) fell to their death.
+21:28:32.679 [Killfeed] AI Denis (Raiders) fell to their death.
+21:28:33.656 [AI Object Patrol 00072] Spawning 2 Raiders bots at <3939.975830, 334.014587, 11096.646484>
+21:28:33.718 [AI Object Patrol 00072] Global patrol count: 15
+21:28:35.617 [Killfeed] AI Baty (Raiders) got killed by AI Taiki (Raiders) with LE-MAS from a distance of 7 m.
+21:28:36.523 [AI Object Patrol 00024] Raiders bots were wiped out (spawn position <3818.680176, 336.835815, 10952.389648>, 2/2 deceased)
+21:28:36.523 [AI Object Patrol 00024] Global patrol count: 14
+21:28:44.898 [Killfeed] AI Taiki (Raiders) got killed by AI Lewis (Raiders) with LE-MAS from a distance of 24 m.
+21:28:46.703 [AI Object Patrol 00028] Raiders bots were wiped out (spawn position <3813.151855, 329.920837, 10932.484375>, 1/1 deceased)
+21:28:46.703 [AI Object Patrol 00028] Global patrol count: 13
+21:29:10.625 [Killfeed] AI Linda (Raiders) got killed by AI Peter (Raiders) with KA-101 from a distance of 28 m.
+21:29:12.328 [AI Object Patrol 00029] Raiders bots were wiped out (spawn position <3838.828369, 328.115570, 10934.471680>, 1/1 deceased)
+21:29:12.328 [AI Object Patrol 00029] Global patrol count: 12
+21:29:39.617 [Killfeed] AI Lewis (Raiders) got killed by AI Eva (Raiders) with AUR AX from a distance of 1 m.
+21:30:35.195 [AI Patrol 00044] Spawning 3 Mercenaries bots at <2349.928955, 369.257050, 14131.689453>
+21:30:35.273 [AI Patrol 00044] Global patrol count: 13
+21:30:45.578 [Killfeed] AI Indar (Raiders) bled out.
+21:30:47.023 [AI Object Patrol 00030] Raiders bots were wiped out (spawn position <3803.968750, 326.739655, 10937.583984>, 2/2 deceased)
+21:30:47.023 [AI Object Patrol 00030] Global patrol count: 12
+21:30:52.601 [Killfeed] AI Maria (Raiders) got killed by AI Gabi (Raiders) with M4-A1 from a distance of 34 m.
+21:31:13.554 [AI Object Patrol 00075] Spawning 3 Raiders bots at <2591.349609, 296.928894, 13905.790039>
+21:31:13.656 [AI Object Patrol 00075] Global patrol count: 13
+21:31:31.890 [AI Patrol 00044] Despawning 3 Mercenaries bots (spawn position <2349.928955, 369.257050, 14131.689453>, 0/3 deceased)
+21:31:31.890 [AI Patrol 00044] Global patrol count: 12
+21:31:43.968 [Killfeed] AI Boris (Raiders) got killed by AI Gabi (Raiders) with M4-A1 from a distance of 47 m.
+21:32:02.867 [AI Object Patrol 00037] Spawning 2 Raiders bots at <5528.482910, 250.035645, 13836.805664>
+21:32:02.906 [AI Object Patrol 00037] Global patrol count: 13
+21:32:08.789 [Killfeed] AI Eva (Raiders) got killed by AI Peter (Raiders) with KA-101 from a distance of 10 m.
+21:32:11.406 [AI Object Patrol 00025] Raiders bots were wiped out (spawn position <3825.697266, 326.465759, 10956.073242>, 2/2 deceased)
+21:32:11.406 [AI Object Patrol 00025] Global patrol count: 12
+21:32:13.726 [AI Object Patrol 00036] Spawning 3 Raiders bots at <5631.801758, 315.944885, 14310.343750>
+21:32:13.789 [AI Object Patrol 00036] Global patrol count: 13
+21:32:26.679 [AI Object Patrol 00076] Spawning 3 Raiders bots at <4849.800781, 191.096725, 13579.259766>
+21:32:26.695 [AI Object Patrol 00076] Global patrol count: 14
+21:32:47.500 [AI Patrol 00043] Spawning 3 Mercenaries bots at <6643.204590, 139.031616, 12716.296875>
+21:32:47.562 [AI Patrol 00043] Global patrol count: 15
+21:33:27.828 [Killfeed] AI Peter (Raiders) got killed by AI Gabi (Raiders) with M4-A1 from a distance of 42 m.
+21:33:30.757 [AI Object Patrol 00077] Spawning 1 Raiders bots at <6807.197754, 183.244446, 12977.901367>
+21:33:30.851 [AI Object Patrol 00077] Global patrol count: 16
+21:33:32.351 [AI Object Patrol 00072] Raiders bots were wiped out (spawn position <3939.975830, 334.014587, 11096.646484>, 2/2 deceased)
+21:33:32.351 [AI Object Patrol 00072] Global patrol count: 15
+21:33:37.250 [AI Object Patrol 00011] Spawning 2 Raiders bots at <7954.344238, 174.762833, 12066.439453>
+21:33:37.304 [AI Object Patrol 00011] Global patrol count: 16
+21:33:55.398 [AI Object Patrol 00066] Spawning 2 Raiders bots at <8692.920898, 160.098709, 12296.289063>
+21:33:55.421 [AI Object Patrol 00066] Global patrol count: 17
+21:33:56.468 [AI Patrol 00043] Despawning 3 Mercenaries bots (spawn position <6643.204590, 139.031616, 12716.296875>, 0/3 deceased)
+21:33:56.468 [AI Patrol 00043] Global patrol count: 16
+21:34:28.273 [VehicleLeave] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left vehicle Gyrocopter (id=1001D4C4614D5BCC0BBB8A99AE985A91 pos=<7798.6, 179.18, 12104.5>)
+21:34:39.515 [Killfeed] AI Eva (Raiders) got killed by Boogahadeen with AKM from a distance of 81 m.
+21:34:44.640 [AI Object Patrol 00059] Despawning 1 Raiders bots (spawn position <1599.175659, 240.575500, 10655.473633>, 0/1 deceased)
+21:34:44.640 [AI Object Patrol 00059] Global patrol count: 15
+21:34:56.601 [AI Object Patrol 00068] Despawning 3 Raiders bots (spawn position <527.518250, 268.752319, 9313.079102>, 0/3 deceased)
+21:34:56.601 [AI Object Patrol 00068] Global patrol count: 14
+21:34:56.835 [AI Object Patrol 00058] Despawning 1 Raiders bots (spawn position <780.778809, 226.814957, 8681.538086>, 0/1 deceased)
+21:34:56.835 [AI Object Patrol 00058] Global patrol count: 13
+21:35:10.601 [AI Object Patrol 00057] Despawning 1 Raiders bots (spawn position <1491.211792, 316.664032, 8550.282227>, 0/1 deceased)
+21:35:10.601 [AI Object Patrol 00057] Global patrol count: 12
+21:35:36.070 [AI Object Patrol 00067] Despawning 3 Raiders bots (spawn position <1369.139771, 328.606384, 9856.143555>, 0/3 deceased)
+21:35:36.070 [AI Object Patrol 00067] Global patrol count: 11
+21:35:40.523 [Killfeed] AI Linda (Raiders) got killed by Boogahadeen with AKM from a distance of 16 m.
+21:35:45.328 [AI Object Patrol 00011] Raiders bots were wiped out (spawn position <7954.344238, 174.762833, 12066.439453>, 2/2 deceased)
+21:35:45.328 [AI Object Patrol 00011] Global patrol count: 10
+21:35:56.757 [AI Object Patrol 00070] Despawning 1 Raiders bots (spawn position <1908.622681, 258.776550, 9416.979492>, 0/1 deceased)
+21:35:56.757 [AI Object Patrol 00070] Global patrol count: 9
+21:36:29.953 [Killfeed] AI Peter (Raiders) got killed by AI Seth (Raiders) with Bizon from a distance of 6 m.
+21:37:01.835 [VehicleDeleted] ExpansionGyrocopter (id=1001D4C4614D5BCC0BBB8A99AE985A91 pos=<7798.57, 179.18, 12104.6>)
+21:38:51.531 [Killfeed] AI Naomi (Raiders) got killed by AI Seth (Raiders) with Bizon from a distance of 40 m.
+21:38:55.171 [AI Object Patrol 00037] Raiders bots were wiped out (spawn position <5528.482910, 250.035645, 13836.805664>, 2/2 deceased)
+21:38:55.171 [AI Object Patrol 00037] Global patrol count: 8
+21:39:14.695 [AI Object Patrol 00026] Despawning 2 Raiders bots (spawn position <3794.364990, 326.307343, 10930.338867>, 1/3 deceased)
+21:39:14.695 [AI Object Patrol 00026] Global patrol count: 7
+21:39:38.898 [AI Object Patrol 00054] Despawning 3 Raiders bots (spawn position <3215.024902, 280.293152, 11589.972656>, 0/3 deceased)
+21:39:38.898 [AI Object Patrol 00054] Global patrol count: 6
+21:39:47.578 [AI Object Patrol 00053] Despawning 2 Raiders bots (spawn position <2637.928223, 288.403992, 11340.385742>, 0/2 deceased)
+21:39:47.578 [AI Object Patrol 00053] Global patrol count: 5
+21:41:00.906 [Expansion Quests] Added new objective data for type=TARGET | Key=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | ID=3
+21:41:00.914 [Expansion Quests] Updated and saved persistent player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | Quest ID=8
+21:41:00.921 [Expansion Quests] Added new objective data for type=TARGET | Key=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | ID=2
+21:41:00.921 [Expansion Quests] Updated and saved persistent player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | Quest ID=9
+21:41:00.921 [Expansion Quests] Added new objective data for type=ACTION | Key=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | ID=1
+21:41:00.921 [Expansion Quests] Updated and saved persistent player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= | Quest ID=11
