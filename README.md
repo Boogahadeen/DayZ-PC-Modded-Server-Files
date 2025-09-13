@@ -7,7 +7,7 @@ Doors only raiding on weekends.
 
 Fully configured Black Market with reworked prices.
 
-DNA Keycards integrated with MMG Clothing and Snafu Weapons.
+DNA Keycards & Airdrops integrated with MMG Clothing, CannabisPLUS, Cl0uds Military Gear, & Snafu Weapons.
 
 Smol Containers with random tiered loot, including Cannabis Packs.
 
