@@ -3,7 +3,7 @@ DayZ Expansion Base Builder Plus & Loot Overhaul
 
 Enhances DayZ Expansion with full compatibility for Base Builder Plus and Breeching Charge, creating a dynamic survival experience. Features include:
 
-Doors-only raiding on weekends.
+Doors only raiding on weekends.
 
 Fully configured Black Market with reworked prices.
 
