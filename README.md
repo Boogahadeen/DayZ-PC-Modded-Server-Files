@@ -12,6 +12,8 @@ Smol Containers with random tiered loot, including Cannabis Packs.
 
 Zombie & AI loot: chance for Pokemon Cards, MegaFood Mod items, and money.
 
+All Carparts removed from the map, and vanilla items except for ammo and gun attatchments. 
+
 Boss encounters: AJS creatures spawn at DNA Strongrooms with valuable loot.
 
 List of Mods used in these files:
