@@ -4,7 +4,7 @@ DayZ Expansion Mod with full compatibility for Base Builder Plus and Breeching C
 
 Doors only raiding on weekends.
 
-Fully configured Black Market with reworked prices, cars and some of vanilla prices(will update is I along).
+Fully configured Black Market with reworked prices, cars and some of vanilla prices.
 
 DNA Keycards & Airdrops integrated with MMG Clothing, CannabisPLUS, Cl0uds Military Gear, & Snafu Weapons.
 
