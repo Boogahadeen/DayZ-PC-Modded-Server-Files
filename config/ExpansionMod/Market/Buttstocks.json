@@ -9,7 +9,7 @@
         {
             "ClassName": "mp5k_stockbttstck",
             "MaxPriceThreshold": 2150,
-            "MinPriceThreshold": 1290,
+            "MinPriceThreshold": 2150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -20,7 +20,7 @@
         {
             "ClassName": "fal_oebttstck",
             "MaxPriceThreshold": 2840,
-            "MinPriceThreshold": 1705,
+            "MinPriceThreshold": 2840,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -31,7 +31,7 @@
         {
             "ClassName": "fal_foldingbttstck",
             "MaxPriceThreshold": 2840,
-            "MinPriceThreshold": 1705,
+            "MinPriceThreshold": 2840,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -42,7 +42,7 @@
         {
             "ClassName": "saiga_bttstck",
             "MaxPriceThreshold": 2130,
-            "MinPriceThreshold": 1280,
+            "MinPriceThreshold": 2130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,7 +52,7 @@
         },
         {
             "ClassName": "aks74u_bttstck",
-            "MaxPriceThreshold": 9915,
+            "MaxPriceThreshold": 5950,
             "MinPriceThreshold": 5950,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -64,7 +64,7 @@
         {
             "ClassName": "ak74_woodbttstck",
             "MaxPriceThreshold": 2130,
-            "MinPriceThreshold": 1280,
+            "MinPriceThreshold": 2130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -75,7 +75,7 @@
         {
             "ClassName": "ak_plasticbttstck",
             "MaxPriceThreshold": 2130,
-            "MinPriceThreshold": 1280,
+            "MinPriceThreshold": 2130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -97,7 +97,7 @@
         {
             "ClassName": "ak_foldingbttstck",
             "MaxPriceThreshold": 2130,
-            "MinPriceThreshold": 1280,
+            "MinPriceThreshold": 2130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -108,7 +108,7 @@
         {
             "ClassName": "m4_oebttstck",
             "MaxPriceThreshold": 2130,
-            "MinPriceThreshold": 1280,
+            "MinPriceThreshold": 2130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -119,7 +119,7 @@
         {
             "ClassName": "m4_mpbttstck",
             "MaxPriceThreshold": 2130,
-            "MinPriceThreshold": 1280,
+            "MinPriceThreshold": 2130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -130,7 +130,7 @@
         {
             "ClassName": "m4_cqbbttstck",
             "MaxPriceThreshold": 2130,
-            "MinPriceThreshold": 1280,
+            "MinPriceThreshold": 2130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -141,7 +141,7 @@
         {
             "ClassName": "pp19_bttstck",
             "MaxPriceThreshold": 2150,
-            "MinPriceThreshold": 1290,
+            "MinPriceThreshold": 2150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -151,7 +151,7 @@
         },
         {
             "ClassName": "ghillieatt_tan",
-            "MaxPriceThreshold": 4390,
+            "MaxPriceThreshold": 2630,
             "MinPriceThreshold": 2630,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

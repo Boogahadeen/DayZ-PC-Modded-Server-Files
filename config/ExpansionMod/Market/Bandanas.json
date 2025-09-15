@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "bandana_redpattern",
-            "MaxPriceThreshold": 355,
-            "MinPriceThreshold": 215,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -25,8 +25,8 @@
         },
         {
             "ClassName": "bandana_greenpattern",
-            "MaxPriceThreshold": 1895,
-            "MinPriceThreshold": 1135,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -36,8 +36,8 @@
         },
         {
             "ClassName": "bandana_camopattern",
-            "MaxPriceThreshold": 1895,
-            "MinPriceThreshold": 1135,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -47,8 +47,8 @@
         },
         {
             "ClassName": "bandana_blackpattern",
-            "MaxPriceThreshold": 1895,
-            "MinPriceThreshold": 1135,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

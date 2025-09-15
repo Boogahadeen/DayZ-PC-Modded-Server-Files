@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "athleticshoes_blue",
-            "MaxPriceThreshold": 405,
-            "MinPriceThreshold": 245,
+            "MaxPriceThreshold": 340,
+            "MinPriceThreshold": 340,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -25,7 +25,7 @@
         {
             "ClassName": "joggingshoes_black",
             "MaxPriceThreshold": 340,
-            "MinPriceThreshold": 205,
+            "MinPriceThreshold": 340,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,7 +41,7 @@
         {
             "ClassName": "sneakers_green",
             "MaxPriceThreshold": 375,
-            "MinPriceThreshold": 225,
+            "MinPriceThreshold": 375,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -57,7 +57,7 @@
         {
             "ClassName": "dressshoes_white",
             "MaxPriceThreshold": 440,
-            "MinPriceThreshold": 265,
+            "MinPriceThreshold": 440,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -73,7 +73,7 @@
         {
             "ClassName": "hikingbootslow_blue",
             "MaxPriceThreshold": 340,
-            "MinPriceThreshold": 205,
+            "MinPriceThreshold": 340,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -88,7 +88,7 @@
         {
             "ClassName": "hikingbootslow_grey",
             "MaxPriceThreshold": 340,
-            "MinPriceThreshold": 205,
+            "MinPriceThreshold": 340,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -99,7 +99,7 @@
         {
             "ClassName": "hikingbootslow_beige",
             "MaxPriceThreshold": 340,
-            "MinPriceThreshold": 205,
+            "MinPriceThreshold": 340,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -110,7 +110,7 @@
         {
             "ClassName": "hikingbootslow_black",
             "MaxPriceThreshold": 340,
-            "MinPriceThreshold": 205,
+            "MinPriceThreshold": 340,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -121,7 +121,7 @@
         {
             "ClassName": "workingboots_yellow",
             "MaxPriceThreshold": 425,
-            "MinPriceThreshold": 255,
+            "MinPriceThreshold": 425,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -137,7 +137,7 @@
         {
             "ClassName": "workingboots_grey",
             "MaxPriceThreshold": 425,
-            "MinPriceThreshold": 255,
+            "MinPriceThreshold": 425,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -148,7 +148,7 @@
         {
             "ClassName": "workingboots_brown",
             "MaxPriceThreshold": 425,
-            "MinPriceThreshold": 255,
+            "MinPriceThreshold": 425,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -159,7 +159,7 @@
         {
             "ClassName": "workingboots_beige",
             "MaxPriceThreshold": 425,
-            "MinPriceThreshold": 255,
+            "MinPriceThreshold": 425,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -170,7 +170,7 @@
         {
             "ClassName": "workingboots_green",
             "MaxPriceThreshold": 425,
-            "MinPriceThreshold": 255,
+            "MinPriceThreshold": 425,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -181,7 +181,7 @@
         {
             "ClassName": "hikingboots_brown",
             "MaxPriceThreshold": 340,
-            "MinPriceThreshold": 205,
+            "MinPriceThreshold": 340,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -193,8 +193,8 @@
         },
         {
             "ClassName": "hikingboots_black",
-            "MaxPriceThreshold": 340,
-            "MinPriceThreshold": 205,
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -205,7 +205,7 @@
         {
             "ClassName": "combatboots_beige",
             "MaxPriceThreshold": 1755,
-            "MinPriceThreshold": 1055,
+            "MinPriceThreshold": 1755,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -221,7 +221,7 @@
         {
             "ClassName": "jungleboots_beige",
             "MaxPriceThreshold": 1770,
-            "MinPriceThreshold": 1060,
+            "MinPriceThreshold": 1770,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -237,7 +237,7 @@
         {
             "ClassName": "wellies_black",
             "MaxPriceThreshold": 470,
-            "MinPriceThreshold": 280,
+            "MinPriceThreshold": 470,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -251,8 +251,8 @@
         },
         {
             "ClassName": "ttskoboots",
-            "MaxPriceThreshold": 1725,
-            "MinPriceThreshold": 1035,
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1700,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -262,8 +262,8 @@
         },
         {
             "ClassName": "militaryboots_redpunk",
-            "MaxPriceThreshold": 470,
-            "MinPriceThreshold": 285,
+            "MaxPriceThreshold": 1755,
+            "MinPriceThreshold": 1755,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -278,8 +278,8 @@
         },
         {
             "ClassName": "militaryboots_bluerock",
-            "MaxPriceThreshold": 470,
-            "MinPriceThreshold": 280,
+            "MaxPriceThreshold": 1755,
+            "MinPriceThreshold": 1755,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -290,7 +290,7 @@
         {
             "ClassName": "militaryboots_beige",
             "MaxPriceThreshold": 1755,
-            "MinPriceThreshold": 1055,
+            "MinPriceThreshold": 1755,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -301,7 +301,7 @@
         {
             "ClassName": "militaryboots_black",
             "MaxPriceThreshold": 1755,
-            "MinPriceThreshold": 1055,
+            "MinPriceThreshold": 1755,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -312,7 +312,7 @@
         {
             "ClassName": "militaryboots_brown",
             "MaxPriceThreshold": 1755,
-            "MinPriceThreshold": 1055,
+            "MinPriceThreshold": 1755,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -322,7 +322,7 @@
         },
         {
             "ClassName": "nbcbootsgray",
-            "MaxPriceThreshold": 13165,
+            "MaxPriceThreshold": 7900,
             "MinPriceThreshold": 7900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -337,7 +337,7 @@
         {
             "ClassName": "medievalboots",
             "MaxPriceThreshold": 590,
-            "MinPriceThreshold": 355,
+            "MinPriceThreshold": 590,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

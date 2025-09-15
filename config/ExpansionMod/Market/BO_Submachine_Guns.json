@@ -1,4 +1,4 @@
-{
+ {
     "m_Version": 12,
     "DisplayName": "BO_SUBMACHINE_GUNS",
     "Icon": "Gum",
@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "BO_KH9",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1500,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 99999,
@@ -21,8 +21,8 @@
         },
         {
             "ClassName": "BO_PDWR_556",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 800,
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 99999,
             "MinStockThreshold": 99999,

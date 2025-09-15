@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "SNAFU_M1918A2",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 24000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 100,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "Snafu_pkp_Black_GUN",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 22555,
+            "MinPriceThreshold": 22555,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 100,
@@ -43,8 +43,8 @@
         },
         {
             "ClassName": "SNAFU_U100",
-            "MaxPriceThreshold": 18000,
-            "MinPriceThreshold": 18000,
+            "MaxPriceThreshold": 23000,
+            "MinPriceThreshold": 23000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 100,
@@ -54,8 +54,8 @@
         },
         {
             "ClassName": "SNAFURPD",
-            "MaxPriceThreshold": 19000,
-            "MinPriceThreshold": 19000,
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 24000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 100,

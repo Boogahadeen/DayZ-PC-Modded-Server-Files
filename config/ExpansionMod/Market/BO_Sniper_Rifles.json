@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "BO_M200_Grey",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1600,
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -23,8 +23,8 @@
         },
         {
             "ClassName": "BO_M200_Black",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -36,8 +36,8 @@
         },
         {
             "ClassName": "BO_AX50",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 24000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -50,8 +50,8 @@
         },
         {
             "ClassName": "BO_M82A1",
-            "MaxPriceThreshold": 7000,
-            "MinPriceThreshold": 5000,
+            "MaxPriceThreshold": 22000,
+            "MinPriceThreshold": 22000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -64,8 +64,8 @@
         },
         {
             "ClassName": "BO_Kar98K",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 5000,
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 16000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -76,7 +76,7 @@
         {
             "ClassName": "BO_M300",
             "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MinPriceThreshold": 20000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -89,9 +89,9 @@
         },
         {
             "ClassName": "BO_MK12",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 8000,
-            "SellPricePercent": 35.0,
+            "MaxPriceThreshold": 21000,
+            "MinPriceThreshold": 21000,
+            "SellPricePercent": 35.2,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -104,7 +104,7 @@
         {
             "ClassName": "BO_R700",
             "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MinPriceThreshold": 20000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -118,7 +118,7 @@
         {
             "ClassName": "BO_R700Timberwolf",
             "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MinPriceThreshold": 20000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -131,8 +131,8 @@
         },
         {
             "ClassName": "BO_WA2000",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 22000,
+            "MinPriceThreshold": 22000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -145,8 +145,8 @@
         },
         {
             "ClassName": "BO_SVD",
-            "MaxPriceThreshold": 17000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 19000,
+            "MinPriceThreshold": 19000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

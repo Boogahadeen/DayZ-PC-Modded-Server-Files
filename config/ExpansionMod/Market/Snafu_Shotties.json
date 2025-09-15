@@ -8,8 +8,8 @@
   "Items": [
     {
       "ClassName": "AA12_Gun",
-      "MaxPriceThreshold": 6000,
-      "MinPriceThreshold": 5500,
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 11500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -30,8 +30,8 @@
     },
     {
       "ClassName": "SNAFU_Trenchgun",
-      "MaxPriceThreshold": 6000,
-      "MinPriceThreshold": 5500,
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 11500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -41,8 +41,8 @@
     },
     {
       "ClassName": "SN_Auto_Shotgun",
-      "MaxPriceThreshold": 6000,
-      "MinPriceThreshold": 5500,
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 11500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -52,8 +52,8 @@
     },
     {
       "ClassName": "SN_M870",
-      "MaxPriceThreshold": 6000,
-      "MinPriceThreshold": 5500,
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 11500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -63,8 +63,8 @@
     },
     {
       "ClassName": "Spas12_Gun",
-      "MaxPriceThreshold": 6000,
-      "MinPriceThreshold": 5500,
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 11500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -74,8 +74,8 @@
     },
     {
       "ClassName": "GCGN_BenelliM4",
-      "MaxPriceThreshold": 6000,
-      "MinPriceThreshold": 5500,
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 11500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,

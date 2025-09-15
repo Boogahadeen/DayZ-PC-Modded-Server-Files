@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "BO_FG42",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -23,8 +23,8 @@
         },
         {
             "ClassName": "BO_FG42M",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -36,8 +36,8 @@
         },
         {
             "ClassName": "BO_RPK16",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -50,8 +50,8 @@
         },
         {
             "ClassName": "BO_M134",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -121,8 +121,8 @@
         },
         {
             "ClassName": "BO_PKM",
-            "MaxPriceThreshold": 18000,
-            "MinPriceThreshold": 18000,
+            "MaxPriceThreshold": 24500,
+            "MinPriceThreshold": 23000,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -163,8 +163,8 @@
         },
         {
             "ClassName": "BO_U100",
-            "MaxPriceThreshold": 22000,
-            "MinPriceThreshold": 21000,
+            "MaxPriceThreshold": 25120,
+            "MinPriceThreshold": 23200,
             "SellPricePercent": 35.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

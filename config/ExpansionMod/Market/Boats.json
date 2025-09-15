@@ -9,7 +9,7 @@
         {
             "ClassName": "expansionutilityboat",
             "MaxPriceThreshold": 44000,
-            "MinPriceThreshold": 22000,
+            "MinPriceThreshold": 44000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -22,8 +22,8 @@
         },
         {
             "ClassName": "boat_01_orange",
-            "MaxPriceThreshold": 37800,
-            "MinPriceThreshold": 22680,
+            "MaxPriceThreshold": 40000,
+            "MinPriceThreshold": 40000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

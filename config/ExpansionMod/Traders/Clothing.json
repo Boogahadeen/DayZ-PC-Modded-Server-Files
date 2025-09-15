@@ -17,7 +17,13 @@
         "Shirts_And_TShirts",
         "Skirts_And_Dresses",
         "Pants_And_Shorts",
-        "Boots_And_Shoes"
+        "Boots_And_Shoes",
+        "Windstrider_Shoes",
+        "Windstrider_Shirts",
+        "Windstrider_Pants",
+        "Windstrider_Gloves",
+        "Windstrider_Headgear",
+        "Windstrider_Random"
     ],
     "Items": {}
 }

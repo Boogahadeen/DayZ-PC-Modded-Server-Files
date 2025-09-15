@@ -9,7 +9,7 @@
         {
             "ClassName": "mosin_bayonet",
             "MaxPriceThreshold": 2315,
-            "MinPriceThreshold": 1390,
+            "MinPriceThreshold": 2315,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "sks_bayonet",
-            "MaxPriceThreshold": 5985,
-            "MinPriceThreshold": 3590,
+            "MaxPriceThreshold": 3150,
+            "MinPriceThreshold": 3150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "m9a1_bayonet",
-            "MaxPriceThreshold": 5245,
-            "MinPriceThreshold": 3150,
+            "MaxPriceThreshold": 3590,
+            "MinPriceThreshold": 3590,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "ak_bayonet",
-            "MaxPriceThreshold": 5245,
-            "MinPriceThreshold": 3150,
+            "MaxPriceThreshold": 3590,
+            "MinPriceThreshold": 3590,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -53,7 +53,7 @@
         {
             "ClassName": "expansion_kar98_bayonet",
             "MaxPriceThreshold": 2315,
-            "MinPriceThreshold": 1390,
+            "MinPriceThreshold": 2315,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

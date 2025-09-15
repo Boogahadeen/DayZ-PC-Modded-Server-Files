@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "mp5_plastichndgrd",
-            "MaxPriceThreshold": 3010,
+            "MaxPriceThreshold": 1805,
             "MinPriceThreshold": 1805,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "mp5_railhndgrd",
-            "MaxPriceThreshold": 3010,
+            "MaxPriceThreshold": 1805,
             "MinPriceThreshold": 1805,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -30,7 +30,7 @@
         },
         {
             "ClassName": "ak74_hndgrd",
-            "MaxPriceThreshold": 2985,
+            "MaxPriceThreshold": 1790,
             "MinPriceThreshold": 1790,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -41,7 +41,7 @@
         },
         {
             "ClassName": "ak_woodhndgrd",
-            "MaxPriceThreshold": 2985,
+            "MaxPriceThreshold": 1790,
             "MinPriceThreshold": 1790,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -52,7 +52,7 @@
         },
         {
             "ClassName": "ak_railhndgrd",
-            "MaxPriceThreshold": 2985,
+            "MaxPriceThreshold": 1790,
             "MinPriceThreshold": 1790,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -63,7 +63,7 @@
         },
         {
             "ClassName": "ak_plastichndgrd",
-            "MaxPriceThreshold": 2985,
+            "MaxPriceThreshold": 1790,
             "MinPriceThreshold": 1790,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -74,7 +74,7 @@
         },
         {
             "ClassName": "m4_plastichndgrd",
-            "MaxPriceThreshold": 2985,
+            "MaxPriceThreshold": 1790,
             "MinPriceThreshold": 1790,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -85,7 +85,7 @@
         },
         {
             "ClassName": "m4_rishndgrd",
-            "MaxPriceThreshold": 2985,
+            "MaxPriceThreshold": 1790,
             "MinPriceThreshold": 1790,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -96,7 +96,7 @@
         },
         {
             "ClassName": "m4_mphndgrd",
-            "MaxPriceThreshold": 2985,
+            "MaxPriceThreshold": 1790,
             "MinPriceThreshold": 1790,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "crossbow_autumn",
-            "MaxPriceThreshold": 930,
-            "MinPriceThreshold": 555,
+            "MaxPriceThreshold": 8500,
+            "MinPriceThreshold": 8500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

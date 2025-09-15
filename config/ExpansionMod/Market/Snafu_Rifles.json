@@ -8,8 +8,8 @@
   "Items": [
     {
       "ClassName": "GCGN_M700",
-      "MaxPriceThreshold": 8000,
-      "MinPriceThreshold": 7000,
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 11500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -19,8 +19,8 @@
     },
     {
       "ClassName": "SNAFU_CALI_GUN",
-      "MaxPriceThreshold": 8000,
-      "MinPriceThreshold": 7000,
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 11500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -30,8 +30,8 @@
     },
     {
       "ClassName": "SNAFU_M14",
-      "MaxPriceThreshold": 8000,
-      "MinPriceThreshold": 7000,
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 11500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -41,8 +41,8 @@
     },
     {
       "ClassName": "SNAFU_SKS",
-      "MaxPriceThreshold": 8000,
-      "MinPriceThreshold": 7000,
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 11500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -52,8 +52,8 @@
     },
     {
       "ClassName": "SNAFUM1A_Black",
-      "MaxPriceThreshold": 8000,
-      "MinPriceThreshold": 7000,
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 11500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -66,8 +66,8 @@
     },
     {
       "ClassName": "SNAFUMarlin1895",
-      "MaxPriceThreshold": 8000,
-      "MinPriceThreshold": 7000,
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 11500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -77,8 +77,8 @@
     },
     {
       "ClassName": "SNAFU_M48",
-      "MaxPriceThreshold": 8000,
-      "MinPriceThreshold": 7000,
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 11500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,

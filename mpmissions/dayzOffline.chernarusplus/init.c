@@ -85,8 +85,8 @@ class CustomMission: MissionServer
     void InitPlayerWhitelist()
     {
         // ADMIN MEMBERS: Replace with actual IDs
-        adminMembers.Insert("");
-        adminMembers.Insert("");
+        adminMembers.Insert("76561199205606578");
+        adminMembers.Insert("76561199569546626");
 
         // MODERATOR MEMBERS
         modMembers.Insert("ReplaceWithUniqueID");

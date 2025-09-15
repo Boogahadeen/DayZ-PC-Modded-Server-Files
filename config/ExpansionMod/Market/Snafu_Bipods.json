@@ -8,8 +8,8 @@
   "Items": [
     {
       "ClassName": "SNAFU_Bipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "MaxPriceThreshold": 1800,
+      "MinPriceThreshold": 3200,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -19,8 +19,8 @@
     },
     {
       "ClassName": "SNAFU_PKPBIPOD",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "MaxPriceThreshold": 1800,
+      "MinPriceThreshold": 3200,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -30,8 +30,8 @@
     },
     {
       "ClassName": "SNAFU_NPKPBIPOD",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "MaxPriceThreshold": 1800,
+      "MinPriceThreshold": 3200,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -41,8 +41,8 @@
     },
     {
       "ClassName": "SNAFU_AtlasBipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "MaxPriceThreshold": 1800,
+      "MinPriceThreshold": 3200,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -52,8 +52,8 @@
     },
     {
       "ClassName": "SNAFU_ModBipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "MaxPriceThreshold": 1800,
+      "MinPriceThreshold": 3200,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -63,8 +63,8 @@
     },
     {
       "ClassName": "SNAFU_VSSKbipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "MaxPriceThreshold": 1800,
+      "MinPriceThreshold": 3200,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -74,8 +74,8 @@
     },
     {
       "ClassName": "SNAFU_M249Bipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "MaxPriceThreshold": 1800,
+      "MinPriceThreshold": 3200,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,
@@ -85,8 +85,8 @@
     },
     {
       "ClassName": "SNAFU_M200B_BK",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "MaxPriceThreshold": 1800,
+      "MinPriceThreshold": 3200,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 100,

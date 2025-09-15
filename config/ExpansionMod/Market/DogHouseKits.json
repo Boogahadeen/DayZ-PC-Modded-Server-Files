@@ -9,7 +9,7 @@
         {
             "ClassName": "dog_shed_small_kit",
             "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 9500,
+            "MinPriceThreshold": 10000,
             "SellPricePercent": 100,
             "MaxStockThreshold": 50,
             "MinStockThreshold": 50,
@@ -20,7 +20,7 @@
         {
             "ClassName": "dog_shed_big_kit",
             "MaxPriceThreshold": 15000,
-            "MinPriceThreshold": 12000,
+            "MinPriceThreshold": 15000,
             "SellPricePercent": 100,
             "MaxStockThreshold": 50,
             "MinStockThreshold": 50,

@@ -7,17 +7,6 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "easteregg",
-            "MaxPriceThreshold": 510,
-            "MinPriceThreshold": 305,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 250,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "crookednose",
             "MaxPriceThreshold": 1800,
             "MinPriceThreshold": 1080,
@@ -140,51 +129,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "anniversarybox",
-            "MaxPriceThreshold": 660,
-            "MinPriceThreshold": 395,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "anniversary_fireworkslauncher",
-            "MaxPriceThreshold": 335,
-            "MinPriceThreshold": 200,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "giftbox_large_1",
-            "MaxPriceThreshold": 465,
-            "MinPriceThreshold": 280,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "giftbox_large_2",
-                "giftbox_large_3",
-                "giftbox_large_4",
-                "giftbox_medium_1",
-                "giftbox_medium_2",
-                "giftbox_medium_3",
-                "giftbox_medium_4",
-                "giftbox_small_1",
-                "giftbox_small_2",
-                "giftbox_small_3",
-                "giftbox_small_4"
-            ]
         }
     ]
 }
