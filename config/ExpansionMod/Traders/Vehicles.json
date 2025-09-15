@@ -17,7 +17,8 @@
         "Batteries:3",
         "RusFormaMilitary",
         "RusForma_Cars",
-        "RusForma_Trucks"
+        "RusForma_Trucks",
+        "RusFormaOther"
     ],
     "Items": {}
 }

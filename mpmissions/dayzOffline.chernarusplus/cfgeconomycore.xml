@@ -83,7 +83,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="BreachingChargeTypes.xml" type="types" />
 		<file name="dogtags_types.xml" type="types" />
 		<file name="dog_types.xml" type="types" />
-		<file name="CJ187_NVGtypes.xml" type="types" />
 
 
 	<!--Added SpawnableTypes-->

@@ -1,0 +1,75 @@
+15:44:10.685 [Expansion Quests] Objective with ID=1 (Type=TARGET) is set to inactive. Skip adding objective..
+15:44:10.686 [Expansion Quests] Objective with ID=2 (Type=TARGET) is set to inactive. Skip adding objective..
+15:44:10.687 [Expansion Quests] Objective with ID=3 (Type=TARGET) is set to inactive. Skip adding objective..
+15:44:10.688 [Expansion Quests] Objective with ID=4 (Type=TARGET) is set to inactive. Skip adding objective..
+15:44:10.732 [Expansion Quests] Objective with ID=1 (Type=AIESCORT) is set to inactive. Skip adding objective..
+15:44:10.733 [Expansion Quests] Objective with ID=2 (Type=AIESCORT) is set to inactive. Skip adding objective..
+15:49:56.173 [MissionAirdrop] An airdrop is heading towards "Chernogorsk" (pos=<6128.000000, 0.000000, 2497.000000> type=Random_Chernogorsk) with a ExpansionAirdropContainer_Medical
+15:57:48.299 [Safezone] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<3699.02, 402.02, 5975.43>) entered the safezone
+15:57:48.307 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) joined the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+15:57:48.309 [Expansion Quests] Initialize quest system on the connected client with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.333 [Expansion Quests] Loaded existing player quest data for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.335 [Expansion Quests] Loaded existing group quest data for group with ID=0
+15:57:48.335 [Expansion Quests] Check quest initialization for quest with ID=5 | State=NONE | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.336 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.336 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.339 [Expansion Quests] Check quest initialization for quest with ID=9 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.339 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.339 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.341 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.342 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.342 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.343 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.343 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.343 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.344 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.344 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.344 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.344 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.345 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.345 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.346 [Expansion Quests] Quest with ID=400 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.346 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.346 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.347 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.347 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.347 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.348 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.348 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.348 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.348 [Expansion Quests] Quest with ID=800 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.349 [Expansion Quests] Quest with ID=801 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.349 [Expansion Quests] Quest with ID=802 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.350 [Expansion Quests] Quest with ID=803 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.350 [Expansion Quests] Quest with ID=300 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.350 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.351 [Expansion Quests] Quest with ID=500 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.351 [Expansion Quests] Quest with ID=501 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.351 [Expansion Quests] Quest with ID=502 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.352 [Expansion Quests] Quest with ID=503 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.352 [Expansion Quests] Quest with ID=504 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.353 [Expansion Quests] Quest with ID=505 is not a a valid achievement or auto start quest. Skip quest for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.355 [Expansion Quests] Sending bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= quest configs to client for player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.358 [Expansion Quests] Sending player quest data for 5 quests to player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=
+15:57:48.368 [AI Patrol 00040] Spawning 1 Raiders bots at <4486.915039, 298.828766, 6156.219238>
+15:57:48.457 [AI Patrol 00040] Global patrol count: 1
+15:57:48.458 [AI Patrol 00040] Patrol category patrol count: 1
+15:57:48.458 [AI Patrol 00039] Spawning 2 Raiders bots at <4072.536377, 325.549133, 5491.713379>
+15:57:48.520 [AI Patrol 00039] Global patrol count: 2
+15:57:48.520 [AI Patrol 00039] Patrol category patrol count: 2
+15:57:49.112 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+15:58:33.860 [AI Object Patrol 00017] Spawning 2 Raiders bots at <12072.947266, 144.230438, 12531.152344>
+15:58:33.919 [AI Object Patrol 00017] Global patrol count: 3
+15:58:33.920 [AI Object Patrol 00017] ObjectPatrol category patrol count: 1
+15:58:33.920 [AI Object Patrol 00016] Spawning 2 Raiders bots at <12151.587891, 140.000000, 12861.594727>
+15:58:33.979 [AI Object Patrol 00016] Global patrol count: 4
+15:58:33.980 [AI Object Patrol 00016] ObjectPatrol category patrol count: 2
+15:58:44.978 [Safezone] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0= pos=<11584.6, 146.58, 12530>) left the safezone
+16:04:32.935 [Killfeed] AI Maria (Raiders) got killed by AI Irena (Raiders) with AUR A1 from a distance of 52 m.
+16:06:38.556 [Killfeed] AI Gabi (Raiders) got killed by AI Irena (Raiders) with AUR A1 from a distance of 55 m.
+16:06:42.099 [AI Object Patrol 00017] Raiders bots were wiped out (spawn position <12072.947266, 144.230438, 12531.152344>, 2/2 deceased)
+16:06:42.099 [AI Object Patrol 00017] Global patrol count: 3
+16:06:42.100 [AI Object Patrol 00017] ObjectPatrol category patrol count: 1
+16:08:07.052 [Party] Player "Boogahadeen" (id=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=) left the party "ATG" (id=0 ownerUID=0ROjOu34qUpKfk3o_KbpKS2xSbFfZ9nDCrc2879VWQY= ownerName=Phill_Swift)
+16:08:07.055 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.
+16:08:07.055 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=bJ4c7QoLlNcMFFuJioBGdjLTBsBdyGqIZNFZF3YMlt0=.

@@ -1,4 +1,11 @@
-[
+{
+  "m_Version": 12,
+  "DisplayName": "RUSForma Trucks",
+  "Icon": "Car",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
     {
         "ClassName": "GAZ_12",
         "MaxPriceThreshold": 25000,
@@ -1138,30 +1145,6 @@
             "ZIL_130_ac40_wheel"
         ],
         "Variants": []
-    },
-    {
-        "ClassName": "ZiS5_Benzovoz",
-        "MaxPriceThreshold": 100000,
-        "MinPriceThreshold": 100000,
-        "SellPricePercent": -1,
-        "MaxStockThreshold": 1,
-        "MinStockThreshold": 1,
-        "QuantityPercent": -1,
-        "SpawnAttachments": [
-            "HeadlightH7",
-            "HeadlightH7",
-            "CarRadiator",
-            "TruckBattery",
-            "SparkPlug",
-            "ZiS5_Benzovoz_wheel",
-            "ZiS5_Benzovoz_wheel",
-            "ZiS5_Benzovoz_WheelDouble",
-            "ZiS5_Benzovoz_WheelDouble",
-            "ZiS5_Benzovoz_doors_driver",
-            "ZiS5_Benzovoz_doors_codriver",
-            "ZiS5_Benzovoz_doors_hood",
-            "ZiS5_Benzovoz_wheel"
-        ],
-        "Variants": []
     }
 ]
+}
