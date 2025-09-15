@@ -1,17 +1,18 @@
-I made this for people to pick and use what they want from my files. Nobody else did it, so here it is. 
-DayZ Expansion Base Builder Plus & Loot Overhaul
+I made this for people to pick and use what they want from my files, I will update as I complete more. Nobody else did it, so here it is. 
 
-Enhances DayZ Expansion with full compatibility for Base Builder Plus and Breeching Charge, creating a dynamic survival experience. Features include:
+DayZ Expansion Mod with full compatibility for Base Builder Plus and Breeching Charge
 
 Doors only raiding on weekends.
 
-Fully configured Black Market with reworked prices.
+Fully configured Black Market with reworked prices, cars and some of vanilla prices(will update is I along).
 
 DNA Keycards & Airdrops integrated with MMG Clothing, CannabisPLUS, Cl0uds Military Gear, & Snafu Weapons.
 
 Smol Containers with random tiered loot, including Cannabis Packs.
 
 Zombie & AI loot: chance for Pokemon Cards, MegaFood Mod items, and money.
+
+All extra carparts removed from the map, and vanilla items except for ammo and gun attatchments. 
 
 Boss encounters: AJS creatures spawn at DNA Strongrooms with valuable loot.
 
